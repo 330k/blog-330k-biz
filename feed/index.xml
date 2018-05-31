@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>金融エンジニアの屁理屈ブログ</title>
+	<atom:link href="https://blog.330k.biz/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog.330k.biz/</link>
+	<description>製造業から金融業にエンジニアとして転職。 業界人たちとの価値観の違いを感じたこと。</description>
+	<lastBuildDate>Wed, 30 May 2018 17:00:49 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<item>
+		<title>「『銀行はもうすぐ終わる』という安易な未来予測が見落としていること」を読んで</title>
+		<link>https://blog.330k.biz/2018/05/31/%e3%80%8c%e3%80%8e%e9%8a%80%e8%a1%8c%e3%81%af%e3%82%82%e3%81%86%e3%81%99%e3%81%90%e7%b5%82%e3%82%8f%e3%82%8b%e3%80%8f%e3%81%a8%e3%81%84%e3%81%86%e5%ae%89%e6%98%93%e3%81%aa%e6%9c%aa%e6%9d%a5%e4%ba%88/</link>
+		<pubDate>Wed, 30 May 2018 17:00:49 +0000</pubDate>
+		<dc:creator><![CDATA[330k]]></dc:creator>
+				<category><![CDATA[金融]]></category>
+
+		<guid isPermaLink="false">https://blog.330k.biz/?p=31</guid>
+		<description><![CDATA[元記事 :「銀行はもうすぐ終わる」という安易な未来予測が見落としていること この人の文章、ツッコミどころ満載なのだが、 文章がわかりにくいためにツッコみにくい。 話題があっちこっちに飛びすぎていて(頑張って勉強したであろ &#8230; <a href="https://blog.330k.biz/2018/05/31/%e3%80%8c%e3%80%8e%e9%8a%80%e8%a1%8c%e3%81%af%e3%82%82%e3%81%86%e3%81%99%e3%81%90%e7%b5%82%e3%82%8f%e3%82%8b%e3%80%8f%e3%81%a8%e3%81%84%e3%81%86%e5%ae%89%e6%98%93%e3%81%aa%e6%9c%aa%e6%9d%a5%e4%ba%88/" class="more-link"><span class="screen-reader-text">"「『銀行はもうすぐ終わる』という安易な未来予測が見落としていること」を読んで" の</span>続きを読む</a>]]></description>
+				<content:encoded><![CDATA[<p>元記事 :<a href="http://gendai.ismedia.jp/articles/-/55846" target="_blank" rel="noopener">「銀行はもうすぐ終わる」という安易な未来予測が見落としていること</a></p>
+<p>この人の文章、ツッコミどころ満載なのだが、<br />
+文章がわかりにくいためにツッコみにくい。</p>
+<p>話題があっちこっちに飛びすぎていて(頑張って勉強したであろうことはわかる)、<br />
+個々の事柄に理解が浅く、結論に至るまでの論理がなってない。</p>
+<blockquote><p>そして、オープンAPI（Application Programing. Interface）で情報の共有も始まる。これはあたかも１つのインフラとなっていくようなものである。</p></blockquote>
+<p>「APIで情報の共有」という表現をするのは理解が足りない証拠。</p>
+<p>APIというのは名前の通り、情報へのインターフェースであって、情報そのものではない。<br />
+だから、情報の「共同利用」が可能になるのであって、情報自体を共有するわけではない。</p>
+<blockquote><p>しかし、この電子化もスピードが速すぎると、ついてこれない利用者も出てくる、電子化が進んでいる北欧スウェーデンでは商店が現金の取り扱いをしなくなってきたために、年配の方が日常品の売買が出来なくなっている。そのため、電子化といっても、そのスピードも大事になって来る。</p></blockquote>
+<p>この段落の結論は「電子化のスピードが大事になってくる」ということになるのだが、<br />
+スピードを早めるべきか(一刻も早く電子化して年配者にも十分な教育の時間を作る)、<br />
+それとも遅くするべきか(ついてこれない年配者が死ぬまでは電子化しない)、<br />
+ちゃんと書かないと論評になってないだろう。</p>
+<blockquote><p>もっとも、重要なのは「集中化」である。銀行など金融機関をはじめとして、進んでいるのは分散化ではなく、集中化である。集中化してクラウド化するのが最近のインフラの流れである。</p></blockquote>
+<p>銀行システムはメインフレームの時代から、「集中」の最たるものなのだが、知らないのだろうか？</p>
+<blockquote><p>また、集中化してクラウド化することのメリットとして、最近事件が多いハッキングやサイバー攻撃などの問題に対応できることがある。</p></blockquote>
+<p>これは何を言っているのかわからない。<br />
+集中システムでは中央ノードが死ぬとシステム全部が死ぬし、中央ノードの制御を奪われたら終わりである。</p>
+<p>「最近事件が多いハッキングやサイバー攻撃などの問題」というのもほとんどは標的が集中システムである。</p>
+<blockquote><p>銀行に最後に残される価値は「信用」ではないかと考えている。</p></blockquote>
+<blockquote><p>銀行はしっかりとやってくれるという、任せていて大丈夫という基本的な「信用」こそ経営的価値になっていく。</p></blockquote>
+<p>「信用」に至る論理がそれまで書かれておらず、突飛だ。<br />
+しかも曖昧な表現の文章が続く。</p>
+<p>その「信用」についても、銀行に務める人間より、(計算ミスや横領しない)システムが担保しているだろう。<br />
+(人間は悪意を持って不正を働くが、現在の機械は働かない)</p>
+<p>信用を失った銀行は潰れるだろうが、逆に信用があるからといって生き残れるとは限らない。<br />
+これは筆者自身がこの記事の前段に述べていることだ。</p>
+<blockquote><p>公的機関（国や地方の公共団体）もニーズがある。基本的に巨額の財政赤字を抱えており、経営的な改善が望まれているからである。</p></blockquote>
+<blockquote><p>この点で「しっかりやる人材」としての銀行員は評価されるものなのである。</p></blockquote>
+<p>これも最初に読んで意味不明だった。「しっかりやる人材」が巨額の財政赤字を解決できるのだろうか？</p>
+<p>筆者はそれまでの文章で以下のように対比してきた。</p>
+<ul>
+<li>今後は起業時から銀行が支援するので、銀行員には今までの仕事とは違う能力が求められる</li>
+<li>これに対し、今までの銀行員も、「しっかりやる人材」として信用が評価される</li>
+</ul>
+<p>なので、公的機関からニーズがあるのは、今までの仕事とは違う能力を持った銀行員であり、正反対である。</p>
+<p>筆者自身混乱しているのがわかる。</p>
+<p>ニュースを広く集めているのはよくわかるので、もう少し理解を深めていただきたい。<br />
+(なんかできない学生へのアドバイスみたいだ)</p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fblog.330k.biz%2F2018%2F05%2F31%2F%25e3%2580%258c%25e3%2580%258e%25e9%258a%2580%25e8%25a1%258c%25e3%2581%25af%25e3%2582%2582%25e3%2581%2586%25e3%2581%2599%25e3%2581%2590%25e7%25b5%2582%25e3%2582%258f%25e3%2582%258b%25e3%2580%258f%25e3%2581%25a8%25e3%2581%2584%25e3%2581%2586%25e5%25ae%2589%25e6%2598%2593%25e3%2581%25aa%25e6%259c%25aa%25e6%259d%25a5%25e4%25ba%2588%2F&amp;linkname=%E3%80%8C%E3%80%8E%E9%8A%80%E8%A1%8C%E3%81%AF%E3%82%82%E3%81%86%E3%81%99%E3%81%90%E7%B5%82%E3%82%8F%E3%82%8B%E3%80%8F%E3%81%A8%E3%81%84%E3%81%86%E5%AE%89%E6%98%93%E3%81%AA%E6%9C%AA%E6%9D%A5%E4%BA%88%E6%B8%AC%E3%81%8C%E8%A6%8B%E8%90%BD%E3%81%A8%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%93%E3%81%A8%E3%80%8D%E3%82%92%E8%AA%AD%E3%82%93%E3%81%A7" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fblog.330k.biz%2F2018%2F05%2F31%2F%25e3%2580%258c%25e3%2580%258e%25e9%258a%2580%25e8%25a1%258c%25e3%2581%25af%25e3%2582%2582%25e3%2581%2586%25e3%2581%2599%25e3%2581%2590%25e7%25b5%2582%25e3%2582%258f%25e3%2582%258b%25e3%2580%258f%25e3%2581%25a8%25e3%2581%2584%25e3%2581%2586%25e5%25ae%2589%25e6%2598%2593%25e3%2581%25aa%25e6%259c%25aa%25e6%259d%25a5%25e4%25ba%2588%2F&amp;linkname=%E3%80%8C%E3%80%8E%E9%8A%80%E8%A1%8C%E3%81%AF%E3%82%82%E3%81%86%E3%81%99%E3%81%90%E7%B5%82%E3%82%8F%E3%82%8B%E3%80%8F%E3%81%A8%E3%81%84%E3%81%86%E5%AE%89%E6%98%93%E3%81%AA%E6%9C%AA%E6%9D%A5%E4%BA%88%E6%B8%AC%E3%81%8C%E8%A6%8B%E8%90%BD%E3%81%A8%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%93%E3%81%A8%E3%80%8D%E3%82%92%E8%AA%AD%E3%82%93%E3%81%A7" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fblog.330k.biz%2F2018%2F05%2F31%2F%25e3%2580%258c%25e3%2580%258e%25e9%258a%2580%25e8%25a1%258c%25e3%2581%25af%25e3%2582%2582%25e3%2581%2586%25e3%2581%2599%25e3%2581%2590%25e7%25b5%2582%25e3%2582%258f%25e3%2582%258b%25e3%2580%258f%25e3%2581%25a8%25e3%2581%2584%25e3%2581%2586%25e5%25ae%2589%25e6%2598%2593%25e3%2581%25aa%25e6%259c%25aa%25e6%259d%25a5%25e4%25ba%2588%2F&amp;linkname=%E3%80%8C%E3%80%8E%E9%8A%80%E8%A1%8C%E3%81%AF%E3%82%82%E3%81%86%E3%81%99%E3%81%90%E7%B5%82%E3%82%8F%E3%82%8B%E3%80%8F%E3%81%A8%E3%81%84%E3%81%86%E5%AE%89%E6%98%93%E3%81%AA%E6%9C%AA%E6%9D%A5%E4%BA%88%E6%B8%AC%E3%81%8C%E8%A6%8B%E8%90%BD%E3%81%A8%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%93%E3%81%A8%E3%80%8D%E3%82%92%E8%AA%AD%E3%82%93%E3%81%A7" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fblog.330k.biz%2F2018%2F05%2F31%2F%25e3%2580%258c%25e3%2580%258e%25e9%258a%2580%25e8%25a1%258c%25e3%2581%25af%25e3%2582%2582%25e3%2581%2586%25e3%2581%2599%25e3%2581%2590%25e7%25b5%2582%25e3%2582%258f%25e3%2582%258b%25e3%2580%258f%25e3%2581%25a8%25e3%2581%2584%25e3%2581%2586%25e5%25ae%2589%25e6%2598%2593%25e3%2581%25aa%25e6%259c%25aa%25e6%259d%25a5%25e4%25ba%2588%2F&amp;title=%E3%80%8C%E3%80%8E%E9%8A%80%E8%A1%8C%E3%81%AF%E3%82%82%E3%81%86%E3%81%99%E3%81%90%E7%B5%82%E3%82%8F%E3%82%8B%E3%80%8F%E3%81%A8%E3%81%84%E3%81%86%E5%AE%89%E6%98%93%E3%81%AA%E6%9C%AA%E6%9D%A5%E4%BA%88%E6%B8%AC%E3%81%8C%E8%A6%8B%E8%90%BD%E3%81%A8%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%93%E3%81%A8%E3%80%8D%E3%82%92%E8%AA%AD%E3%82%93%E3%81%A7" data-a2a-url="https://blog.330k.biz/2018/05/31/%e3%80%8c%e3%80%8e%e9%8a%80%e8%a1%8c%e3%81%af%e3%82%82%e3%81%86%e3%81%99%e3%81%90%e7%b5%82%e3%82%8f%e3%82%8b%e3%80%8f%e3%81%a8%e3%81%84%e3%81%86%e5%ae%89%e6%98%93%e3%81%aa%e6%9c%aa%e6%9d%a5%e4%ba%88/" data-a2a-title="「『銀行はもうすぐ終わる』という安易な未来予測が見落としていること」を読んで"></a></p>]]></content:encoded>
+			</item>
+		<item>
+		<title>所有物にステータス性を求めることは「価値観」か？</title>
+		<link>https://blog.330k.biz/2018/02/24/%e6%89%80%e6%9c%89%e7%89%a9%e3%81%ab%e3%82%b9%e3%83%86%e3%83%bc%e3%82%bf%e3%82%b9%e6%80%a7%e3%82%92%e6%b1%82%e3%82%81%e3%82%8b%e3%81%93%e3%81%a8%e3%81%af%e3%80%8c%e4%be%a1%e5%80%a4%e8%a6%b3%e3%80%8d/</link>
+		<pubDate>Fri, 23 Feb 2018 23:09:13 +0000</pubDate>
+		<dc:creator><![CDATA[330k]]></dc:creator>
+				<category><![CDATA[金融]]></category>
+
+		<guid isPermaLink="false">https://blog.330k.biz/?p=27</guid>
+		<description><![CDATA[自動車やクレジットカード、時計やバッグなどのブランド品といったものを所有することにステータスを求める人は、減ってきているらしいがある程度の数が存在する。 「個々人の価値観なので人それぞれあっていい」というのは建前上は理解 &#8230; <a href="https://blog.330k.biz/2018/02/24/%e6%89%80%e6%9c%89%e7%89%a9%e3%81%ab%e3%82%b9%e3%83%86%e3%83%bc%e3%82%bf%e3%82%b9%e6%80%a7%e3%82%92%e6%b1%82%e3%82%81%e3%82%8b%e3%81%93%e3%81%a8%e3%81%af%e3%80%8c%e4%be%a1%e5%80%a4%e8%a6%b3%e3%80%8d/" class="more-link"><span class="screen-reader-text">"所有物にステータス性を求めることは「価値観」か？" の</span>続きを読む</a>]]></description>
+				<content:encoded><![CDATA[<p>自動車やクレジットカード、時計やバッグなどのブランド品といったものを所有することにステータスを求める人は、減ってきているらしいがある程度の数が存在する。</p>
+<p>「個々人の価値観なので人それぞれあっていい」というのは建前上は理解しているが、本当にそれは「価値観」と呼べるものなのだろうか？</p>
+<p>ステータス性を求める人はブランド商品を購入するとき、「〇〇万円の時計を買う」のように表現する。これが「デザインが好き」という理由で買っているならば自分の価値観による判断が下されているのだが、「高いから」と価格で買っている。価格を決めているのはメーカや販売店であり、また「価格≠価値」なので、要するに自分の価値観による判断が入っていない。</p>
+<p>また、購入したブランド商品が効果を発揮するのは、他人に見られるときである。「このブランドは高級品だ、これを所有する人は金持ちだろう」という判断をされることを期待している。だが、当然ながら、見るのは他人であって自分ではない。ここでも自分の価値観による判断は入らない。相手は相手本人の価値観でそのブランドを判断する。</p>
+<p>以上のように、ステータス性のある商品を「所有する→他人に見られる→他人が自分のことを評価する」という一連の流れで、「自分の価値観による判断」が絡む場面が見つからない。</p>
+<p>まとめると、所有物にステータス性を求める人は、<strong>「自分の価値観による判断をしないことが自分の価値観」</strong>という価値観を持っている。</p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fblog.330k.biz%2F2018%2F02%2F24%2F%25e6%2589%2580%25e6%259c%2589%25e7%2589%25a9%25e3%2581%25ab%25e3%2582%25b9%25e3%2583%2586%25e3%2583%25bc%25e3%2582%25bf%25e3%2582%25b9%25e6%2580%25a7%25e3%2582%2592%25e6%25b1%2582%25e3%2582%2581%25e3%2582%258b%25e3%2581%2593%25e3%2581%25a8%25e3%2581%25af%25e3%2580%258c%25e4%25be%25a1%25e5%2580%25a4%25e8%25a6%25b3%25e3%2580%258d%2F&amp;linkname=%E6%89%80%E6%9C%89%E7%89%A9%E3%81%AB%E3%82%B9%E3%83%86%E3%83%BC%E3%82%BF%E3%82%B9%E6%80%A7%E3%82%92%E6%B1%82%E3%82%81%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AF%E3%80%8C%E4%BE%A1%E5%80%A4%E8%A6%B3%E3%80%8D%E3%81%8B%EF%BC%9F" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fblog.330k.biz%2F2018%2F02%2F24%2F%25e6%2589%2580%25e6%259c%2589%25e7%2589%25a9%25e3%2581%25ab%25e3%2582%25b9%25e3%2583%2586%25e3%2583%25bc%25e3%2582%25bf%25e3%2582%25b9%25e6%2580%25a7%25e3%2582%2592%25e6%25b1%2582%25e3%2582%2581%25e3%2582%258b%25e3%2581%2593%25e3%2581%25a8%25e3%2581%25af%25e3%2580%258c%25e4%25be%25a1%25e5%2580%25a4%25e8%25a6%25b3%25e3%2580%258d%2F&amp;linkname=%E6%89%80%E6%9C%89%E7%89%A9%E3%81%AB%E3%82%B9%E3%83%86%E3%83%BC%E3%82%BF%E3%82%B9%E6%80%A7%E3%82%92%E6%B1%82%E3%82%81%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AF%E3%80%8C%E4%BE%A1%E5%80%A4%E8%A6%B3%E3%80%8D%E3%81%8B%EF%BC%9F" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fblog.330k.biz%2F2018%2F02%2F24%2F%25e6%2589%2580%25e6%259c%2589%25e7%2589%25a9%25e3%2581%25ab%25e3%2582%25b9%25e3%2583%2586%25e3%2583%25bc%25e3%2582%25bf%25e3%2582%25b9%25e6%2580%25a7%25e3%2582%2592%25e6%25b1%2582%25e3%2582%2581%25e3%2582%258b%25e3%2581%2593%25e3%2581%25a8%25e3%2581%25af%25e3%2580%258c%25e4%25be%25a1%25e5%2580%25a4%25e8%25a6%25b3%25e3%2580%258d%2F&amp;linkname=%E6%89%80%E6%9C%89%E7%89%A9%E3%81%AB%E3%82%B9%E3%83%86%E3%83%BC%E3%82%BF%E3%82%B9%E6%80%A7%E3%82%92%E6%B1%82%E3%82%81%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AF%E3%80%8C%E4%BE%A1%E5%80%A4%E8%A6%B3%E3%80%8D%E3%81%8B%EF%BC%9F" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fblog.330k.biz%2F2018%2F02%2F24%2F%25e6%2589%2580%25e6%259c%2589%25e7%2589%25a9%25e3%2581%25ab%25e3%2582%25b9%25e3%2583%2586%25e3%2583%25bc%25e3%2582%25bf%25e3%2582%25b9%25e6%2580%25a7%25e3%2582%2592%25e6%25b1%2582%25e3%2582%2581%25e3%2582%258b%25e3%2581%2593%25e3%2581%25a8%25e3%2581%25af%25e3%2580%258c%25e4%25be%25a1%25e5%2580%25a4%25e8%25a6%25b3%25e3%2580%258d%2F&amp;title=%E6%89%80%E6%9C%89%E7%89%A9%E3%81%AB%E3%82%B9%E3%83%86%E3%83%BC%E3%82%BF%E3%82%B9%E6%80%A7%E3%82%92%E6%B1%82%E3%82%81%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AF%E3%80%8C%E4%BE%A1%E5%80%A4%E8%A6%B3%E3%80%8D%E3%81%8B%EF%BC%9F" data-a2a-url="https://blog.330k.biz/2018/02/24/%e6%89%80%e6%9c%89%e7%89%a9%e3%81%ab%e3%82%b9%e3%83%86%e3%83%bc%e3%82%bf%e3%82%b9%e6%80%a7%e3%82%92%e6%b1%82%e3%82%81%e3%82%8b%e3%81%93%e3%81%a8%e3%81%af%e3%80%8c%e4%be%a1%e5%80%a4%e8%a6%b3%e3%80%8d/" data-a2a-title="所有物にステータス性を求めることは「価値観」か？"></a></p>]]></content:encoded>
+			</item>
+		<item>
+		<title>欲望と資本主義の限界</title>
+		<link>https://blog.330k.biz/2018/02/18/%e6%ac%b2%e6%9c%9b%e3%81%a8%e8%b3%87%e6%9c%ac%e4%b8%bb%e7%be%a9%e3%81%ae%e9%99%90%e7%95%8c/</link>
+		<pubDate>Sun, 18 Feb 2018 11:23:52 +0000</pubDate>
+		<dc:creator><![CDATA[330k]]></dc:creator>
+				<category><![CDATA[金融]]></category>
+
+		<guid isPermaLink="false">https://blog.330k.biz/?p=22</guid>
+		<description><![CDATA[人間の欲望と経済システムという観点で見たとき、共産主義および社会主義は人間の欲望を抑圧することで社会は良くなると考えたシステムで、資本主義は人間の欲望のままに動かすほうが社会は良くなると考えたシステムである。 資本主義経 &#8230; <a href="https://blog.330k.biz/2018/02/18/%e6%ac%b2%e6%9c%9b%e3%81%a8%e8%b3%87%e6%9c%ac%e4%b8%bb%e7%be%a9%e3%81%ae%e9%99%90%e7%95%8c/" class="more-link"><span class="screen-reader-text">"欲望と資本主義の限界" の</span>続きを読む</a>]]></description>
+				<content:encoded><![CDATA[<p>人間の欲望と経済システムという観点で見たとき、共産主義および社会主義は人間の欲望を抑圧することで社会は良くなると考えたシステムで、資本主義は人間の欲望のままに動かすほうが社会は良くなると考えたシステムである。</p>
+<p>資本主義経済は、その発展のためには人間の欲望を増幅させていく必要がある宿命を持つ。</p>
+<p>「人間の欲には限りがない」とはよく言われるが、本当に人間は「無限の欲望」を持つことができるだろうか。</p>
+<p>一般に人間の脳の情報処理能力は有限であり、したがって認識能力には限度がある。したがって欲望もまた「人間の認識能力の限界」という上界を持つ。(認識能力以上のものは欲として認識できない)</p>
+<p>ということは、(現在の)資本主義も限界がある、という結論に至る。</p>
+<p>遠い未来かもしれないが、資本主義経済の限界に差し掛かったとき、人間の欲望に依存しない経済システムを作り出せるだろうか。AIが作る経済システムがどうなるのか、興味がある。</p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fblog.330k.biz%2F2018%2F02%2F18%2F%25e6%25ac%25b2%25e6%259c%259b%25e3%2581%25a8%25e8%25b3%2587%25e6%259c%25ac%25e4%25b8%25bb%25e7%25be%25a9%25e3%2581%25ae%25e9%2599%2590%25e7%2595%258c%2F&amp;linkname=%E6%AC%B2%E6%9C%9B%E3%81%A8%E8%B3%87%E6%9C%AC%E4%B8%BB%E7%BE%A9%E3%81%AE%E9%99%90%E7%95%8C" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fblog.330k.biz%2F2018%2F02%2F18%2F%25e6%25ac%25b2%25e6%259c%259b%25e3%2581%25a8%25e8%25b3%2587%25e6%259c%25ac%25e4%25b8%25bb%25e7%25be%25a9%25e3%2581%25ae%25e9%2599%2590%25e7%2595%258c%2F&amp;linkname=%E6%AC%B2%E6%9C%9B%E3%81%A8%E8%B3%87%E6%9C%AC%E4%B8%BB%E7%BE%A9%E3%81%AE%E9%99%90%E7%95%8C" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fblog.330k.biz%2F2018%2F02%2F18%2F%25e6%25ac%25b2%25e6%259c%259b%25e3%2581%25a8%25e8%25b3%2587%25e6%259c%25ac%25e4%25b8%25bb%25e7%25be%25a9%25e3%2581%25ae%25e9%2599%2590%25e7%2595%258c%2F&amp;linkname=%E6%AC%B2%E6%9C%9B%E3%81%A8%E8%B3%87%E6%9C%AC%E4%B8%BB%E7%BE%A9%E3%81%AE%E9%99%90%E7%95%8C" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fblog.330k.biz%2F2018%2F02%2F18%2F%25e6%25ac%25b2%25e6%259c%259b%25e3%2581%25a8%25e8%25b3%2587%25e6%259c%25ac%25e4%25b8%25bb%25e7%25be%25a9%25e3%2581%25ae%25e9%2599%2590%25e7%2595%258c%2F&amp;title=%E6%AC%B2%E6%9C%9B%E3%81%A8%E8%B3%87%E6%9C%AC%E4%B8%BB%E7%BE%A9%E3%81%AE%E9%99%90%E7%95%8C" data-a2a-url="https://blog.330k.biz/2018/02/18/%e6%ac%b2%e6%9c%9b%e3%81%a8%e8%b3%87%e6%9c%ac%e4%b8%bb%e7%be%a9%e3%81%ae%e9%99%90%e7%95%8c/" data-a2a-title="欲望と資本主義の限界"></a></p>]]></content:encoded>
+			</item>
+		<item>
+		<title>金融業の人が胡散臭く見えてしまう理由</title>
+		<link>https://blog.330k.biz/2018/02/15/%e9%87%91%e8%9e%8d%e6%a5%ad%e3%81%ae%e4%ba%ba%e3%81%8c%e8%83%a1%e6%95%a3%e8%87%ad%e3%81%8f%e8%a6%8b%e3%81%88%e3%81%a6%e3%81%97%e3%81%be%e3%81%86%e7%90%86%e7%94%b1/</link>
+		<pubDate>Thu, 15 Feb 2018 13:59:07 +0000</pubDate>
+		<dc:creator><![CDATA[330k]]></dc:creator>
+				<category><![CDATA[金融]]></category>
+
+		<guid isPermaLink="false">https://blog.330k.biz/?p=20</guid>
+		<description><![CDATA[慣れてくるとそうでもないし実際違うことも多いのだが、経済や金融に興味を持っていなかった頃、村上ファンドやホリエモンが喋っているところを見ると、どうにも胡散臭く見えていた。 金融に限らず、専門用語を多く使う人は胡散臭く見え &#8230; <a href="https://blog.330k.biz/2018/02/15/%e9%87%91%e8%9e%8d%e6%a5%ad%e3%81%ae%e4%ba%ba%e3%81%8c%e8%83%a1%e6%95%a3%e8%87%ad%e3%81%8f%e8%a6%8b%e3%81%88%e3%81%a6%e3%81%97%e3%81%be%e3%81%86%e7%90%86%e7%94%b1/" class="more-link"><span class="screen-reader-text">"金融業の人が胡散臭く見えてしまう理由" の</span>続きを読む</a>]]></description>
+				<content:encoded><![CDATA[<p>慣れてくるとそうでもないし実際違うことも多いのだが、経済や金融に興味を持っていなかった頃、村上ファンドやホリエモンが喋っているところを見ると、どうにも胡散臭く見えていた。</p>
+<p>金融に限らず、専門用語を多く使う人は胡散臭く見えるものだが、特に経済用語を喋る人は怪しく見える。</p>
+<p>なぜだろうか。</p>
+<p>これは日常用語としても使われる経済用語が、あまり文脈を選ばずに使われているからでないだろうか。</p>
+<p>例えば、「仕事」という用語は物理学でも使うが、物理学者は「労働して働く」のと「物体に力が働く」のははっきり区別してしゃべるし、聞く方もあまりに文脈が違うので混乱することはほとんどない。</p>
+<p>対して、経済学者や経済評論家は「信用」「価値」といった言葉を、経済学の文脈でも、それよりも一般的な「人間を信用する」という意味でもあまり区別せずに使う。</p>
+<p>これは経済というよりは経営に関してしゃべるときに顕著だと思う。</p>
+<p>日常会話にとっては結構重い意味を持つ「信用」や「価値」といった言葉をばんばん使う人は、胡散臭く見えても仕方ない。</p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fblog.330k.biz%2F2018%2F02%2F15%2F%25e9%2587%2591%25e8%259e%258d%25e6%25a5%25ad%25e3%2581%25ae%25e4%25ba%25ba%25e3%2581%258c%25e8%2583%25a1%25e6%2595%25a3%25e8%2587%25ad%25e3%2581%258f%25e8%25a6%258b%25e3%2581%2588%25e3%2581%25a6%25e3%2581%2597%25e3%2581%25be%25e3%2581%2586%25e7%2590%2586%25e7%2594%25b1%2F&amp;linkname=%E9%87%91%E8%9E%8D%E6%A5%AD%E3%81%AE%E4%BA%BA%E3%81%8C%E8%83%A1%E6%95%A3%E8%87%AD%E3%81%8F%E8%A6%8B%E3%81%88%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86%E7%90%86%E7%94%B1" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fblog.330k.biz%2F2018%2F02%2F15%2F%25e9%2587%2591%25e8%259e%258d%25e6%25a5%25ad%25e3%2581%25ae%25e4%25ba%25ba%25e3%2581%258c%25e8%2583%25a1%25e6%2595%25a3%25e8%2587%25ad%25e3%2581%258f%25e8%25a6%258b%25e3%2581%2588%25e3%2581%25a6%25e3%2581%2597%25e3%2581%25be%25e3%2581%2586%25e7%2590%2586%25e7%2594%25b1%2F&amp;linkname=%E9%87%91%E8%9E%8D%E6%A5%AD%E3%81%AE%E4%BA%BA%E3%81%8C%E8%83%A1%E6%95%A3%E8%87%AD%E3%81%8F%E8%A6%8B%E3%81%88%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86%E7%90%86%E7%94%B1" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fblog.330k.biz%2F2018%2F02%2F15%2F%25e9%2587%2591%25e8%259e%258d%25e6%25a5%25ad%25e3%2581%25ae%25e4%25ba%25ba%25e3%2581%258c%25e8%2583%25a1%25e6%2595%25a3%25e8%2587%25ad%25e3%2581%258f%25e8%25a6%258b%25e3%2581%2588%25e3%2581%25a6%25e3%2581%2597%25e3%2581%25be%25e3%2581%2586%25e7%2590%2586%25e7%2594%25b1%2F&amp;linkname=%E9%87%91%E8%9E%8D%E6%A5%AD%E3%81%AE%E4%BA%BA%E3%81%8C%E8%83%A1%E6%95%A3%E8%87%AD%E3%81%8F%E8%A6%8B%E3%81%88%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86%E7%90%86%E7%94%B1" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fblog.330k.biz%2F2018%2F02%2F15%2F%25e9%2587%2591%25e8%259e%258d%25e6%25a5%25ad%25e3%2581%25ae%25e4%25ba%25ba%25e3%2581%258c%25e8%2583%25a1%25e6%2595%25a3%25e8%2587%25ad%25e3%2581%258f%25e8%25a6%258b%25e3%2581%2588%25e3%2581%25a6%25e3%2581%2597%25e3%2581%25be%25e3%2581%2586%25e7%2590%2586%25e7%2594%25b1%2F&amp;title=%E9%87%91%E8%9E%8D%E6%A5%AD%E3%81%AE%E4%BA%BA%E3%81%8C%E8%83%A1%E6%95%A3%E8%87%AD%E3%81%8F%E8%A6%8B%E3%81%88%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86%E7%90%86%E7%94%B1" data-a2a-url="https://blog.330k.biz/2018/02/15/%e9%87%91%e8%9e%8d%e6%a5%ad%e3%81%ae%e4%ba%ba%e3%81%8c%e8%83%a1%e6%95%a3%e8%87%ad%e3%81%8f%e8%a6%8b%e3%81%88%e3%81%a6%e3%81%97%e3%81%be%e3%81%86%e7%90%86%e7%94%b1/" data-a2a-title="金融業の人が胡散臭く見えてしまう理由"></a></p>]]></content:encoded>
+			</item>
+		<item>
+		<title>「価値」と「価格」の混同</title>
+		<link>https://blog.330k.biz/2018/02/15/%e3%80%8c%e4%be%a1%e5%80%a4%e3%80%8d%e3%81%a8%e3%80%8c%e4%be%a1%e6%a0%bc%e3%80%8d%e3%81%ae%e6%b7%b7%e5%90%8c/</link>
+		<pubDate>Thu, 15 Feb 2018 11:38:12 +0000</pubDate>
+		<dc:creator><![CDATA[330k]]></dc:creator>
+				<category><![CDATA[金融]]></category>
+
+		<guid isPermaLink="false">https://blog.330k.biz/?p=7</guid>
+		<description><![CDATA[経済では「価値(value)」という言葉がよく出てくる。またそれと同じくらい「価格(price)」という言葉もよく使う。 翻訳の歴史などもあるだろうが、かなり混同されている気がする。 &#160; 「金銭にならない価値」 &#8230; <a href="https://blog.330k.biz/2018/02/15/%e3%80%8c%e4%be%a1%e5%80%a4%e3%80%8d%e3%81%a8%e3%80%8c%e4%be%a1%e6%a0%bc%e3%80%8d%e3%81%ae%e6%b7%b7%e5%90%8c/" class="more-link"><span class="screen-reader-text">"「価値」と「価格」の混同" の</span>続きを読む</a>]]></description>
+				<content:encoded><![CDATA[<p>経済では「価値(value)」という言葉がよく出てくる。またそれと同じくらい「価格(price)」という言葉もよく使う。</p>
+<p>翻訳の歴史などもあるだろうが、かなり混同されている気がする。</p>
+<p>&nbsp;</p>
+<p>「金銭にならない価値」というものは存在するが、「金銭にならない価格」というものは存在しない。昔のクレジットカードのCMで流れていた、「priceless」というものだ。</p>
+<p>M&amp;Aにおける企業価値や、転職における人材価値(年収)といったものを考えるとき、必ず値段をつける。よって考えているものは価値ではなく価格である。</p>
+<p>「価値観」という言葉はあるが、「価格感」という言葉はあまり使われない。</p>
+<p>価値観は人それぞれ異なっているが、その多様な価値観を持つ人が構成する社会の中で、商品の交換などの経済活動をするために、価格というものが使われる。このとき財を交換する両者で「価格」は同じでなければならないが、「価値」は異なる。両者とも効用が増加すると思って財の交換を行うのだから、両者の効用関数(価値観)は当然違うはずだ。</p>
+<p>ここから一気に飛躍するのだが、この「価格」と「価値」を混同していると、あるモノの価格が決まったからといって、価値までも同じになったと勘違いしてしまうのではないだろうか。</p>
+<p>「他人は自分と違う価値観を持っている」「社会は多様な人たちの集合である」という基本的なことを失念してしまう。</p>
+<p>「価値」という言葉を濫用する人たちを見て心配に思う。</p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fblog.330k.biz%2F2018%2F02%2F15%2F%25e3%2580%258c%25e4%25be%25a1%25e5%2580%25a4%25e3%2580%258d%25e3%2581%25a8%25e3%2580%258c%25e4%25be%25a1%25e6%25a0%25bc%25e3%2580%258d%25e3%2581%25ae%25e6%25b7%25b7%25e5%2590%258c%2F&amp;linkname=%E3%80%8C%E4%BE%A1%E5%80%A4%E3%80%8D%E3%81%A8%E3%80%8C%E4%BE%A1%E6%A0%BC%E3%80%8D%E3%81%AE%E6%B7%B7%E5%90%8C" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fblog.330k.biz%2F2018%2F02%2F15%2F%25e3%2580%258c%25e4%25be%25a1%25e5%2580%25a4%25e3%2580%258d%25e3%2581%25a8%25e3%2580%258c%25e4%25be%25a1%25e6%25a0%25bc%25e3%2580%258d%25e3%2581%25ae%25e6%25b7%25b7%25e5%2590%258c%2F&amp;linkname=%E3%80%8C%E4%BE%A1%E5%80%A4%E3%80%8D%E3%81%A8%E3%80%8C%E4%BE%A1%E6%A0%BC%E3%80%8D%E3%81%AE%E6%B7%B7%E5%90%8C" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fblog.330k.biz%2F2018%2F02%2F15%2F%25e3%2580%258c%25e4%25be%25a1%25e5%2580%25a4%25e3%2580%258d%25e3%2581%25a8%25e3%2580%258c%25e4%25be%25a1%25e6%25a0%25bc%25e3%2580%258d%25e3%2581%25ae%25e6%25b7%25b7%25e5%2590%258c%2F&amp;linkname=%E3%80%8C%E4%BE%A1%E5%80%A4%E3%80%8D%E3%81%A8%E3%80%8C%E4%BE%A1%E6%A0%BC%E3%80%8D%E3%81%AE%E6%B7%B7%E5%90%8C" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fblog.330k.biz%2F2018%2F02%2F15%2F%25e3%2580%258c%25e4%25be%25a1%25e5%2580%25a4%25e3%2580%258d%25e3%2581%25a8%25e3%2580%258c%25e4%25be%25a1%25e6%25a0%25bc%25e3%2580%258d%25e3%2581%25ae%25e6%25b7%25b7%25e5%2590%258c%2F&amp;title=%E3%80%8C%E4%BE%A1%E5%80%A4%E3%80%8D%E3%81%A8%E3%80%8C%E4%BE%A1%E6%A0%BC%E3%80%8D%E3%81%AE%E6%B7%B7%E5%90%8C" data-a2a-url="https://blog.330k.biz/2018/02/15/%e3%80%8c%e4%be%a1%e5%80%a4%e3%80%8d%e3%81%a8%e3%80%8c%e4%be%a1%e6%a0%bc%e3%80%8d%e3%81%ae%e6%b7%b7%e5%90%8c/" data-a2a-title="「価値」と「価格」の混同"></a></p>]]></content:encoded>
+			</item>
+		<item>
+		<title>「信用」という言葉は適切だろうか</title>
+		<link>https://blog.330k.biz/2018/02/14/%e3%80%8c%e4%bf%a1%e7%94%a8%e3%80%8d%e3%81%a8%e3%81%84%e3%81%86%e8%a8%80%e8%91%89%e3%81%af%e9%81%a9%e5%88%87%e3%81%a0%e3%82%8d%e3%81%86%e3%81%8b/</link>
+		<pubDate>Wed, 14 Feb 2018 12:48:37 +0000</pubDate>
+		<dc:creator><![CDATA[330k]]></dc:creator>
+				<category><![CDATA[金融]]></category>
+
+		<guid isPermaLink="false">https://blog.330k.biz/?p=12</guid>
+		<description><![CDATA[「法定通貨の価値の根源は政府や中央銀行への信用である」というように、経済学では「信用」という言葉をよく使う。 学術用語と言ってしまえばそれまでなのだが、「通貨とは価値があるものである」という教義を信ずる、という様子はどち &#8230; <a href="https://blog.330k.biz/2018/02/14/%e3%80%8c%e4%bf%a1%e7%94%a8%e3%80%8d%e3%81%a8%e3%81%84%e3%81%86%e8%a8%80%e8%91%89%e3%81%af%e9%81%a9%e5%88%87%e3%81%a0%e3%82%8d%e3%81%86%e3%81%8b/" class="more-link"><span class="screen-reader-text">"「信用」という言葉は適切だろうか" の</span>続きを読む</a>]]></description>
+				<content:encoded><![CDATA[<p>「法定通貨の価値の根源は政府や中央銀行への信用である」というように、経済学では「信用」という言葉をよく使う。</p>
+<p>学術用語と言ってしまえばそれまでなのだが、「通貨とは価値があるものである」という教義を信ずる、という様子はどちらかというと「信仰」に近いと思う。</p>
+<p>例として、「信仰」を使って表現してみる。</p>
+<p>「通貨の価値は信仰心で決まる」・・・信じれば信じるほど価値は高くなる。うまく実態を表現できているのではないだろうか。</p>
+<p>反対に、信仰を失った神様は力を失うように、信仰を失った通貨も力を失う。</p>
+<p>有神論における神の存在のように、多くの人は通貨や価値の存在を(無批判に)肯定しているのではないか。</p>
+<p>&nbsp;</p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fblog.330k.biz%2F2018%2F02%2F14%2F%25e3%2580%258c%25e4%25bf%25a1%25e7%2594%25a8%25e3%2580%258d%25e3%2581%25a8%25e3%2581%2584%25e3%2581%2586%25e8%25a8%2580%25e8%2591%2589%25e3%2581%25af%25e9%2581%25a9%25e5%2588%2587%25e3%2581%25a0%25e3%2582%258d%25e3%2581%2586%25e3%2581%258b%2F&amp;linkname=%E3%80%8C%E4%BF%A1%E7%94%A8%E3%80%8D%E3%81%A8%E3%81%84%E3%81%86%E8%A8%80%E8%91%89%E3%81%AF%E9%81%A9%E5%88%87%E3%81%A0%E3%82%8D%E3%81%86%E3%81%8B" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fblog.330k.biz%2F2018%2F02%2F14%2F%25e3%2580%258c%25e4%25bf%25a1%25e7%2594%25a8%25e3%2580%258d%25e3%2581%25a8%25e3%2581%2584%25e3%2581%2586%25e8%25a8%2580%25e8%2591%2589%25e3%2581%25af%25e9%2581%25a9%25e5%2588%2587%25e3%2581%25a0%25e3%2582%258d%25e3%2581%2586%25e3%2581%258b%2F&amp;linkname=%E3%80%8C%E4%BF%A1%E7%94%A8%E3%80%8D%E3%81%A8%E3%81%84%E3%81%86%E8%A8%80%E8%91%89%E3%81%AF%E9%81%A9%E5%88%87%E3%81%A0%E3%82%8D%E3%81%86%E3%81%8B" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fblog.330k.biz%2F2018%2F02%2F14%2F%25e3%2580%258c%25e4%25bf%25a1%25e7%2594%25a8%25e3%2580%258d%25e3%2581%25a8%25e3%2581%2584%25e3%2581%2586%25e8%25a8%2580%25e8%2591%2589%25e3%2581%25af%25e9%2581%25a9%25e5%2588%2587%25e3%2581%25a0%25e3%2582%258d%25e3%2581%2586%25e3%2581%258b%2F&amp;linkname=%E3%80%8C%E4%BF%A1%E7%94%A8%E3%80%8D%E3%81%A8%E3%81%84%E3%81%86%E8%A8%80%E8%91%89%E3%81%AF%E9%81%A9%E5%88%87%E3%81%A0%E3%82%8D%E3%81%86%E3%81%8B" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fblog.330k.biz%2F2018%2F02%2F14%2F%25e3%2580%258c%25e4%25bf%25a1%25e7%2594%25a8%25e3%2580%258d%25e3%2581%25a8%25e3%2581%2584%25e3%2581%2586%25e8%25a8%2580%25e8%2591%2589%25e3%2581%25af%25e9%2581%25a9%25e5%2588%2587%25e3%2581%25a0%25e3%2582%258d%25e3%2581%2586%25e3%2581%258b%2F&amp;title=%E3%80%8C%E4%BF%A1%E7%94%A8%E3%80%8D%E3%81%A8%E3%81%84%E3%81%86%E8%A8%80%E8%91%89%E3%81%AF%E9%81%A9%E5%88%87%E3%81%A0%E3%82%8D%E3%81%86%E3%81%8B" data-a2a-url="https://blog.330k.biz/2018/02/14/%e3%80%8c%e4%bf%a1%e7%94%a8%e3%80%8d%e3%81%a8%e3%81%84%e3%81%86%e8%a8%80%e8%91%89%e3%81%af%e9%81%a9%e5%88%87%e3%81%a0%e3%82%8d%e3%81%86%e3%81%8b/" data-a2a-title="「信用」という言葉は適切だろうか"></a></p>]]></content:encoded>
+			</item>
+		<item>
+		<title>仮想でない通貨はあるのか？</title>
+		<link>https://blog.330k.biz/2018/02/14/%e4%bb%ae%e6%83%b3%e3%81%a7%e3%81%aa%e3%81%84%e9%80%9a%e8%b2%a8%e3%81%af%e3%81%82%e3%82%8b%e3%81%ae%e3%81%8b%ef%bc%9f/</link>
+		<pubDate>Tue, 13 Feb 2018 15:35:49 +0000</pubDate>
+		<dc:creator><![CDATA[330k]]></dc:creator>
+				<category><![CDATA[金融]]></category>
+
+		<guid isPermaLink="false">https://blog.330k.biz/?p=10</guid>
+		<description><![CDATA[現在、「仮想通貨」とよばれるものに接することが多い。仮想通貨には肯定派も否定派もおり、また論点も色々あるが、今回は「仮想でない通貨とは？」を考えたい。 今までの歴史として、通貨や貨幣は以下のように発達してきた。 物々交換 &#8230; <a href="https://blog.330k.biz/2018/02/14/%e4%bb%ae%e6%83%b3%e3%81%a7%e3%81%aa%e3%81%84%e9%80%9a%e8%b2%a8%e3%81%af%e3%81%82%e3%82%8b%e3%81%ae%e3%81%8b%ef%bc%9f/" class="more-link"><span class="screen-reader-text">"仮想でない通貨はあるのか？" の</span>続きを読む</a>]]></description>
+				<content:encoded><![CDATA[<p>現在、「仮想通貨」とよばれるものに接することが多い。仮想通貨には肯定派も否定派もおり、また論点も色々あるが、今回は「仮想でない通貨とは？」を考えたい。</p>
+<p>今までの歴史として、通貨や貨幣は以下のように発達してきた。</p>
+<ol>
+<li>物々交換。貨幣のない世界。</li>
+<li>貝殻。おそらく最古の通貨。</li>
+<li>貴金属。主に金属などの工業的価値に由来する、とされるもの。</li>
+<li>兌換紙幣。貴金属との交換を保証された紙幣。金本位制。</li>
+<li>不換紙幣。金や銀との交換が保証されない紙幣。現在の法定通貨。</li>
+<li>暗号通貨。</li>
+</ol>
+<p>さて、上記のうち、「仮想でない」通貨はどれだろうか？</p>
+<p>多分、経済学者はほとんど2〜5と答えるだろう。「仮想通貨」との対比の文脈であれば正しいが、本当に「仮想でない」のだろうか？</p>
+<p>まず5の不換紙幣。日本円を始め、ほとんどの国の法定通貨はこれ。現在の法定通貨は中央銀行への信用が基礎になっている。さて、ということは「信用は仮想か否か？」が不換紙幣が仮想通貨か否かを決めることになる。信用は実体を持ったモノである、という人はいないだろう。あるいは共同幻想と言われることもよくある。みんなが「この紙幣には1万円の価値がある」と信じているから1万円札は1万円の価値を持つ。したがって不換紙幣もある意味、仮想の通貨である。</p>
+<p>次に4と3。4の兌換通貨は3の貴金属の価値を基礎としているから、3の貴金属は仮想通貨かどうかを考える。</p>
+<p>多分一般の人は、貴金属が仮想通貨だと考える人は少ないと思う。中には「金は本質的に価値を持つ」として、議論の前提にしてしまっている(悪く言うと思考停止)人もいるかもしれない。</p>
+<p>確かに金は、劣化しにくい(錆びたり酸に溶けたりしない)、加工しやすい(延性・展性に富む)、見た目が良い、という通貨として扱うために適した性質はあるが、それだけで「価値を持つ」だろうか？</p>
+<p>反例として、スペイン帝国がインカ帝国から略奪したプラチナを捨ててしまった事例を考える。プラチナも金と同様に、通貨として適した性質を持つ金属である。たまたま地中海やヨーロッパ世界にほとんど産出しなかった。要するに当時のスペイン人は「プラチナに価値がある」という認識がなかったから捨てたのだ。反対に、金に価値があるのは「金に価値がある」という認識があるから、ということがわかる。</p>
+<p>ということは、本質的には「金に価値がある」のではなく、「『金に価値がある』という認識」が価値を生んでいる。</p>
+<p>だいぶ答えに近づいてきた気がする。</p>
+<p>さて、2の人工物でない貝殻はどうだろうか。不思議なことに、金属以前に使われていた貝殻に「本質的に価値がある」という人は見かけない(たしかに金に比べると劣化しやすいが)。だが、もう金の議論と同じで、当時使っていた人たちは「この貝殻には価値がある」と思っていたから貨幣として流通できた。</p>
+<p>以上をまとめると、貨幣は「『貨幣として便利な性質を持ったものに価値がある』という認識」が基礎になっている。貝殻も貴金属も不換紙幣もすべてこれに当てはまる。</p>
+<p>ということは、<strong>すべての通貨は仮想である</strong>。</p>
+<p>&nbsp;</p>
+<p>これをもっと突き詰めて考えると、人間が認識するものはすべて仮想のもの、実体のないものであることがわかる。これは色即是空などの仏教的な方面に向かう気がする。</p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fblog.330k.biz%2F2018%2F02%2F14%2F%25e4%25bb%25ae%25e6%2583%25b3%25e3%2581%25a7%25e3%2581%25aa%25e3%2581%2584%25e9%2580%259a%25e8%25b2%25a8%25e3%2581%25af%25e3%2581%2582%25e3%2582%258b%25e3%2581%25ae%25e3%2581%258b%25ef%25bc%259f%2F&amp;linkname=%E4%BB%AE%E6%83%B3%E3%81%A7%E3%81%AA%E3%81%84%E9%80%9A%E8%B2%A8%E3%81%AF%E3%81%82%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fblog.330k.biz%2F2018%2F02%2F14%2F%25e4%25bb%25ae%25e6%2583%25b3%25e3%2581%25a7%25e3%2581%25aa%25e3%2581%2584%25e9%2580%259a%25e8%25b2%25a8%25e3%2581%25af%25e3%2581%2582%25e3%2582%258b%25e3%2581%25ae%25e3%2581%258b%25ef%25bc%259f%2F&amp;linkname=%E4%BB%AE%E6%83%B3%E3%81%A7%E3%81%AA%E3%81%84%E9%80%9A%E8%B2%A8%E3%81%AF%E3%81%82%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fblog.330k.biz%2F2018%2F02%2F14%2F%25e4%25bb%25ae%25e6%2583%25b3%25e3%2581%25a7%25e3%2581%25aa%25e3%2581%2584%25e9%2580%259a%25e8%25b2%25a8%25e3%2581%25af%25e3%2581%2582%25e3%2582%258b%25e3%2581%25ae%25e3%2581%258b%25ef%25bc%259f%2F&amp;linkname=%E4%BB%AE%E6%83%B3%E3%81%A7%E3%81%AA%E3%81%84%E9%80%9A%E8%B2%A8%E3%81%AF%E3%81%82%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fblog.330k.biz%2F2018%2F02%2F14%2F%25e4%25bb%25ae%25e6%2583%25b3%25e3%2581%25a7%25e3%2581%25aa%25e3%2581%2584%25e9%2580%259a%25e8%25b2%25a8%25e3%2581%25af%25e3%2581%2582%25e3%2582%258b%25e3%2581%25ae%25e3%2581%258b%25ef%25bc%259f%2F&amp;title=%E4%BB%AE%E6%83%B3%E3%81%A7%E3%81%AA%E3%81%84%E9%80%9A%E8%B2%A8%E3%81%AF%E3%81%82%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F" data-a2a-url="https://blog.330k.biz/2018/02/14/%e4%bb%ae%e6%83%b3%e3%81%a7%e3%81%aa%e3%81%84%e9%80%9a%e8%b2%a8%e3%81%af%e3%81%82%e3%82%8b%e3%81%ae%e3%81%8b%ef%bc%9f/" data-a2a-title="仮想でない通貨はあるのか？"></a></p>]]></content:encoded>
+			</item>
+		<item>
+		<title>なぜ「虚業」は稼ぎが良いのか？</title>
+		<link>https://blog.330k.biz/2018/02/13/%e3%81%aa%e3%81%9c%e3%80%8c%e8%99%9a%e6%a5%ad%e3%80%8d%e3%81%af%e7%a8%bc%e3%81%8e%e3%81%8c%e8%89%af%e3%81%84%e3%81%ae%e3%81%8b%ef%bc%9f/</link>
+		<pubDate>Tue, 13 Feb 2018 11:14:24 +0000</pubDate>
+		<dc:creator><![CDATA[330k]]></dc:creator>
+				<category><![CDATA[金融]]></category>
+
+		<guid isPermaLink="false">https://blog.330k.biz/?p=5</guid>
+		<description><![CDATA[なぜ銀行や証券会社、M&#38;Aアドバイザリなど、言ってしまえばお金や権利の所有権を付け替えるだけの会社は給料が良いのだろう？ 東洋経済による平均年収｢全国トップ500社｣最新ランキングでは、トップ2をGCAやM&#038;am &#8230; <a href="https://blog.330k.biz/2018/02/13/%e3%81%aa%e3%81%9c%e3%80%8c%e8%99%9a%e6%a5%ad%e3%80%8d%e3%81%af%e7%a8%bc%e3%81%8e%e3%81%8c%e8%89%af%e3%81%84%e3%81%ae%e3%81%8b%ef%bc%9f/" class="more-link"><span class="screen-reader-text">"なぜ「虚業」は稼ぎが良いのか？" の</span>続きを読む</a>]]></description>
+				<content:encoded><![CDATA[<p>なぜ銀行や証券会社、M&amp;Aアドバイザリなど、言ってしまえばお金や権利の所有権を付け替えるだけの会社は給料が良いのだろう？</p>
+<p>東洋経済による<a href="http://toyokeizai.net/articles/-/202820?page=2">平均年収｢全国トップ500社｣最新ランキング</a>では、トップ2をGCAやM&amp;AキャピタルパートナーズのM&amp;A助言業が占め、それいかにも野村ホールディングスや東京海上、三井住友などの金融業が多く並んでいる。</p>
+<p>彼らは言ってしまえば何も生産していない。</p>
+<p>なのに給料はかなり良い(福利厚生等を差し引いて考えても)。</p>
+<p>海外でも金融業は高給取りであるので、これは日本に限ったことではなく、どうやら普遍的な現象といえる。</p>
+<p>なぜだ？</p>
+<p>以下のような説明をよく見る。</p>
+<ol>
+<li>彼らは大きなリスクを取っている。いつクビになるのかわからない。</li>
+<li>彼らは大きな責任を負っている。失敗すれば多くの人々が路頭に迷う。</li>
+<li>彼らは大きな価値を生んでいる。当然給料も高くなる。</li>
+</ol>
+<p>本当だろうか？</p>
+<p>1については、クビになった人の生涯年収が、他業種の平均と比べて低いのだろうか。データが見つからないのだが、あまりそういう話は聞かない。</p>
+<p>2はメーカの技術者で製品に欠陥があれば、製造物責任を取らされ、場合によっては刑事罰にもなる。法律で罰せられなくとも、製品で事故が起これば、怪我、最悪の場合は人命を失う。翻って金融業ではインサイダーのようにズルいことをすれば罰せられるが、ミスした程度では法律には罰せられない。またどんなひどいミスをしても人に怪我をさせることはできない。これは他の職業に比べてかなり低リスクだ。</p>
+<p>3は疑問だ。そもそも「金融は、それ自体は負の価値(<a href="http://www.fromhc.com/column/2017/11/post-435.html">金融なぞ所詮は虚業なのだから</a>)」という論者もいる。「価値」とは何だ？本当に価値を生んでるのか？何も作っていないのに？</p>
+<p>以上から、これらの説はすべてを説明しているとは思えない。</p>
+<p>このことは長らく私を悩ませたが、ある時ひらめいた。</p>
+<p>「お金そのものが虚構なのだから、直接虚構を扱うほうが効率が良い。<br />
+モノやサービスを媒介としてお金を得ようとすると、そのモノやサービスを管理するためのコストがかかる。その分、金融業などは(お金を稼ぐという観点において)余計なコストを払わないで済み、給料が高くなるのだ。」</p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fblog.330k.biz%2F2018%2F02%2F13%2F%25e3%2581%25aa%25e3%2581%259c%25e3%2580%258c%25e8%2599%259a%25e6%25a5%25ad%25e3%2580%258d%25e3%2581%25af%25e7%25a8%25bc%25e3%2581%258e%25e3%2581%258c%25e8%2589%25af%25e3%2581%2584%25e3%2581%25ae%25e3%2581%258b%25ef%25bc%259f%2F&amp;linkname=%E3%81%AA%E3%81%9C%E3%80%8C%E8%99%9A%E6%A5%AD%E3%80%8D%E3%81%AF%E7%A8%BC%E3%81%8E%E3%81%8C%E8%89%AF%E3%81%84%E3%81%AE%E3%81%8B%EF%BC%9F" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fblog.330k.biz%2F2018%2F02%2F13%2F%25e3%2581%25aa%25e3%2581%259c%25e3%2580%258c%25e8%2599%259a%25e6%25a5%25ad%25e3%2580%258d%25e3%2581%25af%25e7%25a8%25bc%25e3%2581%258e%25e3%2581%258c%25e8%2589%25af%25e3%2581%2584%25e3%2581%25ae%25e3%2581%258b%25ef%25bc%259f%2F&amp;linkname=%E3%81%AA%E3%81%9C%E3%80%8C%E8%99%9A%E6%A5%AD%E3%80%8D%E3%81%AF%E7%A8%BC%E3%81%8E%E3%81%8C%E8%89%AF%E3%81%84%E3%81%AE%E3%81%8B%EF%BC%9F" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fblog.330k.biz%2F2018%2F02%2F13%2F%25e3%2581%25aa%25e3%2581%259c%25e3%2580%258c%25e8%2599%259a%25e6%25a5%25ad%25e3%2580%258d%25e3%2581%25af%25e7%25a8%25bc%25e3%2581%258e%25e3%2581%258c%25e8%2589%25af%25e3%2581%2584%25e3%2581%25ae%25e3%2581%258b%25ef%25bc%259f%2F&amp;linkname=%E3%81%AA%E3%81%9C%E3%80%8C%E8%99%9A%E6%A5%AD%E3%80%8D%E3%81%AF%E7%A8%BC%E3%81%8E%E3%81%8C%E8%89%AF%E3%81%84%E3%81%AE%E3%81%8B%EF%BC%9F" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fblog.330k.biz%2F2018%2F02%2F13%2F%25e3%2581%25aa%25e3%2581%259c%25e3%2580%258c%25e8%2599%259a%25e6%25a5%25ad%25e3%2580%258d%25e3%2581%25af%25e7%25a8%25bc%25e3%2581%258e%25e3%2581%258c%25e8%2589%25af%25e3%2581%2584%25e3%2581%25ae%25e3%2581%258b%25ef%25bc%259f%2F&amp;title=%E3%81%AA%E3%81%9C%E3%80%8C%E8%99%9A%E6%A5%AD%E3%80%8D%E3%81%AF%E7%A8%BC%E3%81%8E%E3%81%8C%E8%89%AF%E3%81%84%E3%81%AE%E3%81%8B%EF%BC%9F" data-a2a-url="https://blog.330k.biz/2018/02/13/%e3%81%aa%e3%81%9c%e3%80%8c%e8%99%9a%e6%a5%ad%e3%80%8d%e3%81%af%e7%a8%bc%e3%81%8e%e3%81%8c%e8%89%af%e3%81%84%e3%81%ae%e3%81%8b%ef%bc%9f/" data-a2a-title="なぜ「虚業」は稼ぎが良いのか？"></a></p>]]></content:encoded>
+			</item>
+	</channel>
+</rss>
