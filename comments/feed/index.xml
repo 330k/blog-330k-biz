@@ -7,10 +7,10 @@
 	>
 <channel>
 	<title>金融エンジニアの屁理屈ブログ へのコメント</title>
-	<atom:link href="https://blog.330k.biz/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog.330k.biz/</link>
+	<atom:link href="https://330k.biz/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://330k.biz/</link>
 	<description>製造業から金融業にエンジニアとして転職。 業界人たちとの価値観の違いを感じたこと。</description>
-	<lastBuildDate>Thu, 31 May 2018 12:51:30 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 31 May 2018 18:08:15 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.6</generator>
