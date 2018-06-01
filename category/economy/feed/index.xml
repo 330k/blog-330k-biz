@@ -12,7 +12,7 @@
 	<atom:link href="https://330k.biz/category/economy/feed/" rel="self" type="application/rss+xml" />
 	<link>https://330k.biz/</link>
 	<description>製造業から金融業にエンジニアとして転職。 業界人たちとの価値観の違いを感じたこと。</description>
-	<lastBuildDate>Thu, 31 May 2018 18:54:43 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 01 Jun 2018 10:16:02 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -31,7 +31,7 @@
 <p>この人の文章、ツッコミどころ満載なのだが、<br />
 文章がわかりにくいためにツッコみにくい。</p>
 <p>話題があっちこっちに飛びすぎていて(頑張って勉強したであろうことはわかる)、<br />
-個々の事柄に理解が浅く、結論に至るまでの論理がなってない。</p>
+個々の事柄に理解が浅く、結論に至るまでの論理がなってない。<span id="more-31"></span></p>
 <blockquote><p>そして、オープンAPI（Application Programing. Interface）で情報の共有も始まる。これはあたかも１つのインフラとなっていくようなものである。</p></blockquote>
 <p>「APIで情報の共有」という表現をするのは理解が足りない証拠。</p>
 <p>APIというのは名前の通り、情報へのインターフェースであって、情報そのものではない。<br />
