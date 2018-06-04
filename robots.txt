@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+Sitemap: https://alpharacks002.330k.biz/sitemap.xml.gz
