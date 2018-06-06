@@ -12,12 +12,66 @@
 	<atom:link href="https://330k.biz/author/admin/feed/" rel="self" type="application/rss+xml" />
 	<link>https://330k.biz/</link>
 	<description>製造業から金融業にエンジニアとして転職。常識や固定観念にとらわれている業界人たちとの価値観の違いを書きます。</description>
-	<lastBuildDate>Wed, 06 Jun 2018 11:43:01 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 06 Jun 2018 12:10:24 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.6</generator>
 	<item>
+		<title>「技術力」とは何か</title>
+		<link>https://330k.biz/2018/06/06/%e3%80%8c%e6%8a%80%e8%a1%93%e5%8a%9b%e3%80%8d%e3%81%a8%e3%81%af%e4%bd%95%e3%81%8b/</link>
+		<pubDate>Wed, 06 Jun 2018 12:10:24 +0000</pubDate>
+		<dc:creator><![CDATA[330k]]></dc:creator>
+				<category><![CDATA[金融]]></category>
+
+		<guid isPermaLink="false">https://330k.biz/?p=30</guid>
+		<description><![CDATA[M&#38;Aで企業情報を見るフロントが、「この会社には技術力ある」と言う。 でも、「具体的に技術力って何」と聞くと、 「他の企業が作れない機能の製品を作る能力」 と金融業の人の大概が返答してくる。 これは誰にとってもわ &#8230; <a href="https://330k.biz/2018/06/06/%e3%80%8c%e6%8a%80%e8%a1%93%e5%8a%9b%e3%80%8d%e3%81%a8%e3%81%af%e4%bd%95%e3%81%8b/" class="more-link"><span class="screen-reader-text">"「技術力」とは何か" の</span>続きを読む</a>]]></description>
+				<content:encoded><![CDATA[<p>M&amp;Aで企業情報を見るフロントが、「この会社には技術力ある」と言う。</p>
+<p>でも、「具体的に技術力って何」と聞くと、<br />
+「他の企業が作れない機能の製品を作る能力」<br />
+と金融業の人の大概が返答してくる。</p>
+<p>これは誰にとってもわかりやすく、納得できる「技術力」と言えるが、<br />
+「技術力」のあるメーカは、<br />
+すべて「他の企業が作れない機能の製品を作る能力」を持っているのか？</p>
+<p>それは違うんじゃないだろうか。<span id="more-30"></span></p>
+<p>さて、現実に「他の企業が作れない機能の製品を作る」というのは非常に難しい。<br />
+逆に考えて、特許を取っている場合を別にすると、<br />
+他社製品の機能を模倣するのは難しいことではない。</p>
+<p>特許を取った場合でさえ、ライバル企業は特許要件に引っかからないように競合製品を出してくる。</p>
+<p>ではどこに「技術力」があるのか。</p>
+<p>我々が商品を買うとき、機能だけではなく、価格、品質、信頼性、納期といった要因を考慮する。これらの要素に「技術力」はある。</p>
+<ul>
+<li>価格
+<ul>
+<li>製造工程でかかるコストを安くする</li>
+<li>より安価な原材料で代替する</li>
+<li>原材料の使用効率(歩留まり)を向上する</li>
+</ul>
+</li>
+<li>品質
+<ul>
+<li>製品のばらつきを抑え、不良品率を抑える(不良品率が小さければ、最終的な製品歩留まりが向上する)</li>
+<li>検査工程を省略する (不良品率が小さければ、検査工程を省略して、その分の人員や設備を削減できる)</li>
+</ul>
+</li>
+<li>信頼性
+<ul>
+<li>製品寿命を長くする</li>
+</ul>
+</li>
+<li>納期
+<ul>
+<li>短い時間で製品を製造する (土木やITシステムなど人月商売では特に)</li>
+<li>物流を効率化し、中間在庫を削減する (トヨタのカンバン方式が代表例)</li>
+</ul>
+</li>
+</ul>
+<p>より詳しくは、別の方の記事ではあるが、<a href="https://medium.com/@tumada/technological-strength-9e4fd03a15cf">『技術力』を分解する</a>がよくまとまっている。</p>
+<p>「技術力」に限らず、よく理解しないまま言葉を使うのは、<br />
+金融業の人間の性なのかもしれない。</p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2F330k.biz%2F2018%2F06%2F06%2F%25e3%2580%258c%25e6%258a%2580%25e8%25a1%2593%25e5%258a%259b%25e3%2580%258d%25e3%2581%25a8%25e3%2581%25af%25e4%25bd%2595%25e3%2581%258b%2F&amp;linkname=%E3%80%8C%E6%8A%80%E8%A1%93%E5%8A%9B%E3%80%8D%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2F330k.biz%2F2018%2F06%2F06%2F%25e3%2580%258c%25e6%258a%2580%25e8%25a1%2593%25e5%258a%259b%25e3%2580%258d%25e3%2581%25a8%25e3%2581%25af%25e4%25bd%2595%25e3%2581%258b%2F&amp;linkname=%E3%80%8C%E6%8A%80%E8%A1%93%E5%8A%9B%E3%80%8D%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2F330k.biz%2F2018%2F06%2F06%2F%25e3%2580%258c%25e6%258a%2580%25e8%25a1%2593%25e5%258a%259b%25e3%2580%258d%25e3%2581%25a8%25e3%2581%25af%25e4%25bd%2595%25e3%2581%258b%2F&amp;linkname=%E3%80%8C%E6%8A%80%E8%A1%93%E5%8A%9B%E3%80%8D%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2F330k.biz%2F2018%2F06%2F06%2F%25e3%2580%258c%25e6%258a%2580%25e8%25a1%2593%25e5%258a%259b%25e3%2580%258d%25e3%2581%25a8%25e3%2581%25af%25e4%25bd%2595%25e3%2581%258b%2F&amp;title=%E3%80%8C%E6%8A%80%E8%A1%93%E5%8A%9B%E3%80%8D%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B" data-a2a-url="https://330k.biz/2018/06/06/%e3%80%8c%e6%8a%80%e8%a1%93%e5%8a%9b%e3%80%8d%e3%81%a8%e3%81%af%e4%bd%95%e3%81%8b/" data-a2a-title="「技術力」とは何か"></a></p>]]></content:encoded>
+			</item>
+		<item>
 		<title>「技術」と「技能」の違い</title>
 		<link>https://330k.biz/2018/06/06/%e3%80%8c%e6%8a%80%e8%a1%93%e3%80%8d%e3%81%a8%e3%80%8c%e6%8a%80%e8%83%bd%e3%80%8d%e3%81%ae%e9%81%95%e3%81%84/</link>
 		<pubDate>Wed, 06 Jun 2018 11:43:01 +0000</pubDate>
@@ -246,25 +300,6 @@ Facebookを使うという手段が目的化</li>
 <p>ということは、(現在の)資本主義も限界がある、という結論に至る。</p>
 <p>遠い未来かもしれないが、資本主義経済の限界に差し掛かったとき、人間の欲望に依存しない経済システムを作り出せるだろうか。AIが作る経済システムがどうなるのか、興味がある。</p>
 <p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2F330k.biz%2F2018%2F02%2F18%2F%25e6%25ac%25b2%25e6%259c%259b%25e3%2581%25a8%25e8%25b3%2587%25e6%259c%25ac%25e4%25b8%25bb%25e7%25be%25a9%25e3%2581%25ae%25e9%2599%2590%25e7%2595%258c%2F&amp;linkname=%E6%AC%B2%E6%9C%9B%E3%81%A8%E8%B3%87%E6%9C%AC%E4%B8%BB%E7%BE%A9%E3%81%AE%E9%99%90%E7%95%8C" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2F330k.biz%2F2018%2F02%2F18%2F%25e6%25ac%25b2%25e6%259c%259b%25e3%2581%25a8%25e8%25b3%2587%25e6%259c%25ac%25e4%25b8%25bb%25e7%25be%25a9%25e3%2581%25ae%25e9%2599%2590%25e7%2595%258c%2F&amp;linkname=%E6%AC%B2%E6%9C%9B%E3%81%A8%E8%B3%87%E6%9C%AC%E4%B8%BB%E7%BE%A9%E3%81%AE%E9%99%90%E7%95%8C" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2F330k.biz%2F2018%2F02%2F18%2F%25e6%25ac%25b2%25e6%259c%259b%25e3%2581%25a8%25e8%25b3%2587%25e6%259c%25ac%25e4%25b8%25bb%25e7%25be%25a9%25e3%2581%25ae%25e9%2599%2590%25e7%2595%258c%2F&amp;linkname=%E6%AC%B2%E6%9C%9B%E3%81%A8%E8%B3%87%E6%9C%AC%E4%B8%BB%E7%BE%A9%E3%81%AE%E9%99%90%E7%95%8C" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2F330k.biz%2F2018%2F02%2F18%2F%25e6%25ac%25b2%25e6%259c%259b%25e3%2581%25a8%25e8%25b3%2587%25e6%259c%25ac%25e4%25b8%25bb%25e7%25be%25a9%25e3%2581%25ae%25e9%2599%2590%25e7%2595%258c%2F&amp;title=%E6%AC%B2%E6%9C%9B%E3%81%A8%E8%B3%87%E6%9C%AC%E4%B8%BB%E7%BE%A9%E3%81%AE%E9%99%90%E7%95%8C" data-a2a-url="https://330k.biz/2018/02/18/%e6%ac%b2%e6%9c%9b%e3%81%a8%e8%b3%87%e6%9c%ac%e4%b8%bb%e7%be%a9%e3%81%ae%e9%99%90%e7%95%8c/" data-a2a-title="欲望と資本主義の限界"></a></p>]]></content:encoded>
-			</item>
-		<item>
-		<title>金融業の人が胡散臭く見えてしまう理由</title>
-		<link>https://330k.biz/2018/02/15/%e9%87%91%e8%9e%8d%e6%a5%ad%e3%81%ae%e4%ba%ba%e3%81%8c%e8%83%a1%e6%95%a3%e8%87%ad%e3%81%8f%e8%a6%8b%e3%81%88%e3%81%a6%e3%81%97%e3%81%be%e3%81%86%e7%90%86%e7%94%b1/</link>
-		<pubDate>Thu, 15 Feb 2018 13:59:07 +0000</pubDate>
-		<dc:creator><![CDATA[330k]]></dc:creator>
-				<category><![CDATA[金融]]></category>
-
-		<guid isPermaLink="false">https://330k.biz/?p=20</guid>
-		<description><![CDATA[慣れてくるとそうでもないし実際違うことも多いのだが、経済や金融に興味を持っていなかった頃、村上ファンドやホリエモンが喋っているところを見ると、どうにも胡散臭く見えていた。 金融に限らず、専門用語を多く使う人は胡散臭く見え &#8230; <a href="https://330k.biz/2018/02/15/%e9%87%91%e8%9e%8d%e6%a5%ad%e3%81%ae%e4%ba%ba%e3%81%8c%e8%83%a1%e6%95%a3%e8%87%ad%e3%81%8f%e8%a6%8b%e3%81%88%e3%81%a6%e3%81%97%e3%81%be%e3%81%86%e7%90%86%e7%94%b1/" class="more-link"><span class="screen-reader-text">"金融業の人が胡散臭く見えてしまう理由" の</span>続きを読む</a>]]></description>
-				<content:encoded><![CDATA[<p>慣れてくるとそうでもないし実際違うことも多いのだが、経済や金融に興味を持っていなかった頃、村上ファンドやホリエモンが喋っているところを見ると、どうにも胡散臭く見えていた。</p>
-<p>金融に限らず、専門用語を多く使う人は胡散臭く見えるものだが、特に経済用語を喋る人は怪しく見える。</p>
-<p>なぜだろうか。<span id="more-20"></span></p>
-<p>これは日常用語としても使われる経済用語が、あまり文脈を選ばずに使われているからでないだろうか。</p>
-<p>例えば、「仕事」という用語は物理学でも使うが、物理学者は「労働して働く」のと「物体に力が働く」のははっきり区別してしゃべるし、聞く方もあまりに文脈が違うので混乱することはほとんどない。</p>
-<p>対して、経済学者や経済評論家は「信用」「価値」といった言葉を、経済学の文脈でも、それよりも一般的な「人間を信用する」という意味でもあまり区別せずに使う。</p>
-<p>これは経済というよりは経営に関してしゃべるときに顕著だと思う。</p>
-<p>日常会話にとっては結構重い意味を持つ「信用」や「価値」といった言葉をばんばん使う人は、胡散臭く見えても仕方ない。</p>
-<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2F330k.biz%2F2018%2F02%2F15%2F%25e9%2587%2591%25e8%259e%258d%25e6%25a5%25ad%25e3%2581%25ae%25e4%25ba%25ba%25e3%2581%258c%25e8%2583%25a1%25e6%2595%25a3%25e8%2587%25ad%25e3%2581%258f%25e8%25a6%258b%25e3%2581%2588%25e3%2581%25a6%25e3%2581%2597%25e3%2581%25be%25e3%2581%2586%25e7%2590%2586%25e7%2594%25b1%2F&amp;linkname=%E9%87%91%E8%9E%8D%E6%A5%AD%E3%81%AE%E4%BA%BA%E3%81%8C%E8%83%A1%E6%95%A3%E8%87%AD%E3%81%8F%E8%A6%8B%E3%81%88%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86%E7%90%86%E7%94%B1" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2F330k.biz%2F2018%2F02%2F15%2F%25e9%2587%2591%25e8%259e%258d%25e6%25a5%25ad%25e3%2581%25ae%25e4%25ba%25ba%25e3%2581%258c%25e8%2583%25a1%25e6%2595%25a3%25e8%2587%25ad%25e3%2581%258f%25e8%25a6%258b%25e3%2581%2588%25e3%2581%25a6%25e3%2581%2597%25e3%2581%25be%25e3%2581%2586%25e7%2590%2586%25e7%2594%25b1%2F&amp;linkname=%E9%87%91%E8%9E%8D%E6%A5%AD%E3%81%AE%E4%BA%BA%E3%81%8C%E8%83%A1%E6%95%A3%E8%87%AD%E3%81%8F%E8%A6%8B%E3%81%88%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86%E7%90%86%E7%94%B1" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2F330k.biz%2F2018%2F02%2F15%2F%25e9%2587%2591%25e8%259e%258d%25e6%25a5%25ad%25e3%2581%25ae%25e4%25ba%25ba%25e3%2581%258c%25e8%2583%25a1%25e6%2595%25a3%25e8%2587%25ad%25e3%2581%258f%25e8%25a6%258b%25e3%2581%2588%25e3%2581%25a6%25e3%2581%2597%25e3%2581%25be%25e3%2581%2586%25e7%2590%2586%25e7%2594%25b1%2F&amp;linkname=%E9%87%91%E8%9E%8D%E6%A5%AD%E3%81%AE%E4%BA%BA%E3%81%8C%E8%83%A1%E6%95%A3%E8%87%AD%E3%81%8F%E8%A6%8B%E3%81%88%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86%E7%90%86%E7%94%B1" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2F330k.biz%2F2018%2F02%2F15%2F%25e9%2587%2591%25e8%259e%258d%25e6%25a5%25ad%25e3%2581%25ae%25e4%25ba%25ba%25e3%2581%258c%25e8%2583%25a1%25e6%2595%25a3%25e8%2587%25ad%25e3%2581%258f%25e8%25a6%258b%25e3%2581%2588%25e3%2581%25a6%25e3%2581%2597%25e3%2581%25be%25e3%2581%2586%25e7%2590%2586%25e7%2594%25b1%2F&amp;title=%E9%87%91%E8%9E%8D%E6%A5%AD%E3%81%AE%E4%BA%BA%E3%81%8C%E8%83%A1%E6%95%A3%E8%87%AD%E3%81%8F%E8%A6%8B%E3%81%88%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86%E7%90%86%E7%94%B1" data-a2a-url="https://330k.biz/2018/02/15/%e9%87%91%e8%9e%8d%e6%a5%ad%e3%81%ae%e4%ba%ba%e3%81%8c%e8%83%a1%e6%95%a3%e8%87%ad%e3%81%8f%e8%a6%8b%e3%81%88%e3%81%a6%e3%81%97%e3%81%be%e3%81%86%e7%90%86%e7%94%b1/" data-a2a-title="金融業の人が胡散臭く見えてしまう理由"></a></p>]]></content:encoded>
 			</item>
 	</channel>
 </rss>

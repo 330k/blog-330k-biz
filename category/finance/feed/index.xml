@@ -12,12 +12,66 @@
 	<atom:link href="https://330k.biz/category/finance/feed/" rel="self" type="application/rss+xml" />
 	<link>https://330k.biz/</link>
 	<description>製造業から金融業にエンジニアとして転職。常識や固定観念にとらわれている業界人たちとの価値観の違いを書きます。</description>
-	<lastBuildDate>Wed, 06 Jun 2018 11:43:01 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 06 Jun 2018 12:10:24 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.6</generator>
 	<item>
+		<title>「技術力」とは何か</title>
+		<link>https://330k.biz/2018/06/06/%e3%80%8c%e6%8a%80%e8%a1%93%e5%8a%9b%e3%80%8d%e3%81%a8%e3%81%af%e4%bd%95%e3%81%8b/</link>
+		<pubDate>Wed, 06 Jun 2018 12:10:24 +0000</pubDate>
+		<dc:creator><![CDATA[330k]]></dc:creator>
+				<category><![CDATA[金融]]></category>
+
+		<guid isPermaLink="false">https://330k.biz/?p=30</guid>
+		<description><![CDATA[M&#38;Aで企業情報を見るフロントが、「この会社には技術力ある」と言う。 でも、「具体的に技術力って何」と聞くと、 「他の企業が作れない機能の製品を作る能力」 と金融業の人の大概が返答してくる。 これは誰にとってもわ &#8230; <a href="https://330k.biz/2018/06/06/%e3%80%8c%e6%8a%80%e8%a1%93%e5%8a%9b%e3%80%8d%e3%81%a8%e3%81%af%e4%bd%95%e3%81%8b/" class="more-link"><span class="screen-reader-text">"「技術力」とは何か" の</span>続きを読む</a>]]></description>
+				<content:encoded><![CDATA[<p>M&amp;Aで企業情報を見るフロントが、「この会社には技術力ある」と言う。</p>
+<p>でも、「具体的に技術力って何」と聞くと、<br />
+「他の企業が作れない機能の製品を作る能力」<br />
+と金融業の人の大概が返答してくる。</p>
+<p>これは誰にとってもわかりやすく、納得できる「技術力」と言えるが、<br />
+「技術力」のあるメーカは、<br />
+すべて「他の企業が作れない機能の製品を作る能力」を持っているのか？</p>
+<p>それは違うんじゃないだろうか。<span id="more-30"></span></p>
+<p>さて、現実に「他の企業が作れない機能の製品を作る」というのは非常に難しい。<br />
+逆に考えて、特許を取っている場合を別にすると、<br />
+他社製品の機能を模倣するのは難しいことではない。</p>
+<p>特許を取った場合でさえ、ライバル企業は特許要件に引っかからないように競合製品を出してくる。</p>
+<p>ではどこに「技術力」があるのか。</p>
+<p>我々が商品を買うとき、機能だけではなく、価格、品質、信頼性、納期といった要因を考慮する。これらの要素に「技術力」はある。</p>
+<ul>
+<li>価格
+<ul>
+<li>製造工程でかかるコストを安くする</li>
+<li>より安価な原材料で代替する</li>
+<li>原材料の使用効率(歩留まり)を向上する</li>
+</ul>
+</li>
+<li>品質
+<ul>
+<li>製品のばらつきを抑え、不良品率を抑える(不良品率が小さければ、最終的な製品歩留まりが向上する)</li>
+<li>検査工程を省略する (不良品率が小さければ、検査工程を省略して、その分の人員や設備を削減できる)</li>
+</ul>
+</li>
+<li>信頼性
+<ul>
+<li>製品寿命を長くする</li>
+</ul>
+</li>
+<li>納期
+<ul>
+<li>短い時間で製品を製造する (土木やITシステムなど人月商売では特に)</li>
+<li>物流を効率化し、中間在庫を削減する (トヨタのカンバン方式が代表例)</li>
+</ul>
+</li>
+</ul>
+<p>より詳しくは、別の方の記事ではあるが、<a href="https://medium.com/@tumada/technological-strength-9e4fd03a15cf">『技術力』を分解する</a>がよくまとまっている。</p>
+<p>「技術力」に限らず、よく理解しないまま言葉を使うのは、<br />
+金融業の人間の性なのかもしれない。</p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2F330k.biz%2F2018%2F06%2F06%2F%25e3%2580%258c%25e6%258a%2580%25e8%25a1%2593%25e5%258a%259b%25e3%2580%258d%25e3%2581%25a8%25e3%2581%25af%25e4%25bd%2595%25e3%2581%258b%2F&amp;linkname=%E3%80%8C%E6%8A%80%E8%A1%93%E5%8A%9B%E3%80%8D%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2F330k.biz%2F2018%2F06%2F06%2F%25e3%2580%258c%25e6%258a%2580%25e8%25a1%2593%25e5%258a%259b%25e3%2580%258d%25e3%2581%25a8%25e3%2581%25af%25e4%25bd%2595%25e3%2581%258b%2F&amp;linkname=%E3%80%8C%E6%8A%80%E8%A1%93%E5%8A%9B%E3%80%8D%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2F330k.biz%2F2018%2F06%2F06%2F%25e3%2580%258c%25e6%258a%2580%25e8%25a1%2593%25e5%258a%259b%25e3%2580%258d%25e3%2581%25a8%25e3%2581%25af%25e4%25bd%2595%25e3%2581%258b%2F&amp;linkname=%E3%80%8C%E6%8A%80%E8%A1%93%E5%8A%9B%E3%80%8D%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2F330k.biz%2F2018%2F06%2F06%2F%25e3%2580%258c%25e6%258a%2580%25e8%25a1%2593%25e5%258a%259b%25e3%2580%258d%25e3%2581%25a8%25e3%2581%25af%25e4%25bd%2595%25e3%2581%258b%2F&amp;title=%E3%80%8C%E6%8A%80%E8%A1%93%E5%8A%9B%E3%80%8D%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B" data-a2a-url="https://330k.biz/2018/06/06/%e3%80%8c%e6%8a%80%e8%a1%93%e5%8a%9b%e3%80%8d%e3%81%a8%e3%81%af%e4%bd%95%e3%81%8b/" data-a2a-title="「技術力」とは何か"></a></p>]]></content:encoded>
+			</item>
+		<item>
 		<title>「技術」と「技能」の違い</title>
 		<link>https://330k.biz/2018/06/06/%e3%80%8c%e6%8a%80%e8%a1%93%e3%80%8d%e3%81%a8%e3%80%8c%e6%8a%80%e8%83%bd%e3%80%8d%e3%81%ae%e9%81%95%e3%81%84/</link>
 		<pubDate>Wed, 06 Jun 2018 11:43:01 +0000</pubDate>
