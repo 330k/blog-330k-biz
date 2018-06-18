@@ -11,7 +11,7 @@
 	<title>投資 &#8211; 金融業の一人情シスがアーリーリタイアを目指すブログ</title>
 	<atom:link href="https://330k.biz/category/investment/feed/" rel="self" type="application/rss+xml" />
 	<link>https://330k.biz/</link>
-	<description>製造業から金融業に社内SEとして転職。常識や固定観念にとらわれている業界人たちとの価値観の違いを書いたりしながら、アーリーリタイアを目指します</description>
+	<description>製造業から金融業に社内SEとして転職。独身。アーリーリタイアして隠居することを目指します。</description>
 	<lastBuildDate>Sun, 17 Jun 2018 22:50:22 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
@@ -25,13 +25,13 @@
 				<category><![CDATA[仮想通貨]]></category>
 
 		<guid isPermaLink="false">https://330k.biz/?p=76</guid>
-		<description><![CDATA[CPUでマイニングできる仮想通貨、ときけば、VPSを安く借りればペイするんじゃないか、とだいたいの人が考えると思います。 結論から言うと、これはやめたほうがよいです。 私の場合、AlphaRacksという海外の格安VPS &#8230; <a href="https://330k.biz/2018/06/17/%e6%a0%bc%e5%ae%89vps%e3%81%ab%e3%82%88%e3%82%8b%e4%bb%ae%e6%83%b3%e9%80%9a%e8%b2%a8%e3%81%aecpu%e3%83%9e%e3%82%a4%e3%83%8b%e3%83%b3%e3%82%b0%e3%81%af%e9%9d%9e%e6%8e%a8%e5%a5%a8%e3%81%a7%e3%81%99/" class="more-link"><span class="screen-reader-text">"格安VPSによる仮想通貨のCPUマイニングは非推奨です" の</span>続きを読む</a>]]></description>
+		<description><![CDATA[CPUでマイニングできる仮想通貨、ときけば、VPSを安く借りればペイ&#46;&#46;&#46;]]></description>
 				<content:encoded><![CDATA[<p>CPUでマイニングできる仮想通貨、ときけば、VPSを安く借りればペイするんじゃないか、とだいたいの人が考えると思います。</p>
 <p>結論から言うと、これはやめたほうがよいです。</p>
 <p>私の場合、<a href="https://www.alpharacks.com/myrack/aff.php?aff=1960">AlphaRacks</a>という海外の格安VPSサービスを利用してマイニングしていました。</p>
 <p>CPU利用率を80%に抑えた状態でマイニングしていましたが、その仮想マシンは止められてしまいました。</p>
 <p>その時に届いたメールはこちら。</p>
-<p><img class="alignnone wp-image-78 size-full" src="https://330k.biz/wp-content/uploads/2018/06/2018061703.png" alt="" width="605" height="596" srcset="https://330k.biz/wp-content/uploads/2018/06/2018061703.png 605w, https://330k.biz/wp-content/uploads/2018/06/2018061703-300x296.png 300w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" /></p>
+<p><img class="alignnone wp-image-78 size-full" src="https://330k.biz/wp-content/uploads/2018/06/2018061703.png" alt="" width="605" height="596" srcset="https://330k.biz/wp-content/uploads/2018/06/2018061703.png 605w, https://330k.biz/wp-content/uploads/2018/06/2018061703-300x296.png 300w" sizes="(max-width: 605px) 100vw, 605px" /></p>
 <p>しっかりと、「Suspension Reason: Mining」と書いてあります。</p>
 <p>ちなみに、マイニングツールを動かしていたインスタンスだけが停止され、そうでないインスタンスは無事でした。助かりました。</p>
 <h3>AlphaRacksの格安プラン</h3>
@@ -43,7 +43,7 @@
 <li>Linuxのカーネルバージョンが古い(2.6)ので、dockerの練習などには使えない</li>
 </ul>
 <p>といった点にはご注意ください。</p>
-<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2F330k.biz%2F2018%2F06%2F17%2F%25e6%25a0%25bc%25e5%25ae%2589vps%25e3%2581%25ab%25e3%2582%2588%25e3%2582%258b%25e4%25bb%25ae%25e6%2583%25b3%25e9%2580%259a%25e8%25b2%25a8%25e3%2581%25aecpu%25e3%2583%259e%25e3%2582%25a4%25e3%2583%258b%25e3%2583%25b3%25e3%2582%25b0%25e3%2581%25af%25e9%259d%259e%25e6%258e%25a8%25e5%25a5%25a8%25e3%2581%25a7%25e3%2581%2599%2F&amp;linkname=%E6%A0%BC%E5%AE%89VPS%E3%81%AB%E3%82%88%E3%82%8B%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8%E3%81%AECPU%E3%83%9E%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%AF%E9%9D%9E%E6%8E%A8%E5%A5%A8%E3%81%A7%E3%81%99" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2F330k.biz%2F2018%2F06%2F17%2F%25e6%25a0%25bc%25e5%25ae%2589vps%25e3%2581%25ab%25e3%2582%2588%25e3%2582%258b%25e4%25bb%25ae%25e6%2583%25b3%25e9%2580%259a%25e8%25b2%25a8%25e3%2581%25aecpu%25e3%2583%259e%25e3%2582%25a4%25e3%2583%258b%25e3%2583%25b3%25e3%2582%25b0%25e3%2581%25af%25e9%259d%259e%25e6%258e%25a8%25e5%25a5%25a8%25e3%2581%25a7%25e3%2581%2599%2F&amp;linkname=%E6%A0%BC%E5%AE%89VPS%E3%81%AB%E3%82%88%E3%82%8B%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8%E3%81%AECPU%E3%83%9E%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%AF%E9%9D%9E%E6%8E%A8%E5%A5%A8%E3%81%A7%E3%81%99" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2F330k.biz%2F2018%2F06%2F17%2F%25e6%25a0%25bc%25e5%25ae%2589vps%25e3%2581%25ab%25e3%2582%2588%25e3%2582%258b%25e4%25bb%25ae%25e6%2583%25b3%25e9%2580%259a%25e8%25b2%25a8%25e3%2581%25aecpu%25e3%2583%259e%25e3%2582%25a4%25e3%2583%258b%25e3%2583%25b3%25e3%2582%25b0%25e3%2581%25af%25e9%259d%259e%25e6%258e%25a8%25e5%25a5%25a8%25e3%2581%25a7%25e3%2581%2599%2F&amp;linkname=%E6%A0%BC%E5%AE%89VPS%E3%81%AB%E3%82%88%E3%82%8B%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8%E3%81%AECPU%E3%83%9E%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%AF%E9%9D%9E%E6%8E%A8%E5%A5%A8%E3%81%A7%E3%81%99" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2F330k.biz%2F2018%2F06%2F17%2F%25e6%25a0%25bc%25e5%25ae%2589vps%25e3%2581%25ab%25e3%2582%2588%25e3%2582%258b%25e4%25bb%25ae%25e6%2583%25b3%25e9%2580%259a%25e8%25b2%25a8%25e3%2581%25aecpu%25e3%2583%259e%25e3%2582%25a4%25e3%2583%258b%25e3%2583%25b3%25e3%2582%25b0%25e3%2581%25af%25e9%259d%259e%25e6%258e%25a8%25e5%25a5%25a8%25e3%2581%25a7%25e3%2581%2599%2F&amp;title=%E6%A0%BC%E5%AE%89VPS%E3%81%AB%E3%82%88%E3%82%8B%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8%E3%81%AECPU%E3%83%9E%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%AF%E9%9D%9E%E6%8E%A8%E5%A5%A8%E3%81%A7%E3%81%99" data-a2a-url="https://330k.biz/2018/06/17/%e6%a0%bc%e5%ae%89vps%e3%81%ab%e3%82%88%e3%82%8b%e4%bb%ae%e6%83%b3%e9%80%9a%e8%b2%a8%e3%81%aecpu%e3%83%9e%e3%82%a4%e3%83%8b%e3%83%b3%e3%82%b0%e3%81%af%e9%9d%9e%e6%8e%a8%e5%a5%a8%e3%81%a7%e3%81%99/" data-a2a-title="格安VPSによる仮想通貨のCPUマイニングは非推奨です"></a></p>]]></content:encoded>
+]]></content:encoded>
 			</item>
 		<item>
 		<title>グラボ付きノートPCによる仮想通貨マイニング</title>
@@ -53,7 +53,7 @@
 				<category><![CDATA[仮想通貨]]></category>
 
 		<guid isPermaLink="false">https://330k.biz/?p=68</guid>
-		<description><![CDATA[私の使っているメインPCは、NVIDIAのGeForce GTX 1060 6GBを搭載しており、冬の間の暖房代わりに、マイニングをしてみました。 環境 OS: Ubuntu 17.10 → 18.04 LTS マイニン &#8230; <a href="https://330k.biz/2018/06/17/%e3%82%b0%e3%83%a9%e3%83%9c%e4%bb%98%e3%81%8d%e3%83%8e%e3%83%bc%e3%83%88pc%e3%81%ab%e3%82%88%e3%82%8b%e4%bb%ae%e6%83%b3%e9%80%9a%e8%b2%a8%e3%83%9e%e3%82%a4%e3%83%8b%e3%83%b3%e3%82%b0/" class="more-link"><span class="screen-reader-text">"グラボ付きノートPCによる仮想通貨マイニング" の</span>続きを読む</a>]]></description>
+		<description><![CDATA[私の使っているメインPCは、NVIDIAのGeForce GTX 1&#46;&#46;&#46;]]></description>
 				<content:encoded><![CDATA[<p>私の使っているメインPCは、NVIDIAのGeForce GTX 1060 6GBを搭載しており、冬の間の暖房代わりに、マイニングをしてみました。</p>
 <h3>環境</h3>
 <ul>
@@ -65,7 +65,7 @@
 <h3>結果</h3>
 <p>2018年1月中旬からマイニング開始した結果がこちら。</p>
 <p>&nbsp;</p>
-<p><img class="alignnone wp-image-72 size-full" src="https://330k.biz/wp-content/uploads/2018/06/2018061702.png" alt="" width="1111" height="470" srcset="https://330k.biz/wp-content/uploads/2018/06/2018061702.png 1111w, https://330k.biz/wp-content/uploads/2018/06/2018061702-300x127.png 300w, https://330k.biz/wp-content/uploads/2018/06/2018061702-768x325.png 768w, https://330k.biz/wp-content/uploads/2018/06/2018061702-1024x433.png 1024w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></p>
+<p><img class="alignnone wp-image-72 size-full" src="https://330k.biz/wp-content/uploads/2018/06/2018061702.png" alt="" width="1111" height="470" srcset="https://330k.biz/wp-content/uploads/2018/06/2018061702.png 1111w, https://330k.biz/wp-content/uploads/2018/06/2018061702-300x127.png 300w, https://330k.biz/wp-content/uploads/2018/06/2018061702-768x325.png 768w, https://330k.biz/wp-content/uploads/2018/06/2018061702-1024x433.png 1024w" sizes="(max-width: 1111px) 100vw, 1111px" /></p>
 <p>1ヶ月で0.03ETH程度マイニングできてます。</p>
 <p>日本円換算で1,500円程度でしょうか(1ETH = 50,000JPY)。</p>
 <p>夏になると冷房代にペイしないと思いますので、6月に入ってマイニングは止めています。</p>
@@ -75,7 +75,7 @@
 <li>CPUのマイニングもONにすると、他の作業ができなくなりますので、メインPCではやめたほうがいいと思います。</li>
 <li>Minergateのマイニングプログラムのせいか、GPUのメモリ使用量が日に日に増加していき、2ヶ月ぐらいで落ちます。</li>
 </ul>
-<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2F330k.biz%2F2018%2F06%2F17%2F%25e3%2582%25b0%25e3%2583%25a9%25e3%2583%259c%25e4%25bb%2598%25e3%2581%258d%25e3%2583%258e%25e3%2583%25bc%25e3%2583%2588pc%25e3%2581%25ab%25e3%2582%2588%25e3%2582%258b%25e4%25bb%25ae%25e6%2583%25b3%25e9%2580%259a%25e8%25b2%25a8%25e3%2583%259e%25e3%2582%25a4%25e3%2583%258b%25e3%2583%25b3%25e3%2582%25b0%2F&amp;linkname=%E3%82%B0%E3%83%A9%E3%83%9C%E4%BB%98%E3%81%8D%E3%83%8E%E3%83%BC%E3%83%88PC%E3%81%AB%E3%82%88%E3%82%8B%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8%E3%83%9E%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2F330k.biz%2F2018%2F06%2F17%2F%25e3%2582%25b0%25e3%2583%25a9%25e3%2583%259c%25e4%25bb%2598%25e3%2581%258d%25e3%2583%258e%25e3%2583%25bc%25e3%2583%2588pc%25e3%2581%25ab%25e3%2582%2588%25e3%2582%258b%25e4%25bb%25ae%25e6%2583%25b3%25e9%2580%259a%25e8%25b2%25a8%25e3%2583%259e%25e3%2582%25a4%25e3%2583%258b%25e3%2583%25b3%25e3%2582%25b0%2F&amp;linkname=%E3%82%B0%E3%83%A9%E3%83%9C%E4%BB%98%E3%81%8D%E3%83%8E%E3%83%BC%E3%83%88PC%E3%81%AB%E3%82%88%E3%82%8B%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8%E3%83%9E%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2F330k.biz%2F2018%2F06%2F17%2F%25e3%2582%25b0%25e3%2583%25a9%25e3%2583%259c%25e4%25bb%2598%25e3%2581%258d%25e3%2583%258e%25e3%2583%25bc%25e3%2583%2588pc%25e3%2581%25ab%25e3%2582%2588%25e3%2582%258b%25e4%25bb%25ae%25e6%2583%25b3%25e9%2580%259a%25e8%25b2%25a8%25e3%2583%259e%25e3%2582%25a4%25e3%2583%258b%25e3%2583%25b3%25e3%2582%25b0%2F&amp;linkname=%E3%82%B0%E3%83%A9%E3%83%9C%E4%BB%98%E3%81%8D%E3%83%8E%E3%83%BC%E3%83%88PC%E3%81%AB%E3%82%88%E3%82%8B%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8%E3%83%9E%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2F330k.biz%2F2018%2F06%2F17%2F%25e3%2582%25b0%25e3%2583%25a9%25e3%2583%259c%25e4%25bb%2598%25e3%2581%258d%25e3%2583%258e%25e3%2583%25bc%25e3%2583%2588pc%25e3%2581%25ab%25e3%2582%2588%25e3%2582%258b%25e4%25bb%25ae%25e6%2583%25b3%25e9%2580%259a%25e8%25b2%25a8%25e3%2583%259e%25e3%2582%25a4%25e3%2583%258b%25e3%2583%25b3%25e3%2582%25b0%2F&amp;title=%E3%82%B0%E3%83%A9%E3%83%9C%E4%BB%98%E3%81%8D%E3%83%8E%E3%83%BC%E3%83%88PC%E3%81%AB%E3%82%88%E3%82%8B%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8%E3%83%9E%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0" data-a2a-url="https://330k.biz/2018/06/17/%e3%82%b0%e3%83%a9%e3%83%9c%e4%bb%98%e3%81%8d%e3%83%8e%e3%83%bc%e3%83%88pc%e3%81%ab%e3%82%88%e3%82%8b%e4%bb%ae%e6%83%b3%e9%80%9a%e8%b2%a8%e3%83%9e%e3%82%a4%e3%83%8b%e3%83%b3%e3%82%b0/" data-a2a-title="グラボ付きノートPCによる仮想通貨マイニング"></a></p>]]></content:encoded>
+]]></content:encoded>
 			</item>
 		<item>
 		<title>仮想通貨への投資と取引所の比較</title>
@@ -86,7 +86,7 @@
 		<category><![CDATA[金融・経済]]></category>
 
 		<guid isPermaLink="false">https://330k.biz/?p=63</guid>
-		<description><![CDATA[私は金融業に努めていてインサイダーにあたるため、私は個別株式の売買ができません。 今の会社の給料はいいものの、より早いリタイアを目指すには投資してお金を増やすことが必須なので、2017年11月から仮想通貨への投資を開始し &#8230; <a href="https://330k.biz/2018/06/17/%e4%bb%ae%e6%83%b3%e9%80%9a%e8%b2%a8%e3%81%b8%e3%81%ae%e6%8a%95%e8%b3%87/" class="more-link"><span class="screen-reader-text">"仮想通貨への投資と取引所の比較" の</span>続きを読む</a>]]></description>
+		<description><![CDATA[私は金融業に努めていてインサイダーにあたるため、私は個別株式の売買が&#46;&#46;&#46;]]></description>
 				<content:encoded><![CDATA[<p>私は金融業に努めていてインサイダーにあたるため、私は個別株式の売買ができません。</p>
 <p>今の会社の給料はいいものの、より早いリタイアを目指すには投資してお金を増やすことが必須なので、2017年11月から仮想通貨への投資を開始しました。技術者なのでブロックチェーンに興味があることもあり、今は投資用資産の8割を仮想通貨にしています。</p>
 <ul>
@@ -102,12 +102,12 @@
 <h3>Zaifの特徴</h3>
 <p>なんといっても積立ができるのがZaifの特徴です。私は現在、月10万円をETHで積み立てるように設定しています。</p>
 <p>Zaifコイン積立は、毎月口座振替で自動で引き落としされ、毎日定額だけ仮想通貨を購入します(ドルコスト平均法になります)。引き落とし日は給料日直後を狙っているのか27日あたりですね。手数料が1.5%かかるのが難点ですが、放置プレーでよいので気が楽です。</p>
-<p><img class="alignnone wp-image-64 size-large" src="https://330k.biz/wp-content/uploads/2018/06/2018061701-1024x451.png" alt="" width="840" height="370" srcset="https://330k.biz/wp-content/uploads/2018/06/2018061701-1024x451.png 1024w, https://330k.biz/wp-content/uploads/2018/06/2018061701-300x132.png 300w, https://330k.biz/wp-content/uploads/2018/06/2018061701-768x339.png 768w, https://330k.biz/wp-content/uploads/2018/06/2018061701.png 1132w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></p>
+<p><img class="alignnone wp-image-64 size-large" src="https://330k.biz/wp-content/uploads/2018/06/2018061701-1024x451.png" alt="" width="840" height="370" srcset="https://330k.biz/wp-content/uploads/2018/06/2018061701-1024x451.png 1024w, https://330k.biz/wp-content/uploads/2018/06/2018061701-300x132.png 300w, https://330k.biz/wp-content/uploads/2018/06/2018061701-768x339.png 768w, https://330k.biz/wp-content/uploads/2018/06/2018061701.png 1132w" sizes="(max-width: 840px) 100vw, 840px" /></p>
 <p>→ <a href="https://zaif.jp/?ac=2wdh4kimju">Zaifの口座開設はこちら</a></p>
 <h3>Bitbankの特徴</h3>
 <p>BitbankはUIがよくできていて、操作にストレスがないので、都度購入する際に使ってます。</p>
 <p>あとはリップル(XRP)を日本円から購入できます。</p>
-<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2F330k.biz%2F2018%2F06%2F17%2F%25e4%25bb%25ae%25e6%2583%25b3%25e9%2580%259a%25e8%25b2%25a8%25e3%2581%25b8%25e3%2581%25ae%25e6%258a%2595%25e8%25b3%2587%2F&amp;linkname=%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8%E3%81%B8%E3%81%AE%E6%8A%95%E8%B3%87%E3%81%A8%E5%8F%96%E5%BC%95%E6%89%80%E3%81%AE%E6%AF%94%E8%BC%83" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2F330k.biz%2F2018%2F06%2F17%2F%25e4%25bb%25ae%25e6%2583%25b3%25e9%2580%259a%25e8%25b2%25a8%25e3%2581%25b8%25e3%2581%25ae%25e6%258a%2595%25e8%25b3%2587%2F&amp;linkname=%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8%E3%81%B8%E3%81%AE%E6%8A%95%E8%B3%87%E3%81%A8%E5%8F%96%E5%BC%95%E6%89%80%E3%81%AE%E6%AF%94%E8%BC%83" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2F330k.biz%2F2018%2F06%2F17%2F%25e4%25bb%25ae%25e6%2583%25b3%25e9%2580%259a%25e8%25b2%25a8%25e3%2581%25b8%25e3%2581%25ae%25e6%258a%2595%25e8%25b3%2587%2F&amp;linkname=%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8%E3%81%B8%E3%81%AE%E6%8A%95%E8%B3%87%E3%81%A8%E5%8F%96%E5%BC%95%E6%89%80%E3%81%AE%E6%AF%94%E8%BC%83" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2F330k.biz%2F2018%2F06%2F17%2F%25e4%25bb%25ae%25e6%2583%25b3%25e9%2580%259a%25e8%25b2%25a8%25e3%2581%25b8%25e3%2581%25ae%25e6%258a%2595%25e8%25b3%2587%2F&amp;title=%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8%E3%81%B8%E3%81%AE%E6%8A%95%E8%B3%87%E3%81%A8%E5%8F%96%E5%BC%95%E6%89%80%E3%81%AE%E6%AF%94%E8%BC%83" data-a2a-url="https://330k.biz/2018/06/17/%e4%bb%ae%e6%83%b3%e9%80%9a%e8%b2%a8%e3%81%b8%e3%81%ae%e6%8a%95%e8%b3%87/" data-a2a-title="仮想通貨への投資と取引所の比較"></a></p>]]></content:encoded>
+]]></content:encoded>
 			</item>
 		<item>
 		<title>仮想でない通貨はあるのか？</title>
@@ -118,7 +118,7 @@
 		<category><![CDATA[金融・経済]]></category>
 
 		<guid isPermaLink="false">http://330k.biz/?p=10</guid>
-		<description><![CDATA[現在、「仮想通貨」とよばれるものに接することが多い。仮想通貨には肯定派も否定派もおり、また論点も色々あるが、今回は「仮想でない通貨とは？」を考えたい。 今までの歴史として、通貨や貨幣は以下のように発達してきた。 物々交換 &#8230; <a href="https://330k.biz/2018/02/14/%e4%bb%ae%e6%83%b3%e3%81%a7%e3%81%aa%e3%81%84%e9%80%9a%e8%b2%a8%e3%81%af%e3%81%82%e3%82%8b%e3%81%ae%e3%81%8b%ef%bc%9f/" class="more-link"><span class="screen-reader-text">"仮想でない通貨はあるのか？" の</span>続きを読む</a>]]></description>
+		<description><![CDATA[現在、「仮想通貨」とよばれるものに接することが多い。仮想通貨には肯定&#46;&#46;&#46;]]></description>
 				<content:encoded><![CDATA[<p>現在、「仮想通貨」とよばれるものに接することが多い。仮想通貨には肯定派も否定派もおり、また論点も色々あるが、今回は「仮想でない通貨とは？」を考えたい。</p>
 <p>今までの歴史として、通貨や貨幣は以下のように発達してきた。</p>
 <ol>
@@ -143,7 +143,7 @@
 <p>ということは、<strong>すべての通貨は仮想である</strong>。</p>
 <p>&nbsp;</p>
 <p>これをもっと突き詰めて考えると、人間が認識するものはすべて仮想のもの、実体のないものであることがわかる。これは色即是空などの仏教的な方面に向かう気がする。</p>
-<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2F330k.biz%2F2018%2F02%2F14%2F%25e4%25bb%25ae%25e6%2583%25b3%25e3%2581%25a7%25e3%2581%25aa%25e3%2581%2584%25e9%2580%259a%25e8%25b2%25a8%25e3%2581%25af%25e3%2581%2582%25e3%2582%258b%25e3%2581%25ae%25e3%2581%258b%25ef%25bc%259f%2F&amp;linkname=%E4%BB%AE%E6%83%B3%E3%81%A7%E3%81%AA%E3%81%84%E9%80%9A%E8%B2%A8%E3%81%AF%E3%81%82%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2F330k.biz%2F2018%2F02%2F14%2F%25e4%25bb%25ae%25e6%2583%25b3%25e3%2581%25a7%25e3%2581%25aa%25e3%2581%2584%25e9%2580%259a%25e8%25b2%25a8%25e3%2581%25af%25e3%2581%2582%25e3%2582%258b%25e3%2581%25ae%25e3%2581%258b%25ef%25bc%259f%2F&amp;linkname=%E4%BB%AE%E6%83%B3%E3%81%A7%E3%81%AA%E3%81%84%E9%80%9A%E8%B2%A8%E3%81%AF%E3%81%82%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2F330k.biz%2F2018%2F02%2F14%2F%25e4%25bb%25ae%25e6%2583%25b3%25e3%2581%25a7%25e3%2581%25aa%25e3%2581%2584%25e9%2580%259a%25e8%25b2%25a8%25e3%2581%25af%25e3%2581%2582%25e3%2582%258b%25e3%2581%25ae%25e3%2581%258b%25ef%25bc%259f%2F&amp;linkname=%E4%BB%AE%E6%83%B3%E3%81%A7%E3%81%AA%E3%81%84%E9%80%9A%E8%B2%A8%E3%81%AF%E3%81%82%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2F330k.biz%2F2018%2F02%2F14%2F%25e4%25bb%25ae%25e6%2583%25b3%25e3%2581%25a7%25e3%2581%25aa%25e3%2581%2584%25e9%2580%259a%25e8%25b2%25a8%25e3%2581%25af%25e3%2581%2582%25e3%2582%258b%25e3%2581%25ae%25e3%2581%258b%25ef%25bc%259f%2F&amp;title=%E4%BB%AE%E6%83%B3%E3%81%A7%E3%81%AA%E3%81%84%E9%80%9A%E8%B2%A8%E3%81%AF%E3%81%82%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F" data-a2a-url="https://330k.biz/2018/02/14/%e4%bb%ae%e6%83%b3%e3%81%a7%e3%81%aa%e3%81%84%e9%80%9a%e8%b2%a8%e3%81%af%e3%81%82%e3%82%8b%e3%81%ae%e3%81%8b%ef%bc%9f/" data-a2a-title="仮想でない通貨はあるのか？"></a></p>]]></content:encoded>
+]]></content:encoded>
 			</item>
 	</channel>
 </rss>
