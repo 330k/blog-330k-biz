@@ -12,12 +12,53 @@
 	<atom:link href="https://330k.biz/feed/" rel="self" type="application/rss+xml" />
 	<link>https://330k.biz/</link>
 	<description>製造業から金融業に社内SEとして転職。独身。アーリーリタイアして隠居することを目指します。</description>
-	<lastBuildDate>Mon, 18 Jun 2018 10:33:46 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 18 Jun 2018 11:35:45 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.6</generator>
 	<item>
+		<title>部屋のモノを減らすならインターネット通信環境はWiMAX</title>
+		<link>https://330k.biz/2018/06/18/%e9%83%a8%e5%b1%8b%e3%81%ae%e3%83%a2%e3%83%8e%e3%82%92%e6%b8%9b%e3%82%89%e3%81%99%e3%81%aa%e3%82%89%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%8d%e3%83%83%e3%83%88%e9%80%9a%e4%bf%a1%e7%92%b0%e5%a2%83/</link>
+		<pubDate>Mon, 18 Jun 2018 11:35:45 +0000</pubDate>
+		<dc:creator><![CDATA[330k]]></dc:creator>
+				<category><![CDATA[金融・経済]]></category>
+
+		<guid isPermaLink="false">https://330k.biz/?p=127</guid>
+		<description><![CDATA[自宅のインターネット環境を固定回線にすると、部屋の中にモノが増えます&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<p>自宅のインターネット環境を固定回線にすると、部屋の中にモノが増えます。</p>
+<p>普通、装置としてONUとWi-Fiルータの2つが増えますが、<br />
+これらの間をつなぐ電話線、LANケーブル、電源ケーブルも必要です。</p>
+<p>私はこのゴチャゴチャしたケーブル類が部屋に増えるのが嫌でしたので、<br />
+固定回線代わりにWiMAXにしました。</p>
+<p><span id="more-127"></span></p>
+<p>WiMAXのギガ放題プランも3日間で10GBまで、という制限はありますが、<br />
+他の月間7GBまでに比べればだいぶゆるい制限です。</p>
+<p>仮に3日間で10GBの制限を超えた場合も、<br />
+制限されて1Mbpsなので、私の場合、大体の用事は何とかなります。</p>
+<p>プロバイダはサポート体制に不安はあるものの、<br />
+GMOとくとくBBにしました。</p>
+<p>月額3,686円です。</p>
+<p>WiMAXの端末は、最初は据え置き型の<a href="http://www.uqwimax.jp/products/wimax/novas_homeplusca/">novas Home+CA</a>にしましたが、<br />
+これはハズレでした。</p>
+<p>購入当初はほとんど通信できない状態で、<br />
+ファームウェアのアップデートで何とか使えるようになりましたが、<br />
+それでも突然Pingが200,000ms(200秒、3分以上)とかのすごい値が出たりしていました。</p>
+<p>これでは使い物になりませんでしたので、<br />
+Amazonで持ち運びもできる<a href="http://www.uqwimax.jp/products/wimax/wx02/">WX02</a>を購入し、SIMカードを差し替えて使っています。</p>
+<p>電源もスマートフォンなどと同じmicroUSBで供給できるので、共通化できます。</p>
+<p>固定回線に比べると、どうしてもPingなどは遅いのでネットゲームには向きませんが、</p>
+<ul>
+<li>部屋のモノを減らせる</li>
+<li>いつでも引っ越せる、という精神的な余裕が得られる</li>
+</ul>
+<p>という点で、固定回線代わりにWiMAXを使うのはアリだと思います。</p>
+<p><iframe style="width: 120px; height: 240px;" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&amp;t=330k-22&amp;m=amazon&amp;o=9&amp;p=8&amp;l=as1&amp;IS1=1&amp;detail=1&amp;asins=B018QNJ1G6&amp;linkId=0b4f3bb7174ff352a76911702df61d4b&amp;bc1=000000&amp;lt1=_blank&amp;fc1=333333&amp;lc1=0066c0&amp;bg1=ffffff&amp;f=ifr" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
+</iframe></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>長谷寺の座禅回に参加してきました (1回目)</title>
 		<link>https://330k.biz/2018/06/18/%e9%95%b7%e8%b0%b7%e5%af%ba%e3%81%ae%e5%ba%a7%e7%a6%85%e5%9b%9e%e3%81%ab%e5%8f%82%e5%8a%a0%e3%81%97%e3%81%a6%e3%81%8d%e3%81%be%e3%81%97%e3%81%9f-1%e5%9b%9e%e7%9b%ae/</link>
 		<pubDate>Sun, 17 Jun 2018 22:49:14 +0000</pubDate>
@@ -295,26 +336,6 @@
 <p>長期的な視点を持たない人間だらけの組織になる。</p>
 <p>ただ、誰もが今現在のことしか見えないので、将来が暗いことに誰も気づけない。<br />
 見えないことは幸せではある。</p>
-]]></content:encoded>
-			</item>
-		<item>
-		<title>日本企業で生産性が下がる理由</title>
-		<link>https://330k.biz/2018/06/04/%e6%97%a5%e6%9c%ac%e4%bc%81%e6%a5%ad%e3%81%a7%e7%94%9f%e7%94%a3%e6%80%a7%e3%81%8c%e4%b8%8b%e3%81%8c%e3%82%8b%e7%90%86%e7%94%b1/</link>
-		<pubDate>Mon, 04 Jun 2018 11:43:24 +0000</pubDate>
-		<dc:creator><![CDATA[330k]]></dc:creator>
-				<category><![CDATA[労働]]></category>
-		<category><![CDATA[経営]]></category>
-
-		<guid isPermaLink="false">https://330k.biz/?p=45</guid>
-		<description><![CDATA[「この業務は効果が出なかったことが今までの実績データから分かったので&#46;&#46;&#46;]]></description>
-				<content:encoded><![CDATA[<p>「この業務は効果が出なかったことが今までの実績データから分かったのでやめたほうがよい。」と進言したところ、返ってきた返事。</p>
-<p>「でも、できるかできないかで言ったら、できるんだろ？」</p>
-<p><strong>経営者の仕事はできるできないを判断することじゃなくて、</strong><br />
-<strong>(時間をかけて)やるべきかやらざるべきかを判断すること</strong>。</p>
-<p>まだ時間があるから、と言って費用対効果の薄い仕事を増やすのは、生産性を下げる。</p>
-<p>経営というのは、限りある資本を使っていかに効率よく生産するか、を考えることである。<br />
-<strong>従業員の労働時間が無限にあると考えている時点で経営者失格</strong>である。</p>
-<p>経営者が経営者としての判断をしていないことが日本企業の生産性が悪い一因なのだろう。</p>
 ]]></content:encoded>
 			</item>
 	</channel>
