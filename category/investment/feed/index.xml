@@ -12,7 +12,7 @@
 	<atom:link href="https://330k.biz/category/investment/feed/" rel="self" type="application/rss+xml" />
 	<link>https://330k.biz/</link>
 	<description>製造業から金融業に社内SEとして転職。独身。アーリーリタイアして隠居することを目指します。</description>
-	<lastBuildDate>Sun, 17 Jun 2018 22:50:22 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 18 Jun 2018 10:33:46 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -57,6 +57,8 @@
 				<content:encoded><![CDATA[<p>私の使っているメインPCは、NVIDIAのGeForce GTX 1060 6GBを搭載しており、冬の間の暖房代わりに、マイニングをしてみました。</p>
 <h3>環境</h3>
 <ul>
+<li>CPU: Intel Core i7-7700HQ</li>
+<li>Memory: 16GB</li>
 <li>OS: Ubuntu 17.10 → 18.04 LTS</li>
 <li>マイニングソフト: Minergate</li>
 <li>マイニングした通貨: ETH</li>
