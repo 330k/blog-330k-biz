@@ -12,12 +12,57 @@
 	<atom:link href="https://330k.biz/feed/" rel="self" type="application/rss+xml" />
 	<link>https://330k.biz/</link>
 	<description>製造業から金融業に社内SEとして転職。独身。極端ではないがミニマリスト。アーリーリタイアして隠居することを目指します。</description>
-	<lastBuildDate>Mon, 18 Jun 2018 16:33:26 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 19 Jun 2018 19:59:21 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.6</generator>
 	<item>
+		<title>Amazon Echoと組み合わせる家電リモコンが反応しないとき</title>
+		<link>https://330k.biz/2018/06/20/amazon-echo%e3%81%a8%e7%b5%84%e3%81%bf%e5%90%88%e3%82%8f%e3%81%9b%e3%82%8b%e5%ae%b6%e9%9b%bb%e3%83%aa%e3%83%a2%e3%82%b3%e3%83%b3%e3%81%8c%e5%8f%8d%e5%bf%9c%e3%81%97%e3%81%aa%e3%81%84%e3%81%a8%e3%81%8d/</link>
+		<pubDate>Tue, 19 Jun 2018 19:59:21 +0000</pubDate>
+		<dc:creator><![CDATA[330k]]></dc:creator>
+				<category><![CDATA[生活]]></category>
+
+		<guid isPermaLink="false">https://330k.biz/?p=140</guid>
+		<description><![CDATA[私も技術者の端くれですので、 流行のAmazon Echoと家電リモ&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<p>私も技術者の端くれですので、<br />
+流行のAmazon Echoと家電リモコン(ラトックシステムのRS-WFIREX3)を買ってみました。</p>
+<table>
+<tbody>
+<tr>
+<td><iframe style="width: 120px; height: 240px;" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&amp;t=330k-22&amp;m=amazon&amp;o=9&amp;p=8&amp;l=as1&amp;IS1=1&amp;detail=1&amp;asins=B076Q99TT7&amp;linkId=c72920e247abd880b8c8c17dd8240694&amp;bc1=000000&amp;lt1=_blank&amp;fc1=333333&amp;lc1=0066c0&amp;bg1=ffffff&amp;f=ifr" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
+</iframe></td>
+<td><iframe style="width: 120px; height: 240px;" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&amp;t=330k-22&amp;m=amazon&amp;o=9&amp;p=8&amp;l=as1&amp;IS1=1&amp;detail=1&amp;asins=B072B5BTLK&amp;linkId=76d4259da74be3107eb44857a13512db&amp;bc1=000000&amp;lt1=_blank&amp;fc1=333333&amp;lc1=0066c0&amp;bg1=ffffff&amp;f=ifr" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
+</iframe></td>
+<td><iframe style="width: 120px; height: 240px;" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&amp;t=330k-22&amp;m=amazon&amp;o=9&amp;p=8&amp;l=as1&amp;IS1=1&amp;detail=1&amp;asins=B071ZF5KCM&amp;linkId=05ba1d283ece008d75cfdfaa98b04d38&amp;bc1=000000&amp;lt1=_blank&amp;fc1=333333&amp;lc1=0066c0&amp;bg1=ffffff&amp;f=ifr" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
+</iframe></td>
+<td><iframe style="width: 120px; height: 240px;" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&amp;t=330k-22&amp;m=amazon&amp;o=9&amp;p=8&amp;l=as1&amp;IS1=1&amp;detail=1&amp;asins=B01J4IY8WE&amp;linkId=604d7bacf74bdb659268ea7be0856650&amp;bc1=000000&amp;lt1=_blank&amp;fc1=333333&amp;lc1=0066c0&amp;bg1=ffffff&amp;f=ifr" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
+</iframe></td>
+</tr>
+</tbody>
+</table>
+<p>設定はマニュアルの手順通りにやってすんなりうまくいきました。</p>
+<p>ところが、家に帰ったときに「Alexa、エアコンをつけて」と言っても</p>
+<p>(Alexa)「反応がありません」</p>
+<p>と言われてしまう事象が発生しました。</p>
+<p><span id="more-140"></span></p>
+<p>原因を調べると、RS-WFIREX3は自分から通信を一切しないようで、<br />
+一定時間が経過するとWiMAXのルータのARPテーブルから消えてしまい、<br />
+Echoから通信できなくなる、ということでした。</p>
+<p>解決策としては、他の機器からRS-WFIREX3に定期的に通信、Pingを飛ばせば解決します。</p>
+<p>私の環境の場合、マイニング用に常時起動しているPCがありましたので、<br />
+そこにZabbixという監視用の環境が構築してありました。</p>
+<p>Zabbixには指定のネットワーク範囲の各IPアドレスに対し、<br />
+Pingを飛ばして死活監視する機能がありますので、<br />
+それを利用しました。</p>
+<p><img class="alignnone size-full wp-image-141" src="https://330k.biz/wp-content/uploads/2018/06/2018062001.png" alt="" width="957" height="272" srcset="https://330k.biz/wp-content/uploads/2018/06/2018062001.png 957w, https://330k.biz/wp-content/uploads/2018/06/2018062001-300x85.png 300w, https://330k.biz/wp-content/uploads/2018/06/2018062001-768x218.png 768w" sizes="(max-width: 957px) 100vw, 957px" /></p>
+<p>これで、「アレクサ、エアコンをつけて」「アレクサ、照明をつけて」といえば</p>
+<p>(Alexa)「はい」</p>
+<p>とスマートホームっぽい環境になりました。</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>ミニマリストのための財布、薄い財布abrAsus</title>
 		<link>https://330k.biz/2018/06/19/%e3%83%9f%e3%83%8b%e3%83%9e%e3%83%aa%e3%82%b9%e3%83%88%e3%81%ae%e3%81%9f%e3%82%81%e3%81%ae%e8%b2%a1%e5%b8%83%e3%80%81%e8%96%84%e3%81%84%e8%b2%a1%e5%b8%83abrasus/</link>
 		<pubDate>Mon, 18 Jun 2018 16:31:47 +0000</pubDate>
@@ -306,60 +351,6 @@ Amazonで持ち運びもできる<a href="http://www.uqwimax.jp/products/wimax/w
 <h3>Bitbankの特徴</h3>
 <p>BitbankはUIがよくできていて、操作にストレスがないので、都度購入する際に使ってます。</p>
 <p>あとはリップル(XRP)を日本円から購入できます。</p>
-]]></content:encoded>
-			</item>
-		<item>
-		<title>「技術力」とは何か</title>
-		<link>https://330k.biz/2018/06/06/%e3%80%8c%e6%8a%80%e8%a1%93%e5%8a%9b%e3%80%8d%e3%81%a8%e3%81%af%e4%bd%95%e3%81%8b/</link>
-		<pubDate>Wed, 06 Jun 2018 12:10:24 +0000</pubDate>
-		<dc:creator><![CDATA[330k]]></dc:creator>
-				<category><![CDATA[金融・経済]]></category>
-
-		<guid isPermaLink="false">https://330k.biz/?p=30</guid>
-		<description><![CDATA[M&#38;Aで企業情報を見るフロントが、「この会社には技術力ある」&#46;&#46;&#46;]]></description>
-				<content:encoded><![CDATA[<p>M&amp;Aで企業情報を見るフロントが、「この会社には技術力ある」と言う。</p>
-<p>でも、「具体的に技術力って何」と聞くと、<br />
-「他の企業が作れない機能の製品を作る能力」<br />
-と金融業の人の大概が返答してくる。</p>
-<p>これは誰にとってもわかりやすく、納得できる「技術力」と言えるが、<br />
-「技術力」のあるメーカは、<br />
-すべて「他の企業が作れない機能の製品を作る能力」を持っているのか？</p>
-<p>それは違うんじゃないだろうか。<span id="more-30"></span></p>
-<p>さて、現実に「他の企業が作れない機能の製品を作る」というのは非常に難しい。<br />
-逆に考えて、特許を取っている場合を別にすると、<br />
-他社製品の機能を模倣するのは難しいことではない。</p>
-<p>特許を取った場合でさえ、ライバル企業は特許要件に引っかからないように競合製品を出してくる。</p>
-<p>ではどこに「技術力」があるのか。</p>
-<p>我々が商品を買うとき、機能だけではなく、価格、品質、信頼性、納期といった要因を考慮する。これらの要素に「技術力」はある。</p>
-<ul>
-<li>価格
-<ul>
-<li>製造工程でかかるコストを安くする</li>
-<li>より安価な原材料で代替する</li>
-<li>原材料の使用効率(歩留まり)を向上する</li>
-</ul>
-</li>
-<li>品質
-<ul>
-<li>製品のばらつきを抑え、不良品率を抑える(不良品率が小さければ、最終的な製品歩留まりが向上する)</li>
-<li>検査工程を省略する (不良品率が小さければ、検査工程を省略して、その分の人員や設備を削減できる)</li>
-</ul>
-</li>
-<li>信頼性
-<ul>
-<li>製品寿命を長くする</li>
-</ul>
-</li>
-<li>納期
-<ul>
-<li>短い時間で製品を製造する (土木やITシステムなど人月商売では特に)</li>
-<li>物流を効率化し、中間在庫を削減する (トヨタのカンバン方式が代表例)</li>
-</ul>
-</li>
-</ul>
-<p>より詳しくは、別の方の記事ではあるが、<a href="https://medium.com/@tumada/technological-strength-9e4fd03a15cf">『技術力』を分解する</a>がよくまとまっている。</p>
-<p>「技術力」に限らず、よく理解しないまま言葉を使うのは、<br />
-金融業の人間の性なのかもしれない。</p>
 ]]></content:encoded>
 			</item>
 	</channel>
