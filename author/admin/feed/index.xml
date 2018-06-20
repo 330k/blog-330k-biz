@@ -12,12 +12,56 @@
 	<atom:link href="https://330k.biz/author/admin/feed/" rel="self" type="application/rss+xml" />
 	<link>https://330k.biz/</link>
 	<description>製造業から金融業に社内SEとして転職。独身。極端ではないがミニマリスト。アーリーリタイアして隠居することを目指します。</description>
-	<lastBuildDate>Tue, 19 Jun 2018 19:59:21 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 20 Jun 2018 11:30:18 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.6</generator>
 	<item>
+		<title>断捨離として本の自炊はアリか？</title>
+		<link>https://330k.biz/2018/06/20/%e6%96%ad%e6%8d%a8%e9%9b%a2%e3%81%a8%e3%81%97%e3%81%a6%e6%9c%ac%e3%81%ae%e8%87%aa%e7%82%8a%e3%81%af%e3%82%a2%e3%83%aa%e3%81%8b%ef%bc%9f/</link>
+		<pubDate>Wed, 20 Jun 2018 11:29:47 +0000</pubDate>
+		<dc:creator><![CDATA[330k]]></dc:creator>
+				<category><![CDATA[生活]]></category>
+
+		<guid isPermaLink="false">https://330k.biz/?p=144</guid>
+		<description><![CDATA[私の家には本棚がありません。 一度、意を決して持っている本をすべて自&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<p>私の家には本棚がありません。<br />
+一度、意を決して持っている本をすべて自炊(裁断 + スキャン)しました。</p>
+<p>本が増えすぎて困っている人の他に、ミニマリストなどの、<br />
+モノを極力減らしたい人も検討したことがあると思います。<br />
+私もモノを減らしたかったので自炊しました。</p>
+<p>モノを減らすのが目的なので、裁断機やスキャナを購入するのはナンセンスです。<br />
+なので、レンタルすることにしました。</p>
+<p>利用したのはDMMいろいろレンタルです。</p>
+<p><a href="https://px.a8.net/svt/ejp?a8mat=2ZJBNM+4T95TE+26ZC+4ATRV5" target="_blank" rel="nofollow noopener"><br />
+<img src="https://www21.a8.net/svt/bgt?aid=180620482291&amp;wid=001&amp;eno=01&amp;mid=s00000010236026005000&amp;mc=1" alt="" width="468" height="60" border="0" /></a><br />
+<img src="https://www13.a8.net/0.gif?a8mat=2ZJBNM+4T95TE+26ZC+4ATRV5" alt="" width="1" height="1" border="0" /></p>
+<p>ちょっと高かったのですが、1週間裁断機とスキャナ(ScanSnap iX500)をレンタルしました。</p>
+<p>初日に届いたダンボールを開梱し、その後は会社から帰ったらひたすらスキャンしました。</p>
+<p>ちなみに、私は普段Linuxを利用していますので、<br />
+仮想マシン(VirtualBox)上のWindowsにスキャナのドライバとスキャンアプリをインストールしました。<br />
+スキャナとはUSB接続ですが、きちんと動作しました。</p>
+<p>その感想ですが・・・・</p>
+<p><strong>自炊するのは電子書籍で買えない本だけにするべき</strong>だ、と思いました。</p>
+<p>手持ちの本を裁断してスキャナに入れるのですが・・・</p>
+<ul>
+<li>キレイに裁断するのにコツと集中力が必要</li>
+<li>200ページくらいある本は、スキャナで1度には取り込めない</li>
+<li>たま〜に紙送りが失敗するので、スキャナに付きっきりでいる必要がある</li>
+<li>何より結構時間がかかる(慣れてきても1冊15分〜20分かかりました)</li>
+</ul>
+<p>という理由で、電子書籍で買える本は買ってしまったほうがラクです。</p>
+<p>なお、自炊するメリットもあって、<br />
+いつ事業が終了するかわからない電子書籍の恐怖に怯えなくてすみます。</p>
+<p>電子書籍はKindleや楽天Koboなどいくつか利用していますが、<br />
+私はKindleをおすすめします。</p>
+<p>Koboに比べてKindleのほうが安い本が多いですし、<br />
+Amazonのほうが事業の継続性で信用できる、という判断です。</p>
+<p><iframe style="border: none;" src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&amp;p=12&amp;l=ur1&amp;category=kindlerotate&amp;f=ifr&amp;linkID=70b8d31a87b2abb7f06f9ac61858be5d&amp;t=330k-22&amp;tracking_id=330k-22" width="300" height="250" frameborder="0" marginwidth="0" scrolling="no"></iframe></p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>Amazon Echoと組み合わせる家電リモコンが反応しないとき</title>
 		<link>https://330k.biz/2018/06/20/amazon-echo%e3%81%a8%e7%b5%84%e3%81%bf%e5%90%88%e3%82%8f%e3%81%9b%e3%82%8b%e5%ae%b6%e9%9b%bb%e3%83%aa%e3%83%a2%e3%82%b3%e3%83%b3%e3%81%8c%e5%8f%8d%e5%bf%9c%e3%81%97%e3%81%aa%e3%81%84%e3%81%a8%e3%81%8d/</link>
 		<pubDate>Tue, 19 Jun 2018 19:59:21 +0000</pubDate>
@@ -319,38 +363,6 @@ Amazonで持ち運びもできる<a href="http://www.uqwimax.jp/products/wimax/w
 <li>CPUのマイニングもONにすると、他の作業ができなくなりますので、メインPCではやめたほうがいいと思います。</li>
 <li>Minergateのマイニングプログラムのせいか、GPUのメモリ使用量が日に日に増加していき、2ヶ月ぐらいで落ちます。</li>
 </ul>
-]]></content:encoded>
-			</item>
-		<item>
-		<title>仮想通貨への投資と取引所の比較</title>
-		<link>https://330k.biz/2018/06/17/%e4%bb%ae%e6%83%b3%e9%80%9a%e8%b2%a8%e3%81%b8%e3%81%ae%e6%8a%95%e8%b3%87/</link>
-		<pubDate>Sun, 17 Jun 2018 00:58:58 +0000</pubDate>
-		<dc:creator><![CDATA[330k]]></dc:creator>
-				<category><![CDATA[仮想通貨]]></category>
-		<category><![CDATA[金融・経済]]></category>
-
-		<guid isPermaLink="false">https://330k.biz/?p=63</guid>
-		<description><![CDATA[私は金融業に努めていてインサイダーにあたるため、私は個別株式の売買が&#46;&#46;&#46;]]></description>
-				<content:encoded><![CDATA[<p>私は金融業に努めていてインサイダーにあたるため、私は個別株式の売買ができません。</p>
-<p>今の会社の給料はいいものの、より早いリタイアを目指すには投資してお金を増やすことが必須なので、2017年11月から仮想通貨への投資を開始しました。技術者なのでブロックチェーンに興味があることもあり、今は投資用資産の8割を仮想通貨にしています。</p>
-<ul>
-<li>2017年11月  Coincheckに口座開設</li>
-<li>2017年12月 BTC、ETH、XRPを中心に買い増しを開始</li>
-<li>2018年01月16日 仮想通貨の相場が急落。時価が半分ぐらいに。</li>
-<li>2018年01月26日 Coincheckがハッキングされて取引できなくなる。</li>
-<li>2018年01月27日 注文していたハードウェアウォレットが届く。1日間に合わず。</li>
-</ul>
-<p>と、いろんな事件や急落に思いっきり巻き込まれてます。</p>
-<p>もちろん、取引所をCoincheckの1箇所にしたかったわけではなく、複数申込みをしていたのですが、本人確認の処理が一番早かったのがCoincheckだったため、Coincheckメインで取引をしていました。</p>
-<p>現在は積立ができる<a href="https://zaif.jp/?ac=2wdh4kimju">Zaif</a>とBitbankをメインに使っています。</p>
-<h3>Zaifの特徴</h3>
-<p>なんといっても積立ができるのがZaifの特徴です。私は現在、月10万円をETHで積み立てるように設定しています。</p>
-<p>Zaifコイン積立は、毎月口座振替で自動で引き落としされ、毎日定額だけ仮想通貨を購入します(ドルコスト平均法になります)。引き落とし日は給料日直後を狙っているのか27日あたりですね。手数料が1.5%かかるのが難点ですが、放置プレーでよいので気が楽です。</p>
-<p><img class="alignnone wp-image-64 size-large" src="https://330k.biz/wp-content/uploads/2018/06/2018061701-1024x451.png" alt="" width="840" height="370" srcset="https://330k.biz/wp-content/uploads/2018/06/2018061701-1024x451.png 1024w, https://330k.biz/wp-content/uploads/2018/06/2018061701-300x132.png 300w, https://330k.biz/wp-content/uploads/2018/06/2018061701-768x339.png 768w, https://330k.biz/wp-content/uploads/2018/06/2018061701.png 1132w" sizes="(max-width: 840px) 100vw, 840px" /></p>
-<p>→ <a href="https://zaif.jp/?ac=2wdh4kimju">Zaifの口座開設はこちら</a></p>
-<h3>Bitbankの特徴</h3>
-<p>BitbankはUIがよくできていて、操作にストレスがないので、都度購入する際に使ってます。</p>
-<p>あとはリップル(XRP)を日本円から購入できます。</p>
 ]]></content:encoded>
 			</item>
 	</channel>
