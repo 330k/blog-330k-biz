@@ -12,12 +12,41 @@
 	<atom:link href="https://330k.biz/feed/" rel="self" type="application/rss+xml" />
 	<link>https://330k.biz/</link>
 	<description>製造業から金融業に社内SEとして転職。独身。極端ではないがミニマリスト。アーリーリタイアして隠居することを目指します。</description>
-	<lastBuildDate>Fri, 22 Jun 2018 12:38:49 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 22 Jun 2018 13:07:11 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.6</generator>
 	<item>
+		<title>モノを減らしたい人にオススメのスピーカー、JBL Pebbles</title>
+		<link>https://330k.biz/2018/06/22/%e3%83%a2%e3%83%8e%e3%82%92%e6%b8%9b%e3%82%89%e3%81%97%e3%81%9f%e3%81%84%e4%ba%ba%e3%81%ab%e3%82%aa%e3%82%b9%e3%82%b9%e3%83%a1%e3%81%ae%e3%82%b9%e3%83%94%e3%83%bc%e3%82%ab%e3%83%bc%e3%80%81jbl-pebbles/</link>
+		<pubDate>Fri, 22 Jun 2018 13:06:41 +0000</pubDate>
+		<dc:creator><![CDATA[330k]]></dc:creator>
+				<category><![CDATA[金融・経済]]></category>
+
+		<guid isPermaLink="false">https://330k.biz/?p=62</guid>
+		<description><![CDATA[PCの周辺機器で、微妙に悩ましいのがスピーカーです。 ゲームをするわ&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<p>PCの周辺機器で、微妙に悩ましいのがスピーカーです。</p>
+<p>ゲームをするわけではないけれど、ノートPCのスピーカーではちょっと不満。<br />
+とはいえ、モノを増やしたくないのに大きいスピーカーは買いたくない・・・。</p>
+<p>最近はBluetoothで動作する無線式のスピーカーも多いけれど、<br />
+結局は電源ケーブルが必要なので、モノはあまり減らない・・・。</p>
+<p>そんなふうにああでもない、こうでもないと悩んでいましたが、<br />
+悩み抜いた結果、JBLのPebblesというスピーカーにしました。</p>
+<p><iframe style="width: 120px; height: 240px;" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&amp;t=330k-22&amp;m=amazon&amp;o=9&amp;p=8&amp;l=as1&amp;IS1=1&amp;detail=1&amp;asins=B00EOKZ7GY&amp;linkId=39cd34aa95ca2ac0ce92bf3b654ef16b&amp;bc1=000000&amp;lt1=_blank&amp;fc1=333333&amp;lc1=0066c0&amp;bg1=ffffff&amp;f=ifr" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
+</iframe></p>
+<p>このスピーカーはUSBバスパワーで動作しますので、<br />
+他のスピーカーのようにラインケーブルと別に電源ケーブルが不要になります。</p>
+<p>Bluetoothの無線式スピーカーの場合、ACアダプタ + 電源ケーブル + スピーカー本体になりますが、<br />
+JBL Pebblesの場合は、USBケーブル + スピーカー本体になり、シンプルです。</p>
+<p>また、Bluetooth方式のもの違って、遅延がほとんどないのもGoodです。</p>
+<p>音量も一人暮らしの人間にとっては十分な大きさです。<br />
+これ以上大きな音量のスピーカーでは近所迷惑になりそうです。</p>
+<p>Amazonだけでなく、ビックカメラなどの量販店でも売っていますので、<br />
+実物のサウンドを確認してから購入することもできますよ。</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>自動ロボット掃除機とミニマリストは相性が良い</title>
 		<link>https://330k.biz/2018/06/22/%e8%87%aa%e5%8b%95%e3%83%ad%e3%83%9c%e3%83%83%e3%83%88%e6%8e%83%e9%99%a4%e6%a9%9f%e3%81%af%e3%83%9f%e3%83%8b%e3%83%9e%e3%83%aa%e3%82%b9%e3%83%88%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6%e3%81%af%e7%9b%b8/</link>
 		<pubDate>Fri, 22 Jun 2018 12:37:31 +0000</pubDate>
@@ -325,45 +354,6 @@ Amazonで持ち運びもできる<a href="http://www.uqwimax.jp/products/wimax/w
 <li>Linuxのカーネルバージョンが古い(2.6)ので、dockerの練習などには使えない</li>
 </ul>
 <p>といった点にはご注意ください。</p>
-]]></content:encoded>
-			</item>
-		<item>
-		<title>パワハラに対抗するにはICレコーダーを買いましょう</title>
-		<link>https://330k.biz/2018/06/17/%e3%83%91%e3%83%af%e3%83%8f%e3%83%a9%e3%81%ab%e5%af%be%e6%8a%97%e3%81%99%e3%82%8b%e3%81%ab%e3%81%afic%e3%83%ac%e3%82%b3%e3%83%bc%e3%83%80%e3%83%bc%e3%82%92%e8%b2%b7%e3%81%84%e3%81%be%e3%81%97%e3%82%87/</link>
-		<pubDate>Sun, 17 Jun 2018 01:49:03 +0000</pubDate>
-		<dc:creator><![CDATA[330k]]></dc:creator>
-				<category><![CDATA[金融・経済]]></category>
-
-		<guid isPermaLink="false">https://330k.biz/?p=74</guid>
-		<description><![CDATA[転職直後、6ヶ月ほど違う会社に派遣されて研修を受けていたのですが、そ&#46;&#46;&#46;]]></description>
-				<content:encoded><![CDATA[<p>転職直後、6ヶ月ほど違う会社に派遣されて研修を受けていたのですが、そこでパワハラを受けていました。</p>
-<p>その期間は朝起きれなくなったり、下痢がひどくなったりしていました。</p>
-<p>パワハラはほとんど言葉によるものでしたので、ICレコーダーを購入して毎日秘密録音したところ、これがかなり精神的に余裕ができました。</p>
-<p>今、悩んでいる人はまずICレコーダーを購入して毎日会社で秘密録音することをおすすめします。</p>
-<h3>ICレコーダーの選び方</h3>
-<p>秘密録音が目的なので、</p>
-<ul>
-<li>ポケットなどにいれたときに目立たないこと</li>
-<li>ポケットに入れたままでも、会話の内容程度は判別できる音質であること</li>
-<li>1日の労働時間ずっと電池が持つこと</li>
-<li>録音データのPCへの回収や充電(または電池交換)が楽なこと</li>
-</ul>
-<p>が要件になります。</p>
-<p>私はPanasonicのRR-XP007を購入しました。</p>
-<p><iframe style="width: 120px; height: 240px;" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&amp;t=330k-22&amp;m=amazon&amp;o=9&amp;p=8&amp;l=as1&amp;IS1=1&amp;detail=1&amp;asins=B01FLNOOV6&amp;linkId=d6f83f3b7705642d3baa27c467d91982&amp;bc1=000000&amp;lt1=_blank&amp;fc1=333333&amp;lc1=0066c0&amp;bg1=ffffff&amp;f=ifr" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
-</iframe></p>
-<p>これは単4型乾電池1本で12時間以上持つ上、単4型の充電池(エネループなど)を入れると、USBで充電可能なところが非常に便利です。</p>
-<p>PCとUSBで接続すると、録音データの回収と同時に充電ができます。</p>
-<h3>毎日のルーチン</h3>
-<p>私は毎日以下のような作業を行っています。</p>
-<ul>
-<li>朝の出勤時にICレコーダーの電源と録音ボタンを入れる</li>
-<li>背広を着る時期は胸の内ポケットに、そうでない時期はズボンのポケットに入れる</li>
-<li>勤務時間中は放置</li>
-<li>帰宅したら、録音を停止して、PCとUSBで接続し、録音データを回収</li>
-<li>PCとUSBで接続したままにしておき、充電を行う(翌朝までには充電完了する)</li>
-</ul>
-<p>私は秘密録音をかれこれ3年以上続けていますが、重ねていいますが精神的な余裕度が段違いです。おすすめです。</p>
 ]]></content:encoded>
 			</item>
 	</channel>
