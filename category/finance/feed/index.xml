@@ -12,38 +12,54 @@
 	<atom:link href="https://330k.biz/category/finance/feed/" rel="self" type="application/rss+xml" />
 	<link>https://330k.biz/</link>
 	<description>製造業から金融業に社内SEとして転職。独身。極端ではないがミニマリスト。アーリーリタイアして隠居することを目指します。</description>
-	<lastBuildDate>Fri, 22 Jun 2018 13:07:11 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 24 Jun 2018 06:59:42 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.6</generator>
 	<item>
-		<title>モノを減らしたい人にオススメのスピーカー、JBL Pebbles</title>
-		<link>https://330k.biz/2018/06/22/%e3%83%a2%e3%83%8e%e3%82%92%e6%b8%9b%e3%82%89%e3%81%97%e3%81%9f%e3%81%84%e4%ba%ba%e3%81%ab%e3%82%aa%e3%82%b9%e3%82%b9%e3%83%a1%e3%81%ae%e3%82%b9%e3%83%94%e3%83%bc%e3%82%ab%e3%83%bc%e3%80%81jbl-pebbles/</link>
-		<pubDate>Fri, 22 Jun 2018 13:06:41 +0000</pubDate>
+		<title>今からブログを始めるなら、格安VPS + WordPress + Simply Static + GitHub Pagesがいいかも</title>
+		<link>https://330k.biz/2018/06/24/%e4%bb%8a%e3%81%8b%e3%82%89%e3%83%96%e3%83%ad%e3%82%b0%e3%82%92%e5%a7%8b%e3%82%81%e3%82%8b%e3%81%aa%e3%82%89%e3%80%81%e6%a0%bc%e5%ae%89vps-wordpress-simply-static-github-pages%e3%81%8c%e3%81%84/</link>
+		<pubDate>Sun, 24 Jun 2018 06:57:08 +0000</pubDate>
 		<dc:creator><![CDATA[330k]]></dc:creator>
 				<category><![CDATA[金融・経済]]></category>
 
-		<guid isPermaLink="false">https://330k.biz/?p=62</guid>
-		<description><![CDATA[PCの周辺機器で、微妙に悩ましいのがスピーカーです。 ゲームをするわ&#46;&#46;&#46;]]></description>
-				<content:encoded><![CDATA[<p>PCの周辺機器で、微妙に悩ましいのがスピーカーです。</p>
-<p>ゲームをするわけではないけれど、ノートPCのスピーカーではちょっと不満。<br />
-とはいえ、モノを増やしたくないのに大きいスピーカーは買いたくない・・・。</p>
-<p>最近はBluetoothで動作する無線式のスピーカーも多いけれど、<br />
-結局は電源ケーブルが必要なので、モノはあまり減らない・・・。</p>
-<p>そんなふうにああでもない、こうでもないと悩んでいましたが、<br />
-悩み抜いた結果、JBLのPebblesというスピーカーにしました。</p>
-<p><iframe style="width: 120px; height: 240px;" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&amp;t=330k-22&amp;m=amazon&amp;o=9&amp;p=8&amp;l=as1&amp;IS1=1&amp;detail=1&amp;asins=B00EOKZ7GY&amp;linkId=39cd34aa95ca2ac0ce92bf3b654ef16b&amp;bc1=000000&amp;lt1=_blank&amp;fc1=333333&amp;lc1=0066c0&amp;bg1=ffffff&amp;f=ifr" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
-</iframe></p>
-<p>このスピーカーはUSBバスパワーで動作しますので、<br />
-他のスピーカーのようにラインケーブルと別に電源ケーブルが不要になります。</p>
-<p>Bluetoothの無線式スピーカーの場合、ACアダプタ + 電源ケーブル + スピーカー本体になりますが、<br />
-JBL Pebblesの場合は、USBケーブル + スピーカー本体になり、シンプルです。</p>
-<p>また、Bluetooth方式のもの違って、遅延がほとんどないのもGoodです。</p>
-<p>音量も一人暮らしの人間にとっては十分な大きさです。<br />
-これ以上大きな音量のスピーカーでは近所迷惑になりそうです。</p>
-<p>Amazonだけでなく、ビックカメラなどの量販店でも売っていますので、<br />
-実物のサウンドを確認してから購入することもできますよ。</p>
+		<guid isPermaLink="false">https://330k.biz/?p=159</guid>
+		<description><![CDATA[このブログはタイトル通り、 海外の格安VPS (年額10ドル)上に &#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<p>このブログはタイトル通り、</p>
+<ul>
+<li>海外の格安VPS (年額10ドル)上に</li>
+<li>WordPressを構築</li>
+<li>Simply Staticプラグインで静的ページを生成し</li>
+<li>GitHub Pagesで公開</li>
+</ul>
+<p>という構成を取っています。</p>
+<p>この構成のメリットは、</p>
+<ul>
+<li>WordPressの豊富なテーマを使える</li>
+<li>GitHub PagesはHTTPSに標準対応</li>
+<li>独自ドメインもOK</li>
+<li>レスポンスが高速</li>
+<li>トラフィック量の増大にも、静的ページを表示する部分を<br />
+GitHub PagesからAmazon S3などに変えれば対応可能</li>
+</ul>
+<p>といった点があります。</p>
+<p>反対に、デメリットは</p>
+<ul>
+<li>構成要素が多いので、知識がより多く必要</li>
+<li>記事の更新が反映されるまでに、<br />
+Simply Staticで静的ページの生成 → GitHub Pagesにpushを行う必要がある</li>
+</ul>
+<p>といった点でしょうか。</p>
+<p>IT関連のエンジニアであれば、</p>
+<ul>
+<li>VPSを借りる</li>
+<li>ApacheとPHPをインストールし、WordPressをセットアップする</li>
+<li>WordPressのSimply Staticプラグインをインストールする</li>
+<li>GitHubのリポジトリを作成する</li>
+<li>Simply Staticの出力先フォルダを、GitHubのリポジトリにpushする</li>
+</ul>
+<p>というのができれば大丈夫です。</p>
 ]]></content:encoded>
 			</item>
 		<item>

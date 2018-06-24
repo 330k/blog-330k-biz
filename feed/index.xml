@@ -12,17 +12,128 @@
 	<atom:link href="https://330k.biz/feed/" rel="self" type="application/rss+xml" />
 	<link>https://330k.biz/</link>
 	<description>製造業から金融業に社内SEとして転職。独身。極端ではないがミニマリスト。アーリーリタイアして隠居することを目指します。</description>
-	<lastBuildDate>Fri, 22 Jun 2018 13:07:11 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 24 Jun 2018 06:59:42 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.6</generator>
 	<item>
+		<title>今からブログを始めるなら、格安VPS + WordPress + Simply Static + GitHub Pagesがいいかも</title>
+		<link>https://330k.biz/2018/06/24/%e4%bb%8a%e3%81%8b%e3%82%89%e3%83%96%e3%83%ad%e3%82%b0%e3%82%92%e5%a7%8b%e3%82%81%e3%82%8b%e3%81%aa%e3%82%89%e3%80%81%e6%a0%bc%e5%ae%89vps-wordpress-simply-static-github-pages%e3%81%8c%e3%81%84/</link>
+		<pubDate>Sun, 24 Jun 2018 06:57:08 +0000</pubDate>
+		<dc:creator><![CDATA[330k]]></dc:creator>
+				<category><![CDATA[金融・経済]]></category>
+
+		<guid isPermaLink="false">https://330k.biz/?p=159</guid>
+		<description><![CDATA[このブログはタイトル通り、 海外の格安VPS (年額10ドル)上に &#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<p>このブログはタイトル通り、</p>
+<ul>
+<li>海外の格安VPS (年額10ドル)上に</li>
+<li>WordPressを構築</li>
+<li>Simply Staticプラグインで静的ページを生成し</li>
+<li>GitHub Pagesで公開</li>
+</ul>
+<p>という構成を取っています。</p>
+<p>この構成のメリットは、</p>
+<ul>
+<li>WordPressの豊富なテーマを使える</li>
+<li>GitHub PagesはHTTPSに標準対応</li>
+<li>独自ドメインもOK</li>
+<li>レスポンスが高速</li>
+<li>トラフィック量の増大にも、静的ページを表示する部分を<br />
+GitHub PagesからAmazon S3などに変えれば対応可能</li>
+</ul>
+<p>といった点があります。</p>
+<p>反対に、デメリットは</p>
+<ul>
+<li>構成要素が多いので、知識がより多く必要</li>
+<li>記事の更新が反映されるまでに、<br />
+Simply Staticで静的ページの生成 → GitHub Pagesにpushを行う必要がある</li>
+</ul>
+<p>といった点でしょうか。</p>
+<p>IT関連のエンジニアであれば、</p>
+<ul>
+<li>VPSを借りる</li>
+<li>ApacheとPHPをインストールし、WordPressをセットアップする</li>
+<li>WordPressのSimply Staticプラグインをインストールする</li>
+<li>GitHubのリポジトリを作成する</li>
+<li>Simply Staticの出力先フォルダを、GitHubのリポジトリにpushする</li>
+</ul>
+<p>というのができれば大丈夫です。</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>私が目指す隠居生活</title>
+		<link>https://330k.biz/2018/06/24/%e7%a7%81%e3%81%8c%e7%9b%ae%e6%8c%87%e3%81%99%e9%9a%a0%e5%b1%85%e7%94%9f%e6%b4%bb/</link>
+		<pubDate>Sun, 24 Jun 2018 06:45:35 +0000</pubDate>
+		<dc:creator><![CDATA[330k]]></dc:creator>
+				<category><![CDATA[仏教]]></category>
+		<category><![CDATA[生活]]></category>
+
+		<guid isPermaLink="false">https://330k.biz/?p=156</guid>
+		<description><![CDATA[このブログには私が金融業に社内SEとして勤めながら、 アーリーリタイ&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<p>このブログには私が金融業に社内SEとして勤めながら、<br />
+アーリーリタイアを目指す過程を書いていきたいと考えています。</p>
+<p>現時点ではまだまだ現実的でない部分もありますが、<br />
+だいたい以下のような目標にしています。</p>
+<p><span id="more-156"></span></p>
+<h1>将来の目標</h1>
+<p>リタイア後は働かないで暮らすことを目指しています。</p>
+<p>代わりに何をしたいか、というと<br />
+静かに座禅を組んだり哲学などを考えたりしながら暮らしたい、と考えています。</p>
+<p>お金や人間関係に振り回される生活はできる限り早く卒業したいのです。<br />
+つまり隠居生活です。</p>
+<p>そんなわけで、今の所、次の3パターンを候補にしています。</p>
+<ol>
+<li>地方の山間部の古民家に移住する (有名なのはイケハヤ氏 → <a href="http://www.ikedahayato.com/">まだ仮想通貨持ってないの？</a>)<br />
+イケハヤ氏は家族で年収150万円程度あれば生活できるのでは、<br />
+というのが移住当時の目算だったようですが、<br />
+私は独身のままのつもりですので、年間50万円程度あれば生活できそうな気がします。<br />
+いくら田舎でも、むしろ田舎こそ人間関係に悩まされる可能性があります。</li>
+<li>地方でテント or 小屋を制作して暮らす (有名なのは寝太郎氏 → <a href="http://mainennetaro.blog.fc2.com/">寝太郎ブログ</a>)<br />
+1番目とかぶる部分が多いですが、古民家でなくとも構わないと考えています。<br />
+自分で小屋を立てるのも楽しそうです。<br />
+必要なお金は食費程度になりますので、やはり年間50万円もあれば生活できそうです。</li>
+<li>都市部で安い賃貸を借りて暮らす (有名なのは大原扁理氏でしょうか → <a href="https://www.amazon.co.jp/gp/product/4902800284/ref=as_li_tl?ie=UTF8&amp;camp=247&amp;creative=1211&amp;creativeASIN=4902800284&amp;linkCode=as2&amp;tag=330k-22&amp;linkId=c1740dd2edd015dcc520661762f2d24e" target="_blank" rel="noopener">20代で隠居 週休5日の快適生活</a><img style="border: none !important; margin: 0px !important;" src="//ir-jp.amazon-adsystem.com/e/ir?t=330k-22&amp;l=am2&amp;o=9&amp;a=4902800284" alt="" width="1" height="1" border="0" />)<br />
+上の2つに比べると、必要なお金は増えますが、<br />
+都市部のほうが人間関係を気にすることは少ないと思います。</li>
+</ol>
+<p>他に、キャンピングカーなどを購入(or 自作)して、<br />
+定住しない生活、いわゆるノマドも候補には入っています。</p>
+<p>ちなみに無人島も調べては見たのですが、<br />
+無人島を買おうとすると結構なお値段がします。<br />
+さらに最初に資材を船で運搬する必要があるので、<br />
+必要な資金が増えるので今は考えていません。</p>
+<h1>今の目標</h1>
+<p>そんなわけで、現在は以下のような目標を立てています。</p>
+<ul>
+<li>年間50万円程度の労働に依存しない収入源を作る<br />
+このブログやアフィリエイトなどで収入を作れないかやっています。<br />
+太陽光発電や風力発電も検討しましたが、<br />
+今からだと投資効果が微妙という計算結果になったためやめました。</li>
+<li>小屋・家造りに関する知識と技能を身につける<br />
+これは寝太郎氏のブログなどの他、Amazonでいくつか本を購入しました。</li>
+</ul>
+<p>しばらくは割の良い現在の一人情シス業で給料を稼ぎつつ、<br />
+40歳、遅くとも40代のうちにリタイアを目指します。</p>
+<table>
+<tbody>
+<tr>
+<td><iframe style="width: 120px; height: 240px;" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&amp;t=330k-22&amp;m=amazon&amp;o=9&amp;p=8&amp;l=as1&amp;IS1=1&amp;detail=1&amp;asins=4827720762&amp;linkId=da1b0d9c56c0d283dcf8ef41dcf75bb8&amp;bc1=000000&amp;lt1=_blank&amp;fc1=333333&amp;lc1=0066c0&amp;bg1=ffffff&amp;f=ifr" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
+</iframe></td>
+<td><iframe style="width: 120px; height: 240px;" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&amp;t=330k-22&amp;m=amazon&amp;o=9&amp;p=8&amp;l=as1&amp;IS1=1&amp;detail=1&amp;asins=4767818842&amp;linkId=61b8adbd8a1d8ecfac151d6b1821e6ec&amp;bc1=000000&amp;lt1=_blank&amp;fc1=333333&amp;lc1=0066c0&amp;bg1=ffffff&amp;f=ifr" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
+</iframe></td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>モノを減らしたい人にオススメのスピーカー、JBL Pebbles</title>
 		<link>https://330k.biz/2018/06/22/%e3%83%a2%e3%83%8e%e3%82%92%e6%b8%9b%e3%82%89%e3%81%97%e3%81%9f%e3%81%84%e4%ba%ba%e3%81%ab%e3%82%aa%e3%82%b9%e3%82%b9%e3%83%a1%e3%81%ae%e3%82%b9%e3%83%94%e3%83%bc%e3%82%ab%e3%83%bc%e3%80%81jbl-pebbles/</link>
 		<pubDate>Fri, 22 Jun 2018 13:06:41 +0000</pubDate>
 		<dc:creator><![CDATA[330k]]></dc:creator>
-				<category><![CDATA[金融・経済]]></category>
+				<category><![CDATA[生活]]></category>
 
 		<guid isPermaLink="false">https://330k.biz/?p=62</guid>
 		<description><![CDATA[PCの周辺機器で、微妙に悩ましいのがスピーカーです。 ゲームをするわ&#46;&#46;&#46;]]></description>
@@ -298,62 +409,6 @@ Amazonで持ち運びもできる<a href="http://www.uqwimax.jp/products/wimax/w
 <p>その後は、曹洞宗での座禅の考え方や道元禅師の教えを習います。</p>
 <p>私が印象に残ったのは、「座禅は習禅にあらず、唯だこれ安楽の法門なり」という言葉で、座禅は目的(悟りを得たい、安らぎを得たい)をもって行うものではない、ということでした。そのような欲を持った状態ではダメで、すべてを忘れてひたすら坐れ、その状態が仏だ、ということのようです。</p>
 <p>1回参加しただけでは何も言えませんので、第2回以降に参加したらまた記事を書きます。</p>
-]]></content:encoded>
-			</item>
-		<item>
-		<title>すべては「単純に!」でうまくいく (書評)</title>
-		<link>https://330k.biz/2018/06/17/%e3%81%99%e3%81%b9%e3%81%a6%e3%81%af%e3%80%8c%e5%8d%98%e7%b4%94%e3%81%ab%e3%80%8d%e3%81%a7%e3%81%86%e3%81%be%e3%81%8f%e3%81%84%e3%81%8f-%e6%9b%b8%e8%a9%95/</link>
-		<pubDate>Sun, 17 Jun 2018 04:15:40 +0000</pubDate>
-		<dc:creator><![CDATA[330k]]></dc:creator>
-				<category><![CDATA[書評]]></category>
-
-		<guid isPermaLink="false">https://330k.biz/?p=80</guid>
-		<description><![CDATA[大学生のときに読んで以降、これまでの人生で一番影響を受けたと言える本&#46;&#46;&#46;]]></description>
-				<content:encoded><![CDATA[<p>大学生のときに読んで以降、これまでの人生で一番影響を受けたと言える本。</p>
-<p>それまでの私は面倒くさがりで、部屋の片付けもせず、難しく考えすぎていました。</p>
-<p>この本を読んで、面倒くさがり、という私の本質は変わっていませんが、部屋はきれいになりました。</p>
-<p>なぜかというと、「気になったときに、気になった分だけ、片付ける」というシンプルな行動をするようにしたからです。</p>
-<p>部屋にちょっとゴミが落ちているときなどに、「気になるけど無視しよう」とすると、毎回ゴミを見つけるたびに気になり、ストレスになります。</p>
-<p>逆に「せっかくだから部屋を全部掃除しよう」と考えると、面倒臭さが増しますし、時間もかかります。</p>
-<p>この本では、こういうときに「落ちているゴミだけをゴミ箱に入れる」ことを推奨します。</p>
-<p>こうすると、今現在の面倒臭さを最小限に抑えつつ、将来発生するストレスも最小化できます。</p>
-<p>なお、この本はそれほどミニマリズムではありませんが、私はこの本を読んで「シンプルに」行動していくことを習慣化していった結果、</p>
-<ul>
-<li>モノは少ないほうがいいよね</li>
-<li>お金も必要以上はいらないね</li>
-<li>執着を生む愛とか欲望もないほうがシンプルに過ごせるね</li>
-</ul>
-<p>と考えるようになり、ミニマリストや仏教系の本を読むようになりました。</p>
-<p><iframe style="width: 120px; height: 240px;" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&amp;t=330k-22&amp;m=amazon&amp;o=9&amp;p=8&amp;l=as1&amp;IS1=1&amp;detail=1&amp;asins=4870315440&amp;linkId=24befc5a4c0d300773edd245b2f2a2f1&amp;bc1=000000&amp;lt1=_blank&amp;fc1=333333&amp;lc1=0066c0&amp;bg1=ffffff&amp;f=ifr" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
-</iframe></p>
-]]></content:encoded>
-			</item>
-		<item>
-		<title>格安VPSによる仮想通貨のCPUマイニングは非推奨です</title>
-		<link>https://330k.biz/2018/06/17/%e6%a0%bc%e5%ae%89vps%e3%81%ab%e3%82%88%e3%82%8b%e4%bb%ae%e6%83%b3%e9%80%9a%e8%b2%a8%e3%81%aecpu%e3%83%9e%e3%82%a4%e3%83%8b%e3%83%b3%e3%82%b0%e3%81%af%e9%9d%9e%e6%8e%a8%e5%a5%a8%e3%81%a7%e3%81%99/</link>
-		<pubDate>Sun, 17 Jun 2018 03:58:20 +0000</pubDate>
-		<dc:creator><![CDATA[330k]]></dc:creator>
-				<category><![CDATA[仮想通貨]]></category>
-
-		<guid isPermaLink="false">https://330k.biz/?p=76</guid>
-		<description><![CDATA[CPUでマイニングできる仮想通貨、ときけば、VPSを安く借りればペイ&#46;&#46;&#46;]]></description>
-				<content:encoded><![CDATA[<p>CPUでマイニングできる仮想通貨、ときけば、VPSを安く借りればペイするんじゃないか、とだいたいの人が考えると思います。</p>
-<p>結論から言うと、これはやめたほうがよいです。</p>
-<p>私の場合、<a href="https://www.alpharacks.com/myrack/aff.php?aff=1960">AlphaRacks</a>という海外の格安VPSサービスを利用してマイニングしていました。</p>
-<p>CPU利用率を80%に抑えた状態でマイニングしていましたが、その仮想マシンは止められてしまいました。</p>
-<p>その時に届いたメールはこちら。</p>
-<p><img class="alignnone wp-image-78 size-full" src="https://330k.biz/wp-content/uploads/2018/06/2018061703.png" alt="" width="605" height="596" srcset="https://330k.biz/wp-content/uploads/2018/06/2018061703.png 605w, https://330k.biz/wp-content/uploads/2018/06/2018061703-300x296.png 300w" sizes="(max-width: 605px) 100vw, 605px" /></p>
-<p>しっかりと、「Suspension Reason: Mining」と書いてあります。</p>
-<p>ちなみに、マイニングツールを動かしていたインスタンスだけが停止され、そうでないインスタンスは無事でした。助かりました。</p>
-<h3>AlphaRacksの格安プラン</h3>
-<p><a href="https://www.alpharacks.com/myrack/aff.php?aff=1960">AlphaRacks</a>ですが、通常の料金プランは月額$4.99だったりと、(格安VPSとしては)普通の料金です。上記のメールにあるような、年額$10のようなプランは画面右上にある「Special Deals」のリンクから飛ぶと見れます。</p>
-<p>常に格安プランがあるとは限りませんが、年額$10や$12のプランがあるときは狙い目です。私は3インスタンス契約していて、1つはこのウェブサイトのバックエンドです。</p>
-<p>ただし、</p>
-<ul>
-<li>海外なのでPingは遅い</li>
-<li>Linuxのカーネルバージョンが古い(2.6)ので、dockerの練習などには使えない</li>
-</ul>
-<p>といった点にはご注意ください。</p>
 ]]></content:encoded>
 			</item>
 	</channel>
