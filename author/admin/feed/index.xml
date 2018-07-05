@@ -12,12 +12,114 @@
 	<atom:link href="https://330k.biz/author/admin/feed/" rel="self" type="application/rss+xml" />
 	<link>https://330k.biz/</link>
 	<description>製造業から金融業に社内SEとして転職。独身。シンプルライフでお金を貯め、アーリーリタイアして隠居を目指します。</description>
-	<lastBuildDate>Wed, 04 Jul 2018 16:18:42 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 05 Jul 2018 12:09:38 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.6</generator>
 	<item>
+		<title>データのバックアップはポータブルHDD</title>
+		<link>https://330k.biz/2018/07/05/%e3%83%87%e3%83%bc%e3%82%bf%e3%81%ae%e3%83%90%e3%83%83%e3%82%af%e3%82%a2%e3%83%83%e3%83%97%e3%81%af%e3%83%9d%e3%83%bc%e3%82%bf%e3%83%96%e3%83%abhdd/</link>
+		<pubDate>Thu, 05 Jul 2018 12:09:38 +0000</pubDate>
+		<dc:creator><![CDATA[330k]]></dc:creator>
+				<category><![CDATA[生活]]></category>
+
+		<guid isPermaLink="false">https://330k.biz/?p=178</guid>
+		<description><![CDATA[シンプルライフでモノを減らしたい人にとって、 いざというときのための&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<p>シンプルライフでモノを減らしたい人にとって、<br />
+いざというときのための予備品、というのは難しい問題です。</p>
+<p>PCのデータのバックアップも悩みどころですが、<br />
+結論から言うと、ポータブルHDDが一番シンプルです。</p>
+<h1>ポータブルHDDとは・・・</h1>
+<p>ここで言うポータブルHDDというのは、</p>
+<ul>
+<li>USBで外付けするタイプで</li>
+<li>ACアダプタが不要(USBバスパワー)</li>
+</ul>
+<p>というタイプの物です。</p>
+<p>2018年現在、1TBのものが7000円弱、2TBのものも1万円弱で買えます。</p>
+<table>
+<tbody>
+<tr>
+<td><iframe style="width: 120px; height: 240px;" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&amp;t=330k-22&amp;m=amazon&amp;o=9&amp;p=8&amp;l=as1&amp;IS1=1&amp;detail=1&amp;asins=B07B4CJ4KS&amp;linkId=8ca2eafe2f8a7611773b816c1fc85736&amp;bc1=000000&amp;lt1=_blank&amp;fc1=333333&amp;lc1=0066c0&amp;bg1=ffffff&amp;f=ifr" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
+</iframe></td>
+<td><iframe style="width: 120px; height: 240px;" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&amp;t=330k-22&amp;m=amazon&amp;o=9&amp;p=8&amp;l=as1&amp;IS1=1&amp;detail=1&amp;asins=B00FQ5K64O&amp;linkId=48c514558b1a87dcb0b2d581dbe9e5b3&amp;bc1=000000&amp;lt1=_blank&amp;fc1=333333&amp;lc1=0066c0&amp;bg1=ffffff&amp;f=ifr" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
+</iframe></td>
+<td><iframe style="width: 120px; height: 240px;" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&amp;t=330k-22&amp;m=amazon&amp;o=9&amp;p=8&amp;l=as1&amp;IS1=1&amp;detail=1&amp;asins=B07D7978NV&amp;linkId=d8be66daf3e958d4e4e0afb2f34d62d7&amp;bc1=000000&amp;lt1=_blank&amp;fc1=333333&amp;lc1=0066c0&amp;bg1=ffffff&amp;f=ifr" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
+</iframe></td>
+<td><iframe style="width: 120px; height: 240px;" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&amp;t=330k-22&amp;m=amazon&amp;o=9&amp;p=8&amp;l=as1&amp;IS1=1&amp;detail=1&amp;asins=B06W55K9N6&amp;linkId=1ffc9091c652e3cf15299f6f890a066e&amp;bc1=000000&amp;lt1=_blank&amp;fc1=333333&amp;lc1=0066c0&amp;bg1=ffffff&amp;f=ifr" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
+</iframe></td>
+</tr>
+</tbody>
+</table>
+<h1>ポータブルHDDをおすすめする理由</h1>
+<p>バックアップの選択肢としては、ポータブルHDD以外にも</p>
+<ul>
+<li>DVD-Rなどの光学メディア</li>
+<li>クラウドストレージ (GoogleドライブやDropbox、Amazon S3など)</li>
+<li>NAS</li>
+<li>(ポータブルではない)外付けHDDの</li>
+</ul>
+<p>といった選択肢がありますので、これらと比較してみます。</p>
+<h2>DVDやBlurayとの比較</h2>
+<p>光学メディアは、以前はバックアップとしては一般的でした。</p>
+<p>しかし、最近のPCの場合、HDDの容量が1TBとか2TBと大容量化している中で<br />
+1枚あたりの容量がDVD-Rで4.7GB、Bluerayでも片面25GB、というのは<strong>容量不足</strong>です。</p>
+<p>バックアップのために焼く(記録する)のも時間がかかりますし、<br />
+熱や紫外線に弱いので、記録したディスクの保管場所にも気を使います。</p>
+<h2>クラウドストレージとの比較</h2>
+<p>また最近はGoogleドライブやDropboxなどのクラウドストレージに保管するのも流行りです。</p>
+<p>物理的にモノを管理する必要がないのは最大のメリットですが、<br />
+PCのデータをバックアップしようとすると、意外とコストがかかります。<br />
+Googleドライブ、OneDrive、Dropboxなど、いずれも1TBあたり、年間で12,000円程度かかります。<br />
+他の方の記事ですが、料金を比較すると、下のページのようになります。</p>
+<div class="linkcard"><table border="1" cellspacing="0" cellpadding="4"><tbody></tr><tr><td>皆さんの会社では「オンラインストレージ」をどのくらい活用していますか？ひと昔前までは「仕事で使うデータをオンラインへ保存するなんて、セキュリティ上とんでもない！」という風潮がありましたが、今では規模の...<br><a class="no_icon" href="https://www.unionnet.jp/knowledge/online-storage/" target="_blank">【2018年】Dropbox、OneDrive、Box、オンラインストレージ機能・サービス比較 | ウ...</a> - www.unionnet.jp</td></tr></tbody></table></div>
+<p>もちろん、年々この料金は安くなってきているのですが、<br />
+それはポータブルHDDなども同じくらいのペースで安くなっています。<br />
+<strong>1年以上使うことを考えた場合、ポータブルHDDのほうが安上がり</strong>です。</p>
+<p>また、インターネットを使う以上、どうしても転送速度が遅くなりがちです。<br />
+こちらのネットワーク環境に問題がない場合でも、<br />
+相手のサーバが混んでいる場合は遅くなったりします。</p>
+<p>最後に注意点として、サービスごとに1ファイルの最大容量に制限がある場合があります。<br />
+バックアップ対象に大きなファイルがある場合、バックアップできないこともありますので要注意です。</p>
+<h2>NASとの比較</h2>
+<p>最後に、自宅でNASを構築する人もいると思いますが、<br />
+NAS = ファイル共有サーバ + 内蔵HDD<br />
+なので、<strong>どうしてもHDD単体よりも値段が高く</strong>なります。</p>
+<p>転送速度にもこだわろうとすると、サーバ部分のスペックや、ネットワークの速度にもお金がかかります。<br />
+NAS本体の他に、ネットワーク機器のケーブルや電源ケーブル等のモノも増えますので、<br />
+ちょっとシンプルではありません。</p>
+<p>あとNASは常時電源を入れて使うのが普通ですので、電気代もかかってきます。<br />
+設置場所にもよりますが、多少は音が出てしまいますし、火災のリスクもゼロではありません。<br />
+ポータブルHDDなら、使わないときは電気代がかかりませんし、火事にもなりません。</p>
+<h2>(ポータブルではない)外付けHDDとの比較</h2>
+<p>最後に、なぜ普通の外付けHDDではなくポータブルHDDが良いかというと、</p>
+<ul>
+<li>ポータブルHDDのほうが小型で、保管時に場所を取らない</li>
+<li>バックアップ程度の頻度でしか使わないのであれば、<br />
+多少転送速度などの性能が低くても問題ない</li>
+<li>電源ケーブルがないので、単純にモノを減らせる</li>
+</ul>
+<p>という3点が理由です。</p>
+<p>普通の外付けHDDの場合、USBケーブルをPCと接続する他に、<br />
+ACアダプタと電源ケーブルを接続する必要がありますが、<br />
+ポータブルHDDなら、PCとUSBケーブルを挿すだけでOKです。</p>
+<p>頻度は高くないとはいえ、<strong>バックアップというのは面倒な作業です</strong>ので、<br />
+その面倒臭さを低減できるのは大きなメリットです。</p>
+<h1>バックアップの仕方とまとめ</h1>
+<p>以上のように、バックアップ方法としてはポータブルHDDが一番シンプルでおすすめです。</p>
+<p>バックアップ方法は</p>
+<ol>
+<li>PCとポータブルHDDをUSBケーブルで接続</li>
+<li>エクスプローラーでバックアップ対象のファイルをコピー</li>
+<li>終わったらUSBケーブルを抜いて保管</li>
+</ol>
+<p>という非常に単純な運用方法です。</p>
+<p>さらにラクをしたいのであれば、バッチファイルやシェルスクリプトを作ればいいですね。</p>
+<p>データを失ってからでは遅いので、<strong>日頃からバックアップを作っておくことが大事</strong>です。</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>一人暮らし独身男性がシンプルライフすると不要になるもの</title>
 		<link>https://330k.biz/2018/07/04/%e4%b8%80%e4%ba%ba%e6%9a%ae%e3%82%89%e3%81%97%e7%8b%ac%e8%ba%ab%e7%94%b7%e6%80%a7%e3%81%8c%e3%82%b7%e3%83%b3%e3%83%97%e3%83%ab%e3%83%a9%e3%82%a4%e3%83%95%e3%81%99%e3%82%8b%e3%81%a8%e4%b8%8d%e8%a6%81/</link>
 		<pubDate>Wed, 04 Jul 2018 14:31:13 +0000</pubDate>
@@ -548,50 +650,6 @@ JBL Pebblesの場合は、USBケーブル + スピーカー本体になり、シ
 <p>ちなみに、自動で掃除してくれる可愛いヤツなのですが、<br />
 リモコンを使って掃除するのもラジコンを扱っている気分になって楽しいです。</p>
 <p>ともかく、自動掃除機、おすすめです。</p>
-]]></content:encoded>
-			</item>
-		<item>
-		<title>断捨離として本の自炊はアリか？</title>
-		<link>https://330k.biz/2018/06/20/%e6%96%ad%e6%8d%a8%e9%9b%a2%e3%81%a8%e3%81%97%e3%81%a6%e6%9c%ac%e3%81%ae%e8%87%aa%e7%82%8a%e3%81%af%e3%82%a2%e3%83%aa%e3%81%8b%ef%bc%9f/</link>
-		<pubDate>Wed, 20 Jun 2018 11:29:47 +0000</pubDate>
-		<dc:creator><![CDATA[330k]]></dc:creator>
-				<category><![CDATA[生活]]></category>
-
-		<guid isPermaLink="false">https://330k.biz/?p=144</guid>
-		<description><![CDATA[私の家には本棚がありません。 一度、意を決して持っている本をすべて自&#46;&#46;&#46;]]></description>
-				<content:encoded><![CDATA[<p>私の家には本棚がありません。<br />
-一度、意を決して持っている本をすべて自炊(裁断 + スキャン)しました。</p>
-<p>本が増えすぎて困っている人の他に、ミニマリストなどの、<br />
-モノを極力減らしたい人も検討したことがあると思います。<br />
-私もモノを減らしたかったので自炊しました。</p>
-<p>モノを減らすのが目的なので、裁断機やスキャナを購入するのはナンセンスです。<br />
-なので、レンタルすることにしました。</p>
-<p>利用したのはDMMいろいろレンタルです。</p>
-<p><a href="https://px.a8.net/svt/ejp?a8mat=2ZJBNM+4T95TE+26ZC+4ATRV5" target="_blank" rel="nofollow noopener"><br />
-<img src="https://www21.a8.net/svt/bgt?aid=180620482291&amp;wid=001&amp;eno=01&amp;mid=s00000010236026005000&amp;mc=1" alt="" width="468" height="60" border="0" /></a><br />
-<img src="https://www13.a8.net/0.gif?a8mat=2ZJBNM+4T95TE+26ZC+4ATRV5" alt="" width="1" height="1" border="0" /></p>
-<p>ちょっと高かったのですが、1週間裁断機とスキャナ(ScanSnap iX500)をレンタルしました。</p>
-<p>初日に届いたダンボールを開梱し、その後は会社から帰ったらひたすらスキャンしました。</p>
-<p>ちなみに、私は普段Linuxを利用していますので、<br />
-仮想マシン(VirtualBox)上のWindowsにスキャナのドライバとスキャンアプリをインストールしました。<br />
-スキャナとはUSB接続ですが、きちんと動作しました。</p>
-<p>その感想ですが・・・・</p>
-<p><strong>自炊するのは電子書籍で買えない本だけにするべき</strong>だ、と思いました。</p>
-<p>手持ちの本を裁断してスキャナに入れるのですが・・・</p>
-<ul>
-<li>キレイに裁断するのにコツと集中力が必要</li>
-<li>200ページくらいある本は、スキャナで1度には取り込めない</li>
-<li>たま〜に紙送りが失敗するので、スキャナに付きっきりでいる必要がある</li>
-<li>何より結構時間がかかる(慣れてきても1冊15分〜20分かかりました)</li>
-</ul>
-<p>という理由で、電子書籍で買える本は買ってしまったほうがラクです。</p>
-<p>なお、自炊するメリットもあって、<br />
-いつ事業が終了するかわからない電子書籍の恐怖に怯えなくてすみます。</p>
-<p>電子書籍はKindleや楽天Koboなどいくつか利用していますが、<br />
-私はKindleをおすすめします。</p>
-<p>Koboに比べてKindleのほうが安い本が多いですし、<br />
-Amazonのほうが事業の継続性で信用できる、という判断です。</p>
-<p><iframe style="border: none;" src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&amp;p=12&amp;l=ur1&amp;category=kindlerotate&amp;f=ifr&amp;linkID=70b8d31a87b2abb7f06f9ac61858be5d&amp;t=330k-22&amp;tracking_id=330k-22" width="300" height="250" frameborder="0" marginwidth="0" scrolling="no"></iframe></p>
 ]]></content:encoded>
 			</item>
 	</channel>
