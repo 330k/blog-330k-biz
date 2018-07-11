@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>技術 &#8211; 金融エンジニアの諦観シンプルライフで俗世離脱</title>
+	<atom:link href="https://330k.biz/category/technology/feed/" rel="self" type="application/rss+xml" />
+	<link>https://330k.biz/</link>
+	<description>製造業から金融業に社内SEとして転職。独身。シンプルライフでお金を貯め、アーリーリタイアして隠居を目指します。</description>
+	<lastBuildDate>Wed, 11 Jul 2018 19:35:48 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.7</generator>
+	<item>
+		<title>格安VPS + WordPress + Simply Static + GitHub Pagesで高速 &#038; セキュアなブログを作る</title>
+		<link>https://330k.biz/2018/06/24/%e4%bb%8a%e3%81%8b%e3%82%89%e3%83%96%e3%83%ad%e3%82%b0%e3%82%92%e5%a7%8b%e3%82%81%e3%82%8b%e3%81%aa%e3%82%89%e3%80%81%e6%a0%bc%e5%ae%89vps-wordpress-simply-static-github-pages%e3%81%8c%e3%81%84/</link>
+		<pubDate>Sun, 24 Jun 2018 06:57:08 +0000</pubDate>
+		<dc:creator><![CDATA[330k]]></dc:creator>
+				<category><![CDATA[技術]]></category>
+
+		<guid isPermaLink="false">https://330k.biz/?p=159</guid>
+		<description><![CDATA[このブログはタイトル通り、 海外の格安VPS (年額12ドル)上に &#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<p>このブログはタイトル通り、</p>
+<ul>
+<li>海外の格安VPS (年額12ドル)上に</li>
+<li>WordPressを構築</li>
+<li>Simply Staticプラグインで静的ページを生成し</li>
+<li>GitHub Pagesで公開</li>
+</ul>
+<p>という構成を取っています。</p>
+<h1>この構成のメリットとデメリット</h1>
+<h2>メリット</h2>
+<ul>
+<li>安価(VPSとドメインで合計年間2,500円、月額200円程度)</li>
+<li>WordPressの豊富なテーマを使える</li>
+<li>静的ページなのでWordPressのセキュリティ問題に悩まされない</li>
+<li>GitHub PagesはHTTPSに標準対応</li>
+<li>独自ドメインもOK</li>
+<li>レスポンスが高速</li>
+<li>トラフィックも100GB/月までOK</li>
+<li>さらにトラフィック量の増大した場合にも、GitHub PagesからAmazon S3などに変えれば対応可能</li>
+</ul>
+<p>特にWordPressの脆弱性を気にしなくて良いのは運用する上で非常に気楽です。</p>
+<h2>デメリット</h2>
+<p>反対に、デメリットを上げると下記の様な点になります。</p>
+<ul>
+<li>構成要素が多いので、知識がより多く必要</li>
+<li>記事の更新が反映されるまでに、<br />
+Simply Staticで静的ページの生成 → GitHub Pagesにpushを行う必要がある</li>
+<li>コメント機能ほか、動的な機能は使えない</li>
+</ul>
+<p>要求される知識が多いとは言っても、<br />
+一般的なLinuxサーバ、Apache、MySQL、PHP、Git、SSHが使えれば大丈夫です。<br />
+知らなくてもネット上に情報がたくさんあります。</p>
+<h1>構築手順</h1>
+<h2>VPSを借りる</h2>
+<p>まずはVPSを借ります。</p>
+<p>ユーザからの直接のアクセスはないので、スペックが低くてもOKです。<br />
+メモリが512MB程度あれば大丈夫でしょう。</p>
+<p><a href="https://www.alpharacks.com/myrack/aff.php?aff=1960" target="_blank" rel="noopener">AlphraRacks</a>の場合、画面右上の「Special Deals」から安いプランを選びましょう。<br />
+私が選んだのは「New Website Special &#8211; Los Angeles OVZ 768MB」というものですが、<br />
+ちょうどいいプランが常にあるとは限りませんのでご注意を。</p>
+<p><img class="alignnone size-full wp-image-252" src="https://330k.biz/wp-content/uploads/2018/06/2018071201.png" alt="" width="474" height="515" srcset="https://330k.biz/wp-content/uploads/2018/06/2018071201.png 474w, https://330k.biz/wp-content/uploads/2018/06/2018071201-276x300.png 276w" sizes="(max-width: 474px) 100vw, 474px" /></p>
+<p>その後、購入手続きを進めてください。私はPayPal支払いを選択しています。</p>
+<p>あとは仮想マシン(VM)のIPアドレスをメモしておきます。</p>
+<h2>サーバにWordPressをインストールする</h2>
+<p>次は借りたVPSにSSHなどで接続して、WordPressをインストールしていきます。</p>
+<p>OSに合わせてApache、MySQL、PHPをインストールしていってください。<br />
+Ubuntuの場合、下記ページが参考になります。</p>
+<p><div class="linkcard"><table border="1" cellspacing="0" cellpadding="4"><tbody></tr><tr><td><br><a class="no_icon" href="http://wpdocs.osdn.jp/WordPress_%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB" target="_blank">WordPress のインストール - WordPress Codex 日本語版</a> - wpdocs.osdn.jp</td></tr></tbody></table></div><br />
+<div class="linkcard"><table border="1" cellspacing="0" cellpadding="4"><tbody></tr><tr><td>Ubuntu 16.04 ServerへWordPressをインストールする方法を説明します。ローカル環境にWordPressがあるとCSSスタイルやプラグインの開発がやりやすくなります。<br><a class="no_icon" href="https://ygkb.jp/3885" target="_blank">Ubuntu 16.04にWordPressをインストールする方法</a> - ygkb.jp</td></tr></tbody></table></div><br />
+<div class="linkcard"><table border="1" cellspacing="0" cellpadding="4"><tbody></tr><tr><td>PHP、MySQL、CMSと最近興味のあるワードについて勉強しようと考えているときにお勉強としてWordPressが最適かなと思い、今更ながら構築してみました。今度はUbuntu16.04で構築してみました。apacheの設定...<br><a class="no_icon" href="https://qiita.com/umchifre/items/39d0b87ebcf9a9e007b3" target="_blank">インフラエンジニアがWordPressを構築する。(Ubuntu16.04) - Qiita</a> - qiita.com</td></tr></tbody></table></div></p>
+<p>WWWサーバはApacheよりもnginxのほうが高速ですが、<br />
+今回の構成では高速でなくともよいので、構築がラクなApacheをおすすめします。</p>
+<p>VPSのIPアドレスにアクセスして、WordPressが表示されればOKです。</p>
+<h2>WordPressにSimply Staticプラグインをインストールする</h2>
+<p>WordPressの管理画面からログインして、Simply Staticプラグインをインストールします。</p>
+<p>画面左側の「プラグイン」から「新規追加」として、検索欄に「Simply Static」と入力すれば出てきます。</p>
+<p><img class="alignnone size-full wp-image-256" src="https://330k.biz/wp-content/uploads/2018/06/2018071205.png" alt="" width="541" height="244" srcset="https://330k.biz/wp-content/uploads/2018/06/2018071205.png 541w, https://330k.biz/wp-content/uploads/2018/06/2018071205-300x135.png 300w" sizes="(max-width: 541px) 100vw, 541px" /></p>
+<p>インストールが完了すると、管理画面左側に「Simply Static」という項目が増えていますので、<br />
+そこから「設定」に進みます。</p>
+<p>「リンク先URL」は公開するブログのURLを入力します。<br />
+「配送方法」は「ローカルディレクトリ」にして、その保存先を「/var/www/html_static」などとします。<br />
+(WordPressがインストールされている/var/www/html以外の場所であればOKです)</p>
+<p><img class="alignnone size-full wp-image-257" src="https://330k.biz/wp-content/uploads/2018/06/2018071206.png" alt="" width="647" height="789" srcset="https://330k.biz/wp-content/uploads/2018/06/2018071206.png 647w, https://330k.biz/wp-content/uploads/2018/06/2018071206-246x300.png 246w" sizes="(max-width: 647px) 100vw, 647px" /></p>
+<h2>GitHubのリポジトリを作成する</h2>
+<p><a href="https://github.com/" target="_blank" rel="noopener">GitHub</a>はソースコードの共有リポジトリを提供するサービスですが、<br />
+静的なHTMLをホスティングしてウェブサイトにすることも可能です(GitHub Pages)。</p>
+<p>GitHubにログインし(未作成の場合は作成してください)、<br />
+右上の「Create Repository」から新たにリポジトリを作成します。</p>
+<p><img class="alignnone size-full wp-image-253" src="https://330k.biz/wp-content/uploads/2018/06/2018071202.png" alt="" width="190" height="243" /></p>
+<p>作成後、そのリポジトリのSettingsタブに移動して、GitHub Pagesの設定を行います。<br />
+「Custom domain」のところに、自分のドメインを入力してください。<br />
+「Enforce HTTPS」は最初はチェックを入れず、最後にチェックを入れたほうがいいかもしれません。<br />
+(チェックを入れない場合はHTTPとHTTPSの両方でサイトが表示されますが、<br />
+チェックを入れるとHTTPでのアクセスはHTTPSにリダイレクトされます)</p>
+<p><img class="alignnone size-full wp-image-254" src="https://330k.biz/wp-content/uploads/2018/06/2018071203.png" alt="" width="746" height="593" srcset="https://330k.biz/wp-content/uploads/2018/06/2018071203.png 746w, https://330k.biz/wp-content/uploads/2018/06/2018071203-300x238.png 300w" sizes="(max-width: 746px) 100vw, 746px" /></p>
+<h2>独自ドメインのネームサーバの設定</h2>
+<p>独自ドメインでのアクセスを、GitHub Pagesのサーバに向けるためにネームサーバの設定をします。</p>
+<p>英語ですが公式の情報は下記になりますので、何かあったらここをまず確認してください。</p>
+<p>「www.」なしのドメインでアクセスする場合<br />
+<div class="linkcard"><table border="1" cellspacing="0" cellpadding="4"><tbody></tr><tr><td>To set up an (/articles/about-supported-custom-domains/#apex-domains), such as `example.com`, you must configure an `ALIAS`, `ANAME`, or `A` record with your DNS provider.…<br><a class="no_icon" href="https://help.github.com/articles/setting-up-an-apex-domain/" target="_blank">Setting up an apex domain - User Documentation        </a> - help.github.com</td></tr></tbody></table></div></p>
+<p>「www.」ありのドメインでアクセスする場合<br />
+<div class="linkcard"><table border="1" cellspacing="0" cellpadding="4"><tbody></tr><tr><td>To set up a (/articles/about-supported-custom-domains/#www-subdomains), such as `www.example.com` you must configure a `CNAME` record with your DNS provider.…<br><a class="no_icon" href="https://help.github.com/articles/setting-up-a-www-subdomain/" target="_blank">Setting up a www subdomain - User Documentation        </a> - help.github.com</td></tr></tbody></table></div></p>
+<p>私はネームサーバを無料のCloudFlareで使っていますので、下記のような設定になりました。</p>
+<p><img class="alignnone size-full wp-image-255" src="https://330k.biz/wp-content/uploads/2018/06/2018071204.png" alt="" width="524" height="264" srcset="https://330k.biz/wp-content/uploads/2018/06/2018071204.png 524w, https://330k.biz/wp-content/uploads/2018/06/2018071204-300x151.png 300w" sizes="(max-width: 524px) 100vw, 524px" /></p>
+<p>ちなみに、CloudFlareのCDNを使うより、直接GitHub Pagesのサーバから配信したほうが速かったので、<br />
+CDN機能はOFFにしています。</p>
+<h2>GitHubのSSH公開鍵をVPSサーバに設定</h2>
+<p>GitHubの自分のアカウントの「Setting」ページから、「SSH and GPG Keys」に進み、<br />
+「New SSH key」ボタンから、自分のSSH公開鍵を登録してください。</p>
+<p>鍵の生成やGitHubへの登録手順は、下記ページを参考にしてください。</p>
+<div class="linkcard"><table border="1" cellspacing="0" cellpadding="4"><tbody></tr><tr><td>gitHubにssh接続するために鍵の登録が必要になります。その手順をまとめてみます。はじめての人は手順通りに進めれば接続出来ます。久しぶりにやってうまくいかないという人の解決の糸口になるようにも書いています。#公開鍵・秘...<br><a class="no_icon" href="https://qiita.com/shizuma/items/2b2f873a0034839e47ce" target="_blank">gitHubでssh接続する手順~公開鍵・秘密鍵の生成から~ - Qiita</a> - qiita.com</td></tr></tbody></table></div>
+<p>~/.ssh/configの中身が以下のようになっていることを確認します。</p>
+<pre>Host github github.com
+HostName github.com
+IdentityFile ~/.ssh/id_rsa_github <em>(←自分の秘密鍵)</em>
+User git
+PreferredAuthentications publickey</pre>
+<h2>出力先ディレクトリにリポジトリをコピー</h2>
+<p>GitHubのリポジトリページに戻り、まずはリポジトリのURLをコピーします。</p>
+<p><img class="alignnone size-full wp-image-258" src="https://330k.biz/wp-content/uploads/2018/06/2018071207.png" alt="" width="358" height="205" srcset="https://330k.biz/wp-content/uploads/2018/06/2018071207.png 358w, https://330k.biz/wp-content/uploads/2018/06/2018071207-300x172.png 300w" sizes="(max-width: 358px) 100vw, 358px" /></p>
+<p>次に、SSHでVPSに入り、Simply Staticの出力先ディレクトリに移動します。<br />
+(上記の設定例では「cd /var/www/html_static」とします)</p>
+<p>CNAMEというファイルがあるだけのリポジトリをローカルにコピーします。</p>
+<pre>git clone git@github.com:330k/blog-330k-biz.git</pre>
+<p>もしgitがインストールされていなければ、追加でインストールします(Ubuntuなら「apt install git」)。</p>
+<h2>Simply Staticで生成したファイルをGitHubリポジトリにPushする</h2>
+<p>以上で準備はできましたので、いよいよSimply Staticを使ってWordPressを静的なHTMLに変換します。</p>
+<p>管理画面の「Simply Static」から「生成」とすすみ、「静的ファイルを生成する」をクリックすると、<br />
+WordPressページがHTMLファイルに変換されます。</p>
+<p><img class="alignnone wp-image-259 size-full" src="https://330k.biz/wp-content/uploads/2018/06/2018071209-e1531336581458.png" alt="" width="411" height="262" srcset="https://330k.biz/wp-content/uploads/2018/06/2018071209-e1531336581458.png 411w, https://330k.biz/wp-content/uploads/2018/06/2018071209-e1531336581458-300x191.png 300w" sizes="(max-width: 411px) 100vw, 411px" /></p>
+<p>VPSにSSHで接続し、GitHubのリポジトリにpushします。</p>
+<pre>cd /var/www/html_static/
+git add -A
+git commit -m '最初のコミット'
+git push -u origin master</pre>
+<p>うまく行ったら、ブラウザから独自ドメインでアクセスしてみて、<br />
+WordPressの画面がきちんと表示されることを確認してください。<br />
+GitHub Pagesではpush後に反映されるまでに数分時間がかかりますので、<br />
+うまく表示されない場合はしばらく待ってみてください。</p>
+<h2>cronに登録して定期的に実行する</h2>
+<p>さて、WordPressの管理画面で記事を書き、<br />
+Simply Staticの画面から静的ファイルを生成し、<br />
+完了後に毎回SSHで接続してコマンドを打ってpushするのは面倒です。</p>
+<p>そこで、cronでGitHubへのpushを自動的に実行するようにします。</p>
+<p>以下の内容のシェルスクリプトを作成し、/var/www/auto_push.shとして保存します。</p>
+<pre>#!/bin/bash
+
+cd /var/www/html_static
+
+git add -A
+message="Commit "`date '+%Y%m%d %H%M%S'`
+git commit -m "${message}"
+
+git push -u origin master</pre>
+<p>次に、「crontab -e」としてcronの設定ファイル編集画面に下記を追加します。</p>
+<pre>0 * * * * /bin/bash /var/www/auto_push.sh</pre>
+<p>これで毎時0分にGitHubにpushするようになりました。</p>
+<p>記事を書いたらSimply Staticで静的ファイルを生成しなければならないのは変わりませんが、<br />
+ブラウザだけで完結するようになり、大きく省力化します。</p>
+<h2>その他注意</h2>
+<p>VPSサーバの方をGoogleにインデックスされないように、<br />
+WordPressをインストールしたディレクトリには以下の内容のrobots.txtを作成しましょう。</p>
+<pre>User-agent: *
+Disallow: *</pre>
+<p>また、余力があればVPSサーバのWordPressもHTTPS化しましょう。<br />
+一般ユーザにアクセスされることがないとはいえ、<br />
+HTTP通信ではログイン時にパスワードを盗まれる可能性があります。<br />
+Let&#8217;s Encryptを使えば無料で証明書を作ることができます。</p>
+<h1>まとめ</h1>
+<p>構築するために知識や手順が多く必要ですが、<br />
+格安VPS、WordPress、Simply Staticプラグイン、GitHub Pagesの組み合わせで<br />
+安い・高速・セキュアなWordPressブログを作ることができます。</p>
+<p>自宅以外ではブログを書かない、というのであれば<br />
+VPSを使わずPCにWordPress環境を作ることで、<br />
+費用を独自ドメインのみに抑えることも可能です。</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

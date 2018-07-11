@@ -12,7 +12,7 @@
 	<atom:link href="https://330k.biz/category/finance/feed/" rel="self" type="application/rss+xml" />
 	<link>https://330k.biz/</link>
 	<description>製造業から金融業に社内SEとして転職。独身。シンプルライフでお金を貯め、アーリーリタイアして隠居を目指します。</description>
-	<lastBuildDate>Wed, 11 Jul 2018 11:44:18 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 11 Jul 2018 19:35:48 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -153,55 +153,6 @@ Amazonで買ったものはマネーフォワードでも品名がきちんと�
 無駄なクレジットカードや銀行口座があるのであれば、解約しましょう。</p>
 <p>管理するモノを減らすのはシンプルライフの基本です。<br />
 管理するストレスからも解放されますよ。</p>
-]]></content:encoded>
-			</item>
-		<item>
-		<title>今からブログを始めるなら、格安VPS + WordPress + Simply Static + GitHub Pagesがいいかも</title>
-		<link>https://330k.biz/2018/06/24/%e4%bb%8a%e3%81%8b%e3%82%89%e3%83%96%e3%83%ad%e3%82%b0%e3%82%92%e5%a7%8b%e3%82%81%e3%82%8b%e3%81%aa%e3%82%89%e3%80%81%e6%a0%bc%e5%ae%89vps-wordpress-simply-static-github-pages%e3%81%8c%e3%81%84/</link>
-		<pubDate>Sun, 24 Jun 2018 06:57:08 +0000</pubDate>
-		<dc:creator><![CDATA[330k]]></dc:creator>
-				<category><![CDATA[金融・経済]]></category>
-
-		<guid isPermaLink="false">https://330k.biz/?p=159</guid>
-		<description><![CDATA[このブログはタイトル通り、 海外の格安VPS (年額10ドル)上に &#46;&#46;&#46;]]></description>
-				<content:encoded><![CDATA[<p>このブログはタイトル通り、</p>
-<ul>
-<li>海外の格安VPS (年額10ドル)上に</li>
-<li>WordPressを構築</li>
-<li>Simply Staticプラグインで静的ページを生成し</li>
-<li>GitHub Pagesで公開</li>
-</ul>
-<p>という構成を取っています。</p>
-<p>この構成のメリットは、</p>
-<ul>
-<li>安価(VPSとドメインで合計2、500円/年程度)</li>
-<li>WordPressの豊富なテーマを使える</li>
-<li>静的ページなのでWordPressのセキュリティ問題に悩まされない</li>
-<li>GitHub PagesはHTTPSに標準対応</li>
-<li>独自ドメインもOK</li>
-<li>レスポンスが高速</li>
-<li>トラフィックも100GB/月までOK</li>
-<li>さらにトラフィック量の増大した場合にも、<br />
-GitHub PagesからAmazon S3などに変えれば対応可能</li>
-</ul>
-<p>といった点があります。</p>
-<p>反対に、デメリットは</p>
-<ul>
-<li>構成要素が多いので、知識がより多く必要</li>
-<li>記事の更新が反映されるまでに、<br />
-Simply Staticで静的ページの生成 → GitHub Pagesにpushを行う必要がある</li>
-<li>コメント機能ほか、動的な機能は使えない</li>
-</ul>
-<p>といった点でしょうか。</p>
-<p>IT関連のエンジニアであれば、</p>
-<ul>
-<li>VPSを借りる</li>
-<li>ApacheとPHPをインストールし、WordPressをセットアップする</li>
-<li>WordPressのSimply Staticプラグインをインストールする</li>
-<li>GitHubのリポジトリを作成する</li>
-<li>Simply Staticの出力先フォルダを、GitHubのリポジトリにpushする</li>
-</ul>
-<p>というのができれば大丈夫です。</p>
 ]]></content:encoded>
 			</item>
 		<item>
@@ -438,6 +389,37 @@ Simply Staticで静的ページの生成 → GitHub Pagesにpushを行う必要�
 <p>遠い未来かもしれないが、人類が資本主義経済の限界に気づいたときに、<br />
 人間の欲望に依存しない経済システムを作り出せるかどうかが重要になってくると思います。</p>
 <p>AIが作る経済システムがどうなるのか、興味があります。</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>金融業の人が胡散臭く見えてしまう理由</title>
+		<link>https://330k.biz/2018/02/15/%e9%87%91%e8%9e%8d%e6%a5%ad%e3%81%ae%e4%ba%ba%e3%81%8c%e8%83%a1%e6%95%a3%e8%87%ad%e3%81%8f%e8%a6%8b%e3%81%88%e3%81%a6%e3%81%97%e3%81%be%e3%81%86%e7%90%86%e7%94%b1/</link>
+		<pubDate>Thu, 15 Feb 2018 13:59:07 +0000</pubDate>
+		<dc:creator><![CDATA[330k]]></dc:creator>
+				<category><![CDATA[金融・経済]]></category>
+
+		<guid isPermaLink="false">https://330k.biz/?p=20</guid>
+		<description><![CDATA[慣れてくるとそうでもないし実際違うことも多いのですが、 経済や金融に&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<p>慣れてくるとそうでもないし実際違うことも多いのですが、<br />
+経済や金融に興味を持っていなかった頃、<br />
+村上ファンドの村上氏やホリエモンが喋っているところを見ると、どうにも胡散臭く見えていました。</p>
+<p>金融に限らず、原子力関係など専門用語を多く使う人は胡散臭く見えるものですが、<br />
+特に経済用語を喋る人は怪しく見えます。</p>
+<p>この理由について考えてみました。<br />
+<span id="more-20"></span></p>
+<p>これは日常用語としても使われる経済用語が、<br />
+あまり日常と経済の文脈を選ばずに使われているからでないだろうか、と考えています。</p>
+<p>例えば、「仕事」という用語は物理学でも使いますが、<br />
+物理学者は「労働して働く」のと「物体に力が働く」のははっきり区別してしゃべります。<br />
+聞く方も、労働の話と物理の話では、あまりに文脈が違いますので、<br />
+混乱することが殆どないのではないかと思います。</p>
+<p>対して、経済学者や経済評論家は「信用」「価値」といった言葉を、<br />
+経済学の文脈でも、それよりも一般的な「ある人を信用する」という意味でもあまり区別せずに使います。<br />
+むしろ、ちょっとだけ経済や金融を知っている実業家が、<br />
+経済専門家を気取って経済用語を使っている気もします。</p>
+<p>日常会話の中で、「信用」や「価値」といった言葉は結構思い意味になります。<br />
+「あの人は信用できない」とか言ったらかなりの悪口です。</p>
+<p>重い意味の言葉むやみに使う人は、胡散臭く見えても仕方がないですね。</p>
 ]]></content:encoded>
 			</item>
 	</channel>
