@@ -12,7 +12,7 @@
 	<atom:link href="https://330k.biz/category/technology/feed/" rel="self" type="application/rss+xml" />
 	<link>https://330k.biz/</link>
 	<description>製造業から金融業に社内SEとして転職。独身。シンプルライフでお金を貯め、アーリーリタイアして隠居を目指します。</description>
-	<lastBuildDate>Wed, 11 Jul 2018 19:35:48 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 12 Jul 2018 13:41:31 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -101,6 +101,10 @@ Ubuntuの場合、下記ページが参考になります。</p>
 (チェックを入れない場合はHTTPとHTTPSの両方でサイトが表示されますが、<br />
 チェックを入れるとHTTPでのアクセスはHTTPSにリダイレクトされます)</p>
 <p><img class="alignnone size-full wp-image-254" src="https://330k.biz/wp-content/uploads/2018/06/2018071203.png" alt="" width="746" height="593" srcset="https://330k.biz/wp-content/uploads/2018/06/2018071203.png 746w, https://330k.biz/wp-content/uploads/2018/06/2018071203-300x238.png 300w" sizes="(max-width: 746px) 100vw, 746px" /></p>
+<h2>独自ドメインを取得する</h2>
+<p>独自ドメインを使う場合はレジストラでドメインを取得します。<br />
+私の場合は、最初に取得する場合は<a href="https://px.a8.net/svt/ejp?a8mat=2ZGXIF+68GFUA+50+2I1T8Y" target="_blank" rel="nofollow noopener">お名前.com</a><img src="https://www10.a8.net/0.gif?a8mat=2ZGXIF+68GFUA+50+2I1T8Y" alt="" width="1" height="1" border="0" />や<a href="https://px.a8.net/svt/ejp?a8mat=2ZLAVJ+87B0TU+348+1BNBJM" target="_blank" rel="nofollow noopener">ムームードメイン</a><img src="https://www16.a8.net/0.gif?a8mat=2ZLAVJ+87B0TU+348+1BNBJM" alt="" width="1" height="1" border="0" />でキャンペーン価格を狙い、<br />
+その後<a href="https://domains.google.com/" target="_blank" rel="noopener">Google Domains</a>に移管して一括管理しています。</p>
 <h2>独自ドメインのネームサーバの設定</h2>
 <p>独自ドメインでのアクセスを、GitHub Pagesのサーバに向けるためにネームサーバの設定をします。</p>
 <p>英語ですが公式の情報は下記になりますので、何かあったらここをまず確認してください。</p>
@@ -108,10 +112,13 @@ Ubuntuの場合、下記ページが参考になります。</p>
 <div class="linkcard"><table border="1" cellspacing="0" cellpadding="4"><tbody></tr><tr><td>To set up an (/articles/about-supported-custom-domains/#apex-domains), such as `example.com`, you must configure an `ALIAS`, `ANAME`, or `A` record with your DNS provider.…<br><a class="no_icon" href="https://help.github.com/articles/setting-up-an-apex-domain/" target="_blank">Setting up an apex domain - User Documentation        </a> - help.github.com</td></tr></tbody></table></div></p>
 <p>「www.」ありのドメインでアクセスする場合<br />
 <div class="linkcard"><table border="1" cellspacing="0" cellpadding="4"><tbody></tr><tr><td>To set up a (/articles/about-supported-custom-domains/#www-subdomains), such as `www.example.com` you must configure a `CNAME` record with your DNS provider.…<br><a class="no_icon" href="https://help.github.com/articles/setting-up-a-www-subdomain/" target="_blank">Setting up a www subdomain - User Documentation        </a> - help.github.com</td></tr></tbody></table></div></p>
-<p>私はネームサーバを無料のCloudFlareで使っていますので、下記のような設定になりました。</p>
+<p>独自ドメインのレジストラでは、ネームサーバのホスティングサービスもしているところがほとんどですので、<br />
+その操作方法に従って設定します。</p>
+<p>私はネームサーバをCloudFlareにして使っていますので、下記のような設定になりました。</p>
 <p><img class="alignnone size-full wp-image-255" src="https://330k.biz/wp-content/uploads/2018/06/2018071204.png" alt="" width="524" height="264" srcset="https://330k.biz/wp-content/uploads/2018/06/2018071204.png 524w, https://330k.biz/wp-content/uploads/2018/06/2018071204-300x151.png 300w" sizes="(max-width: 524px) 100vw, 524px" /></p>
-<p>ちなみに、CloudFlareのCDNを使うより、直接GitHub Pagesのサーバから配信したほうが速かったので、<br />
-CDN機能はOFFにしています。</p>
+<p>ちなみに、なぜCloudFlareのDNSを使っているかというと、<br />
+CloudFlareのCDNを使った場合とGitHub Pagesのサーバから配信する場合のどちらが高速なのか検証するためです。</p>
+<p>結果として、直接GitHub Pagesのサーバから配信したほうが速かったので、CDN機能はOFFにしています。</p>
 <h2>GitHubのSSH公開鍵をVPSサーバに設定</h2>
 <p>GitHubの自分のアカウントの「Setting」ページから、「SSH and GPG Keys」に進み、<br />
 「New SSH key」ボタンから、自分のSSH公開鍵を登録してください。</p>
