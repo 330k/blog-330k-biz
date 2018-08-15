@@ -16,7 +16,7 @@
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.7</generator>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
 	<item>
 		<title>外資系金融やコンサルの肩書が本当に肩書な件</title>
 		<link>https://330k.biz/2018/07/11/%e5%a4%96%e8%b3%87%e7%b3%bb%e9%87%91%e8%9e%8d%e3%82%84%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%ab%e3%81%ae%e8%82%a9%e6%9b%b8%e3%81%8c%e6%9c%ac%e5%bd%93%e3%81%ab%e8%82%a9%e6%9b%b8%e3%81%aa%e4%bb%b6/</link>
@@ -35,7 +35,7 @@
 他業種から金融業に入ると、それ以上に違和感を覚えます。</p>
 <h1>本来はちゃんと業務に対応した業務がある</h1>
 <p>ディレクター、アソシエイト、アナリストなどのカタカナの役職名も、本来はちゃんと業務に対応しています。</p>
-<div class="linkcard"><table border="1" cellspacing="0" cellpadding="4"><tbody></tr><tr><td>コンサルタントという仕事に興味はあるけどよく理解できていない、コンサルタントになりたいけどどうしたら良いのかわからない、という方のためにコンサルティング業界、コンサルタントの仕事について簡潔にわかりやすく解説します。コンサルタントへの転職を検討さ...<br><a class="no_icon" href="https://www.careerinq.com/consulting/research/consultant/006842.shtml" target="_blank">コンサルタントのタイトル（役職）とワークスタイル | コンサルティング業界研究</a> - www.careerinq.com</td></tr></tbody></table></div>
+<div class="linkcard"><table border="1" cellspacing="0" cellpadding="4"><tbody></tr><tr><td>コンサルタントという仕事に興味はあるけどよく理解できていない、コンサルタントになりたいけどどうしたら良いのかわからない、という方のためにコンサルティング業界、コンサルタントの仕事について簡潔にわかりやすく解説します。コンサルタントへの転職を検討さ...<br><a class="lkc-link no_icon" href="https://www.careerinq.com/consulting/research/consultant/006842.shtml" target="_blank">コンサルタントのタイトル（役職）とワークスタイル | コンサルティング業界研究</a> - www.careerinq.com</td></tr></tbody></table></div>
 <p>上の記事にあるように、アナリストは分析業務をする、<br />
 マネージャーがチームをまとめる責任者、<br />
 というのが、役職名から期待される業務内容です。</p>
@@ -337,6 +337,7 @@ Amazonで買ったものはマネーフォワードでも品名がきちんと�
 		<item>
 		<title>所有物にステータス性を求めることは「価値観」か？</title>
 		<link>https://330k.biz/2018/02/24/%e6%89%80%e6%9c%89%e7%89%a9%e3%81%ab%e3%82%b9%e3%83%86%e3%83%bc%e3%82%bf%e3%82%b9%e6%80%a7%e3%82%92%e6%b1%82%e3%82%81%e3%82%8b%e3%81%93%e3%81%a8%e3%81%af%e3%80%8c%e4%be%a1%e5%80%a4%e8%a6%b3%e3%80%8d/</link>
+		<comments>https://330k.biz/2018/02/24/%e6%89%80%e6%9c%89%e7%89%a9%e3%81%ab%e3%82%b9%e3%83%86%e3%83%bc%e3%82%bf%e3%82%b9%e6%80%a7%e3%82%92%e6%b1%82%e3%82%81%e3%82%8b%e3%81%93%e3%81%a8%e3%81%af%e3%80%8c%e4%be%a1%e5%80%a4%e8%a6%b3%e3%80%8d/#comments</comments>
 		<pubDate>Fri, 23 Feb 2018 23:09:13 +0000</pubDate>
 		<dc:creator><![CDATA[330k]]></dc:creator>
 				<category><![CDATA[金融・経済]]></category>
@@ -367,7 +368,9 @@ Amazonで買ったものはマネーフォワードでも品名がきちんと�
 <strong>「自分の価値観による判断をしないことが自分の価値観」</strong>という価値観を持っている、と言えます。</p>
 <p>悪く言うと、「私は自分自身で価値を判断するだけの能力がありません」と言っているようなものですね。</p>
 ]]></content:encoded>
-			</item>
+			<wfw:commentRss>https://330k.biz/2018/02/24/%e6%89%80%e6%9c%89%e7%89%a9%e3%81%ab%e3%82%b9%e3%83%86%e3%83%bc%e3%82%bf%e3%82%b9%e6%80%a7%e3%82%92%e6%b1%82%e3%82%81%e3%82%8b%e3%81%93%e3%81%a8%e3%81%af%e3%80%8c%e4%be%a1%e5%80%a4%e8%a6%b3%e3%80%8d/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
 		<item>
 		<title>欲望と資本主義の限界</title>
 		<link>https://330k.biz/2018/02/18/%e6%ac%b2%e6%9c%9b%e3%81%a8%e8%b3%87%e6%9c%ac%e4%b8%bb%e7%be%a9%e3%81%ae%e9%99%90%e7%95%8c/</link>

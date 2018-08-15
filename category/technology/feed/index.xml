@@ -16,7 +16,7 @@
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.7</generator>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
 	<item>
 		<title>格安VPS + WordPress + Simply Static + GitHub Pagesで高速 &#038; セキュアなブログを作る</title>
 		<link>https://330k.biz/2018/06/24/%e4%bb%8a%e3%81%8b%e3%82%89%e3%83%96%e3%83%ad%e3%82%b0%e3%82%92%e5%a7%8b%e3%82%81%e3%82%8b%e3%81%aa%e3%82%89%e3%80%81%e6%a0%bc%e5%ae%89vps-wordpress-simply-static-github-pages%e3%81%8c%e3%81%84/</link>
@@ -73,9 +73,9 @@ Simply Staticで静的ページの生成 → GitHub Pagesにpushを行う必要�
 <p>次は借りたVPSにSSHなどで接続して、WordPressをインストールしていきます。</p>
 <p>OSに合わせてApache、MySQL、PHPをインストールしていってください。<br />
 Ubuntuの場合、下記ページが参考になります。</p>
-<p><div class="linkcard"><table border="1" cellspacing="0" cellpadding="4"><tbody></tr><tr><td><br><a class="no_icon" href="http://wpdocs.osdn.jp/WordPress_%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB" target="_blank">WordPress のインストール - WordPress Codex 日本語版</a> - wpdocs.osdn.jp</td></tr></tbody></table></div><br />
-<div class="linkcard"><table border="1" cellspacing="0" cellpadding="4"><tbody></tr><tr><td>Ubuntu 16.04 ServerへWordPressをインストールする方法を説明します。ローカル環境にWordPressがあるとCSSスタイルやプラグインの開発がやりやすくなります。<br><a class="no_icon" href="https://ygkb.jp/3885" target="_blank">Ubuntu 16.04にWordPressをインストールする方法</a> - ygkb.jp</td></tr></tbody></table></div><br />
-<div class="linkcard"><table border="1" cellspacing="0" cellpadding="4"><tbody></tr><tr><td>PHP、MySQL、CMSと最近興味のあるワードについて勉強しようと考えているときにお勉強としてWordPressが最適かなと思い、今更ながら構築してみました。今度はUbuntu16.04で構築してみました。apacheの設定...<br><a class="no_icon" href="https://qiita.com/umchifre/items/39d0b87ebcf9a9e007b3" target="_blank">インフラエンジニアがWordPressを構築する。(Ubuntu16.04) - Qiita</a> - qiita.com</td></tr></tbody></table></div></p>
+<p><div class="linkcard"><table border="1" cellspacing="0" cellpadding="4"><tbody></tr><tr><td><br><a class="lkc-link no_icon" href="http://wpdocs.osdn.jp/WordPress_%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB" target="_blank">WordPress のインストール - WordPress Codex 日本語版</a> - wpdocs.osdn.jp</td></tr></tbody></table></div><br />
+<div class="linkcard"><table border="1" cellspacing="0" cellpadding="4"><tbody></tr><tr><td>Ubuntu 16.04 ServerへWordPressをインストールする方法を説明します。ローカル環境にWordPressがあるとCSSスタイルやプラグインの開発がやりやすくなります。<br><a class="lkc-link no_icon" href="https://ygkb.jp/3885" target="_blank">Ubuntu 16.04にWordPressをインストールする方法</a> - ygkb.jp</td></tr></tbody></table></div><br />
+<div class="linkcard"><table border="1" cellspacing="0" cellpadding="4"><tbody></tr><tr><td>PHP、MySQL、CMSと最近興味のあるワードについて勉強しようと考えているときにお勉強としてWordPressが最適かなと思い、今更ながら構築してみました。今度はUbuntu16.04で構築してみました。apacheの設定...<br><a class="lkc-link no_icon" href="https://qiita.com/umchifre/items/39d0b87ebcf9a9e007b3" target="_blank">インフラエンジニアがWordPressを構築する。(Ubuntu16.04) - Qiita</a> - qiita.com</td></tr></tbody></table></div></p>
 <p>WWWサーバはApacheよりもnginxのほうが高速ですが、<br />
 今回の構成では高速でなくともよいので、構築がラクなApacheをおすすめします。</p>
 <p>VPSのIPアドレスにアクセスして、WordPressが表示されればOKです。</p>
@@ -109,9 +109,9 @@ Ubuntuの場合、下記ページが参考になります。</p>
 <p>独自ドメインでのアクセスを、GitHub Pagesのサーバに向けるためにネームサーバの設定をします。</p>
 <p>英語ですが公式の情報は下記になりますので、何かあったらここをまず確認してください。</p>
 <p>「www.」なしのドメインでアクセスする場合<br />
-<div class="linkcard"><table border="1" cellspacing="0" cellpadding="4"><tbody></tr><tr><td>To set up an (/articles/about-supported-custom-domains/#apex-domains), such as `example.com`, you must configure an `ALIAS`, `ANAME`, or `A` record with your DNS provider.…<br><a class="no_icon" href="https://help.github.com/articles/setting-up-an-apex-domain/" target="_blank">Setting up an apex domain - User Documentation        </a> - help.github.com</td></tr></tbody></table></div></p>
+<div class="linkcard"><table border="1" cellspacing="0" cellpadding="4"><tbody></tr><tr><td>To set up an (/articles/about-supported-custom-domains/#apex-domains), such as `example.com`, you must configure an `ALIAS`, `ANAME`, or `A` record with your DNS provider.…<br><a class="lkc-link no_icon" href="https://help.github.com/articles/setting-up-an-apex-domain/" target="_blank">Setting up an apex domain - User Documentation        </a> - help.github.com</td></tr></tbody></table></div></p>
 <p>「www.」ありのドメインでアクセスする場合<br />
-<div class="linkcard"><table border="1" cellspacing="0" cellpadding="4"><tbody></tr><tr><td>To set up a (/articles/about-supported-custom-domains/#www-subdomains), such as `www.example.com` you must configure a `CNAME` record with your DNS provider.…<br><a class="no_icon" href="https://help.github.com/articles/setting-up-a-www-subdomain/" target="_blank">Setting up a www subdomain - User Documentation        </a> - help.github.com</td></tr></tbody></table></div></p>
+<div class="linkcard"><table border="1" cellspacing="0" cellpadding="4"><tbody></tr><tr><td>To set up a (/articles/about-supported-custom-domains/#www-subdomains), such as `www.example.com` you must configure a `CNAME` record with your DNS provider.…<br><a class="lkc-link no_icon" href="https://help.github.com/articles/setting-up-a-www-subdomain/" target="_blank">Setting up a www subdomain - User Documentation        </a> - help.github.com</td></tr></tbody></table></div></p>
 <p>独自ドメインのレジストラでは、ネームサーバのホスティングサービスもしているところがほとんどですので、<br />
 その操作方法に従って設定します。</p>
 <p>私はネームサーバをCloudFlareにして使っていますので、下記のような設定になりました。</p>
@@ -123,7 +123,7 @@ CloudFlareのCDNを使った場合とGitHub Pagesのサーバから配信する�
 <p>GitHubの自分のアカウントの「Setting」ページから、「SSH and GPG Keys」に進み、<br />
 「New SSH key」ボタンから、自分のSSH公開鍵を登録してください。</p>
 <p>鍵の生成やGitHubへの登録手順は、下記ページを参考にしてください。</p>
-<div class="linkcard"><table border="1" cellspacing="0" cellpadding="4"><tbody></tr><tr><td>gitHubにssh接続するために鍵の登録が必要になります。その手順をまとめてみます。はじめての人は手順通りに進めれば接続出来ます。久しぶりにやってうまくいかないという人の解決の糸口になるようにも書いています。#公開鍵・秘...<br><a class="no_icon" href="https://qiita.com/shizuma/items/2b2f873a0034839e47ce" target="_blank">gitHubでssh接続する手順~公開鍵・秘密鍵の生成から~ - Qiita</a> - qiita.com</td></tr></tbody></table></div>
+<div class="linkcard"><table border="1" cellspacing="0" cellpadding="4"><tbody></tr><tr><td>gitHubにssh接続するために鍵の登録が必要になります。その手順をまとめてみます。はじめての人は手順通りに進めれば接続出来ます。久しぶりにやってうまくいかないという人の解決の糸口になるようにも書いています。#公開鍵・秘...<br><a class="lkc-link no_icon" href="https://qiita.com/shizuma/items/2b2f873a0034839e47ce" target="_blank">gitHubでssh接続する手順~公開鍵・秘密鍵の生成から~ - Qiita</a> - qiita.com</td></tr></tbody></table></div>
 <p>~/.ssh/configの中身が以下のようになっていることを確認します。</p>
 <pre>Host github github.com
 HostName github.com
