@@ -12,12 +12,87 @@
 	<atom:link href="https://330k.biz/feed/" rel="self" type="application/rss+xml" />
 	<link>https://330k.biz/</link>
 	<description>製造業から金融業に社内SEとして転職。独身。シンプルライフでお金を貯め、アーリーリタイアして隠居を目指します。</description>
-	<lastBuildDate>Wed, 15 Aug 2018 13:03:14 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 27 Aug 2018 15:56:52 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.8</generator>
 	<item>
+		<title>サマータイムには反対です。中途半端な制度だから。</title>
+		<link>https://330k.biz/2018/08/28/%e3%82%b5%e3%83%9e%e3%83%bc%e3%82%bf%e3%82%a4%e3%83%a0%e3%81%ab%e3%81%af%e5%8f%8d%e5%af%be%e3%81%a7%e3%81%99%e3%80%82%e4%b8%ad%e9%80%94%e5%8d%8a%e7%ab%af%e3%81%aa%e5%88%b6%e5%ba%a6%e3%81%a0%e3%81%8b/</link>
+		<pubDate>Mon, 27 Aug 2018 15:56:52 +0000</pubDate>
+		<dc:creator><![CDATA[330k]]></dc:creator>
+				<category><![CDATA[ニュース]]></category>
+
+		<guid isPermaLink="false">https://330k.biz/?p=318</guid>
+		<description><![CDATA[2020年の東京オリンピックで、暑い時間帯を避けるために2時間のサマ&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<p>2020年の東京オリンピックで、暑い時間帯を避けるために2時間のサマータイム導入を検討、というニュースがありました。</p>
+<p>すでにいろいろな方が反対意見を述べています。</p>
+<ul>
+<li>すでに導入している欧州ではサマータイム廃止の運動が起きている。
+<ul>
+<li>医学的に生活リズムが崩れることによる悪影響がある。</li>
+<li>導入当時に期待していたほど省エネルギー効果がない。</li>
+</ul>
+</li>
+<li>日本の情報システムはサマータイムを考慮していないものが多い。<br />
+切り替えコストが高すぎし、そもそも2020年に作業が間に合わない。</li>
+<li>東京で行うオリンピックのために、日本全体の時間帯を動かすのはナンセンス。</li>
+</ul>
+<p>どれも非常に論理的で、私も同意します。<br />
+特に、社内SEとしては、情報システムの改修にかかるコストや人月を考えると、<br />
+到底実現は無理だろうと思っています。</p>
+<p>さて、私はちょっと違う視点からの理由を考えたいと思います。</p>
+<p>それは「サマータイムが、時刻の定義として中途半端な制度だ」という理由です。</p>
+<p>人類と、時刻との関係性の歴史を考えると、サマータイムは中途半端なのです。</p>
+<h1>初期の人類と時刻の関係は「不定時法」</h1>
+<p>人類が文明作ったところでは、かならず農耕のために暦が発明されています。<br />
+おそらく最初に時刻を図るために作られた道具は、日時計です。</p>
+<p>日時計が影を作るのは日中だけですから、<br />
+1日は日の出から始まり、(北半球では)南中を経て、日の入りで終わります。</p>
+<p>現代と違い、「1秒」という固定された時間の長さはなく、<br />
+逆に、日の出から日の入りまでの時間が「1日」でした。</p>
+<p>当然、季節によって1日の長さは変わるのですが、夏でも冬でも1日は1日で、<br />
+その「1日」のほうの長さが変わっていました。</p>
+<p>現代の24時間制で例えると、<br />
+季節によらず「日の出＝6時」「南中＝12時」「日の入り＝18時」が固定されている感じです。</p>
+<p>日本でも、江戸時代までは、このような「不定時法」が使われていました。<br />
+→ 参考) <a href="https://www.gakken.co.jp/kagakusouken/spread/oedo/03/kaisetsu1.html" target="_blank" rel="noopener">江戸の時刻制度“不定時法”</a></p>
+<p>現在のように照明器具がたくさんあったわけではありませんので、<br />
+人間の活動も基本的に日の出から日の入りまで、となります。</p>
+<p>なので、この「不定時法」は「人間の生活に時刻が合わせた制度」と言えます。</p>
+<h1>現在の時刻は基本的に「定時法」</h1>
+<p>時代が進み、科学技術が発達するとともに、<br />
+不定時法のように時間の単位が一定ではないと不便が生じるようになってきました。</p>
+<p>例えば、大航海時代、航海中に自分の船の位置を推定するためには精度の高い時計が必要とされましたが、<br />
+これは不定時法では計算できません。<br />
+(緯度は夜間に星を観測することで得られたが、経度については自船の速度と、時間から推定する必要がありました)</p>
+<p>また、照明器具が発達して、人類の活動時間が増え、あまり日の出と日没に左右されないようになってきました。</p>
+<p>そこで、1日を24時間に等分割する、「定時法」が広まりました。</p>
+<p>厳密に言うと、1日の長さも1年を通じて変化します(均時差)がありますので、<br />
+「平均的な1日」を24時間とするようにし、1時間を60分に、1分を60秒に当初は決めました。</p>
+<p>その後、地球の自転の速度も微妙に変化(徐々に遅くなっている)ことがわかりましたので、<br />
+その基準を現在は原子時計から決めるように1秒という時間の単位が定義されています。</p>
+<p>このように、現在の時間の定義は、人間の活動ではなく、<br />
+「物理法則が基準となっている制度」と言えます。</p>
+<h1>サマータイムは中途半端</h1>
+<p>さて、この人類の歴史の流れを考えたとき、サマータイムは極めて中途半端な制度と言えるのではないでしょうか。</p>
+<p>サマータイムを施行しているところでも、1秒の定義はサマータイムを導入していないところと同じです。</p>
+<p>なので、「物理法則が基準となっている時刻制度」を利用しています。</p>
+<p>それにも関わらず、夏の間は日の出の時刻が早くなるから、それに合わせて時刻を早め、<br />
+人間の活動も時刻に合わせて早くする、というサマータイム制度は<br />
+「人間の生活・活動が基準として、時刻を決めている」と言えます。</p>
+<p>この矛盾が、私が「サマータイムは中途半端な制度」と考える理由です。</p>
+<h1>まとめ</h1>
+<p>以上のように、私は現代の人類と時間の関係性から考えてサマータイムが中途半端な制度だから反対です。<br />
+中途半端な制度というのは、大体の場合効率が落ちますし、何より美しくありません。</p>
+<p>反対に、賛成派の人は、「欧米ではやっているから」という理由だけで賛成していて、<br />
+事実や論理に基づかない意見が多いように感じます。</p>
+<p>もしサマータイムが実施されるようなことがあれば、<br />
+「日本の社会はサイエンスに基づく判断ができない幼稚な社会だ」と私が失望することでしょう。</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>「成長」を目標にするのは間違い。成長を自己目的化していませんか？</title>
 		<link>https://330k.biz/2018/08/15/%e3%80%8c%e6%88%90%e9%95%b7%e3%80%8d%e3%82%92%e7%9b%ae%e6%a8%99%e3%81%ab%e3%81%99%e3%82%8b%e3%81%ae%e3%81%af%e9%96%93%e9%81%95%e3%81%84%e3%80%82%e6%88%90%e9%95%b7%e3%82%92%e8%87%aa%e5%b7%b1%e7%9b%ae/</link>
 		<pubDate>Wed, 15 Aug 2018 13:03:14 +0000</pubDate>
@@ -474,80 +549,6 @@ Kindle版がないのがちょっと残念です。</p>
 <h1>まとめ</h1>
 <p>通学定期と違い、通勤定期の割引率はあまり良くありません。</p>
 <p>通勤定期を買わない、という選択肢もいかがでしょうか。</p>
-]]></content:encoded>
-			</item>
-		<item>
-		<title>シンプルライフと災害対策</title>
-		<link>https://330k.biz/2018/07/17/%e3%82%b7%e3%83%b3%e3%83%97%e3%83%ab%e3%83%a9%e3%82%a4%e3%83%95%e3%81%a8%e7%81%bd%e5%ae%b3%e5%af%be%e7%ad%96/</link>
-		<pubDate>Tue, 17 Jul 2018 11:34:23 +0000</pubDate>
-		<dc:creator><![CDATA[330k]]></dc:creator>
-				<category><![CDATA[シンプルライフ]]></category>
-
-		<guid isPermaLink="false">https://330k.biz/?p=275</guid>
-		<description><![CDATA[極力モノを減らしたいシンプルライフにとって、非常時の備えは悩みどころ&#46;&#46;&#46;]]></description>
-				<content:encoded><![CDATA[<p>極力モノを減らしたいシンプルライフにとって、非常時の備えは悩みどころです。</p>
-<p>幸いなことに私のところはまだ災害にあっていませんが、現状の私の対策を紹介したいと思います。</p>
-<h1>まずは東京防災・東京暮らし防災を購入</h1>
-<p>東京都が出している防災ガイドブック、「東京防災」「東京くらし防災」は、<br />
-AmazonのKindle版はなんと0円です。</p>
-<p>この本のターゲットは東京都民ですが、<br />
-基本的な災害対策の考え方は全国どこでも通用します。</p>
-<p>電子書籍であればかさばりませんので、ぜひ購入しましょう。</p>
-<table>
-<tbody>
-<tr>
-<td><iframe style="width: 120px; height: 240px;" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&amp;t=330k-22&amp;m=amazon&amp;o=9&amp;p=8&amp;l=as1&amp;IS1=1&amp;detail=1&amp;asins=B01DJ6KDUS&amp;linkId=d56d9287d21fdfc19c7dba592b3d103d&amp;bc1=000000&amp;lt1=_blank&amp;fc1=333333&amp;lc1=0066c0&amp;bg1=ffffff&amp;f=ifr" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
-</iframe></td>
-<td><iframe style="width: 120px; height: 240px;" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&amp;t=330k-22&amp;m=amazon&amp;o=9&amp;p=8&amp;l=as1&amp;IS1=1&amp;detail=1&amp;asins=B07B2T9M9G&amp;linkId=c2c6889ff91247cbddfda16f370c904a&amp;bc1=000000&amp;lt1=_blank&amp;fc1=333333&amp;lc1=0066c0&amp;bg1=ffffff&amp;f=ifr" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
-</iframe></td>
-</tr>
-</tbody>
-</table>
-<h1>食料・水は日常備蓄で</h1>
-<p>「日常備蓄」とは、普段使用している食料品や生活必需品を少し多めに備えることです(出典: <a href="http://www.bousai.metro.tokyo.jp/bousai/1000027/1004523.html" target="_blank" rel="noopener">東京都防災ホームページ</a>)。</p>
-<p>私の場合は、普段の食事がフルーツグラノーラですので、<br />
-フルーツグラノーラと牛乳は常に2週間程度の在庫があるように適宜購入しています。</p>
-<p>シンプルライフでいつも同じ食事をしていると、日常備蓄をしやすくなるのがメリットです。</p>
-<h1>旅行かばんやスポーツバッグで非常持ち出し袋の代用</h1>
-<p>私はスポーツをよくするので、着替えなどはサコッシュに一式入っています。</p>
-<p>なので、非常時はスポーツバッグを持ち出せば衣類が1式は持っていけます。<br />
-スポーツウェアになってしまいますが、まあ非常時ですので良しとします。<br />
-むしろ吸汗や通気性といった衣服の性能としてはスポーツウェアのほうが良いです。</p>
-<p>その他アメニティグッズも常に登山用の防水スタッフバッグに入れてあります。</p>
-<p>スポーツバッグや旅行かばんにいつも着替えや化粧品類を入れておけば、<br />
-非常時にはそのまま持ち出し袋になり、普段の旅行の際も手間なくスマートに出かけられます。</p>
-<h1>電気関係は要取捨選択</h1>
-<p>現代では電気器具も必須ですが、これはなかなか難しいところです。</p>
-<p>モバイルバッテリーであれば、普段使いしながら非常時に備えることができますが、<br />
-他の懐中電灯、乾電池、発電機といったものは非常用として別途考える必要があります。</p>
-<p>私は懐中電灯は単3乾電池1本で駆動するLEDライト、<br />
-電池としてはUSBで充電できるLi-ION電池、<br />
-発電機として登山用のソーラーパネル(USB出力)を買いました。</p>
-<p>選定の基準としては、できる限り汎用的に使えて、取り替えながら使えるもの、としました。<br />
-USBで直接充電するタイプのLEDライトもありますが、<br />
-電池が切れたときに乾電池駆動タイプであれば予備品や他の人から借りたものを使うことができます。</p>
-<p>USBで充電する電池、USBで出力するソーラーパネルも、<br />
-普段のモバイルバッテリーから充電したり、<br />
-逆にソーラーパネルから普段のモバイルバッテリーに充電したり、<br />
-といった使い方ができます。</p>
-<table>
-<tbody>
-<tr>
-<td><iframe style="width: 120px; height: 240px;" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&amp;t=330k-22&amp;m=amazon&amp;o=9&amp;p=8&amp;l=as1&amp;IS1=1&amp;detail=1&amp;asins=B01BW45OXA&amp;linkId=2605a96e817b9b9f8284b1caeee120f5&amp;bc1=000000&amp;lt1=_blank&amp;fc1=333333&amp;lc1=0066c0&amp;bg1=ffffff&amp;f=ifr" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
-</iframe></td>
-<td><iframe style="width: 120px; height: 240px;" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&amp;t=330k-22&amp;m=amazon&amp;o=9&amp;p=8&amp;l=as1&amp;IS1=1&amp;detail=1&amp;asins=B07C5LF53K&amp;linkId=799e6e3473cea14a6211c3a1f9b64410&amp;bc1=000000&amp;lt1=_blank&amp;fc1=333333&amp;lc1=0066c0&amp;bg1=ffffff&amp;f=ifr" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
-</iframe></td>
-<td><iframe style="width: 120px; height: 240px;" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&amp;t=330k-22&amp;m=amazon&amp;o=9&amp;p=8&amp;l=as1&amp;IS1=1&amp;detail=1&amp;asins=B012VOBXU8&amp;linkId=0a68b15a368a9b7444e552237e3a0e36&amp;bc1=000000&amp;lt1=_blank&amp;fc1=333333&amp;lc1=0066c0&amp;bg1=ffffff&amp;f=ifr" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
-</iframe></td>
-</tr>
-</tbody>
-</table>
-<h1>まとめ</h1>
-<p>不要なものを極限まで削ぎ落としたい、というシンプルライフと、非常時の備えは相反する部分がありますが、<br />
-シンプルライフによって食料は日常備蓄を活用しやすくなります。</p>
-<p>また部屋がシンプルでモノが少ないので非常時にモノが散乱して邪魔になることもない、<br />
-というのは災害対策としてプラスです。</p>
-<p>「平常時と非常時を合わせて考えたときに、いかにシンプルにするか」を考えると良いと思います。</p>
 ]]></content:encoded>
 			</item>
 	</channel>

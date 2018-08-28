@@ -12,7 +12,7 @@
 	<atom:link href="https://330k.biz/category/technology/feed/" rel="self" type="application/rss+xml" />
 	<link>https://330k.biz/</link>
 	<description>製造業から金融業に社内SEとして転職。独身。シンプルライフでお金を貯め、アーリーリタイアして隠居を目指します。</description>
-	<lastBuildDate>Wed, 15 Aug 2018 13:03:14 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 27 Aug 2018 15:56:52 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -172,11 +172,18 @@ git push -u origin master</pre>
 <p>これで毎時0分にGitHubにpushするようになりました。</p>
 <p>記事を書いたらSimply Staticで静的ファイルを生成しなければならないのは変わりませんが、<br />
 ブラウザだけで完結するようになり、大きく省力化します。</p>
-<h2>その他注意</h2>
+<h2>バックエンドサーバのインデックス防止</h2>
 <p>VPSサーバの方をGoogleにインデックスされないように、<br />
 WordPressをインストールしたディレクトリには以下の内容のrobots.txtを作成しましょう。</p>
 <pre>User-agent: *
 Disallow: *</pre>
+<p>なお、robots.txtだけだとインデックスに登録されてしまう場合があります。<br />
+そのような場合は、.htaccessファイルでIPアドレス制限を行ってしまいましょう。</p>
+<pre>order deny,allow
+deny from all
+allow from (自分が使うIPアドレス)</pre>
+<h2>その他注意</h2>
+<pre></pre>
 <p>また、余力があればVPSサーバのWordPressもHTTPS化しましょう。<br />
 一般ユーザにアクセスされることがないとはいえ、<br />
 HTTP通信ではログイン時にパスワードを盗まれる可能性があります。<br />
