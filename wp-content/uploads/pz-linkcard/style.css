@@ -1,4 +1,4 @@
-/* [Pz-LkC][2.1.7.1] CSS */
+/* [Pz-LkC][2.1.8.2] CSS */
 .linkcard {
 	margin-top: 4px;
 	margin-bottom: 16px;
@@ -88,7 +88,7 @@
 	overflow: hidden;
 	/*SEPARATOR*/
 }
-.lkc-title {
+.lkc-title-text {
 	color: #111111;
 	/*OUTCOLOR-TITLE*/
 	font-size: 16px;
@@ -97,7 +97,7 @@
 	overflow: hidden;
 	word-break: break-all;
 }
-.lkc-title:hover {
+.lkc-title-text:hover {
 	text-decoration: underline;
 }
 .lkc-url {
@@ -139,6 +139,7 @@
 	padding: 0;
 	margin: 0;
 	overflow: hidden;
+	/*NONE-EXCERPT*/
 }
 .lkc-more-text {
 	color: #444444;
@@ -170,6 +171,7 @@
 	white-space: nowrap;
 	overflow: hidden;
 	display: block !important;
+	/*NONE-INFO*/
 }
 .lkc-infotext {
 	/*INFO-TEXT*/
@@ -287,47 +289,20 @@ blockquote.lkc-quote {
 /*OPTION*/
 
 @media screen and (max-width: 600px)  {
-.lkc-title {
-font-size: 14px;
-line-height: 21px;
-}
-.lkc-excerpt {
-font-size: 10px;
-}
-.lkc-thumbnail {
-max-width: 90px;
-}
-.lkc-thumbnail-img {
-max-width: 90px;
-}
+ .lkc-title { font-size: 14px; line-height: 21px; }
+ .lkc-excerpt { font-size: 10px; }
+ .lkc-thumbnail { max-width: 90px; }
+ .lkc-thumbnail-img { max-width: 90px; }
 }
 @media screen and (max-width: 480px)  {
-.lkc-title {
-font-size: 12px;
-line-height: 19px;
-}
-.lkc-excerpt {
-font-size: 8px;
-}
-.lkc-thumbnail {
-max-width: 70px;
-}
-.lkc-thumbnail-img {
-max-width: 70px;
-}
+ .lkc-title { font-size: 12px; line-height: 19px; }
+ .lkc-excerpt { font-size: 8px; }
+ .lkc-thumbnail { max-width: 70px; }
+ .lkc-thumbnail-img { max-width: 70px; }
 }
 @media screen and (max-width: 320px)  {
-.lkc-title {
-font-size: 11px;
-line-height: 16px;
-}
-.lkc-excerpt {
-font-size: 6px;
-}
-.lkc-thumbnail {
-max-width: 50px;
-}
-.lkc-thumbnail-img {
-max-width: 50px;
-}
+ .lkc-title { font-size: 11px; line-height: 16px; }
+ .lkc-excerpt { font-size: 6px; }
+ .lkc-thumbnail { max-width: 50px; }
+ .lkc-thumbnail-img { max-width: 50px; }
 }
