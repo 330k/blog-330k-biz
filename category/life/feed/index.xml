@@ -12,72 +12,12 @@
 	<atom:link href="https://330k.biz/category/life/feed/" rel="self" type="application/rss+xml" />
 	<link>https://330k.biz/</link>
 	<description>製造業から金融業に社内SEとして転職。独身。シンプルライフでお金を貯め、アーリーリタイアして隠居を目指します。</description>
-	<lastBuildDate>Mon, 03 Sep 2018 13:07:53 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 09 Sep 2018 14:53:50 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.8</generator>
 	<item>
-		<title>「技術」と「技能」を混同していませんか？　違いを解説します</title>
-		<link>https://330k.biz/2018/09/03/%e3%80%8c%e6%8a%80%e8%a1%93%e3%80%8d%e3%81%a8%e3%80%8c%e6%8a%80%e8%83%bd%e3%80%8d%e3%82%92%e6%b7%b7%e5%90%8c%e3%81%97%e3%81%a6%e3%81%84%e3%81%be%e3%81%9b%e3%82%93%e3%81%8b%ef%bc%9f%e3%80%80%e9%81%95/</link>
-		<pubDate>Mon, 03 Sep 2018 13:07:53 +0000</pubDate>
-		<dc:creator><![CDATA[330k]]></dc:creator>
-				<category><![CDATA[シンプルライフ]]></category>
-
-		<guid isPermaLink="false">https://330k.biz/?p=322</guid>
-		<description><![CDATA[「科学技術立国日本」などといいますが、この「技術」という言葉を正しく&#46;&#46;&#46;]]></description>
-				<content:encoded><![CDATA[<p>「科学技術立国日本」などといいますが、この「技術」という言葉を正しく理解している人は少ないのが現状です。</p>
-<p>特に、「技能」という言葉と混同している例がよく見られます。</p>
-<h1>「技術」とは？</h1>
-<p>技術は英語の「Technology」を訳した言葉です。</p>
-<p><a href="https://en.oxforddictionaries.com/definition/technology" target="_blank" rel="noopener">Oxfordの辞書で「Technology」を調べる</a>と、</p>
-<blockquote><p>1. The application of scientific knowledge for practical purposes, especially in industry.</p>
-<p>訳) 特定の目的、特に工業における科学の知識の応用</p></blockquote>
-<p>と出てきます。</p>
-<p>「科学の(Scientific)」ということは、普遍的なものである、ということです。</p>
-<p>科学は、世界の普遍的な原理を明かすことが目的なので、<br />
-人によって結果が異なる、ということは認められません。<br />
-誰がやっても同じにならなければ、普遍的な原理ではないのです。<br />
-小保方さんのSTAP細胞が反例です。</p>
-<p>また、「知識の応用」ですので、これは能力ではありません。</p>
-<p>人によらず普遍的なもの、能力ではない、という2点から、<br />
-<strong>「技術＝Technology」は属人的なものではない</strong>、ということがわかります。</p>
-<h1>「技能」とは？</h1>
-<p>技能は英語で「Skill」にあたる言葉です。</p>
-<p>同様に、<a href="https://en.oxforddictionaries.com/definition/skill" target="_blank" rel="noopener">Oxfordの辞書で調べる</a>と、</p>
-<blockquote><p>The ability to do something well</p>
-<p>訳) 何かを上手に行う能力</p></blockquote>
-<p>となっています。</p>
-<p>技術と違って、明確に「能力」と書かれています。<br />
-能力は個々人が獲得するものですから、<br />
-<strong>「技能＝Skill」は属人的なもの</strong>です。</p>
-<p>ちなみに、もう1つ「技巧＝Technique」という言葉もありますが、<br />
-これはSkillよりも細かく見た範囲に使われます。</p>
-<p>例文として、「リオネル・メッシは数々のドリブルテクニックを駆使して、<br />
-敵を抜いてゴールを取る技能(＝スキル)を持っている」という感じになります。</p>
-<p>これが「ゴールを取る技術(＝テクノロジー)を持っている」というと、間違いになります。</p>
-<h1>まとめ</h1>
-<p>「技術」と「技能」の違いは分かりましたでしょうか？<br />
-まとめると以下のようになります。</p>
-<ul>
-<li>技術
-<ul>
-<li>ある事柄を達成するための<strong>知識、知識体系</strong></li>
-<li>科学(Science)に基づく</li>
-<li>属人的ではない</li>
-</ul>
-</li>
-<li>技能
-<ul>
-<li>ある事柄を達成するための<strong>能力 </strong></li>
-<li>経験に基づく</li>
-<li>属人的である</li>
-</ul>
-</li>
-</ul>
-]]></content:encoded>
-			</item>
-		<item>
 		<title>情報は整理するものではなく検索するもの</title>
 		<link>https://330k.biz/2018/07/30/%e6%83%85%e5%a0%b1%e3%81%af%e6%95%b4%e7%90%86%e3%81%99%e3%82%8b%e3%82%82%e3%81%ae%e3%81%a7%e3%81%af%e3%81%aa%e3%81%8f%e6%a4%9c%e7%b4%a2%e3%81%99%e3%82%8b%e3%82%82%e3%81%ae/</link>
 		<pubDate>Mon, 30 Jul 2018 14:19:04 +0000</pubDate>
@@ -604,6 +544,67 @@ CMには多額のお金と最新の心理学の成果が使われていて、<br
 <p>自分本来に必要な状態以上に欲望を刺激される状態が続くと、疲れます。<br />
 現代の日常生活には欲を刺激するものばかりですので、<br />
 「疲れた」「本来の自分ではない」と思ったら、欲を刺激するものから距離をおきましょう。</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>シンプルライフを目指すなら毎日同じ食事も検討の価値あり</title>
+		<link>https://330k.biz/2018/07/07/%e3%82%b7%e3%83%b3%e3%83%97%e3%83%ab%e3%83%a9%e3%82%a4%e3%83%95%e3%82%92%e7%9b%ae%e6%8c%87%e3%81%99%e3%81%aa%e3%82%89%e6%af%8e%e6%97%a5%e5%90%8c%e3%81%98%e9%a3%9f%e4%ba%8b%e3%82%82%e6%a4%9c%e8%a8%8e/</link>
+		<pubDate>Sat, 07 Jul 2018 10:44:55 +0000</pubDate>
+		<dc:creator><![CDATA[330k]]></dc:creator>
+				<category><![CDATA[シンプルライフ]]></category>
+
+		<guid isPermaLink="false">https://330k.biz/?p=205</guid>
+		<description><![CDATA[私は食事にあまり興味がありません。 食事はあくまで栄養を取るための行&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<p>私は食事にあまり興味がありません。<br />
+食事はあくまで栄養を取るための行動ですので、毎日同じメニューでも大丈夫です。</p>
+<p>スティーブ・ジョブズも毎日同じ服を着ていましたし、<br />
+1日3回もある食事のために頭を使うのはシンプルではない、という考えです。</p>
+<p>実際に、ここ4年間、同じメニューで食事を済ませていますが、体調面に特に問題はありません。</p>
+<h1>朝食</h1>
+<p>私は毎朝フルーツグラノーラと牛乳です。</p>
+<p>私の場合、フルーツグラノーラは日清シスコのごろっとフルーツグラノーラがお気に入りです。<br />
+歯ごたえが合って、しっかり噛んで食事する習慣ができるのと、甘すぎないのが理由です。</p>
+<table>
+<tbody>
+<tr>
+<td><iframe style="width: 120px; height: 240px;" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&amp;t=330k-22&amp;m=amazon&amp;o=9&amp;p=8&amp;l=as1&amp;IS1=1&amp;detail=1&amp;asins=B01N6XY9JT&amp;linkId=5c081e90371940cc6630ed5efce2090c&amp;bc1=000000&amp;lt1=_blank&amp;fc1=333333&amp;lc1=0066c0&amp;bg1=ffffff&amp;f=ifr" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
+</iframe></td>
+<td><iframe style="width: 120px; height: 240px;" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&amp;t=330k-22&amp;m=amazon&amp;o=9&amp;p=8&amp;l=as1&amp;IS1=1&amp;detail=1&amp;asins=B01CHRFHS8&amp;linkId=10a66c1bac975148ee2c5a9ccb591ad6&amp;bc1=000000&amp;lt1=_blank&amp;fc1=333333&amp;lc1=0066c0&amp;bg1=ffffff&amp;f=ifr" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
+</iframe></td>
+<td><iframe style="width: 120px; height: 240px;" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&amp;t=330k-22&amp;m=amazon&amp;o=9&amp;p=8&amp;l=as1&amp;IS1=1&amp;detail=1&amp;asins=B07989GCRY&amp;linkId=d7a535e7008385debea8dbd831c660bc&amp;bc1=000000&amp;lt1=_blank&amp;fc1=333333&amp;lc1=0066c0&amp;bg1=ffffff&amp;f=ifr" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
+</iframe></td>
+<td><iframe style="width: 120px; height: 240px;" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&amp;t=330k-22&amp;m=amazon&amp;o=9&amp;p=8&amp;l=as1&amp;IS1=1&amp;detail=1&amp;asins=B01CHRFHYW&amp;linkId=60e778c9d842674a5d20d90f50ea535d&amp;bc1=000000&amp;lt1=_blank&amp;fc1=333333&amp;lc1=0066c0&amp;bg1=ffffff&amp;f=ifr" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><br />
+</iframe></td>
+</tr>
+</tbody>
+</table>
+<p>1食あたりの値段もかなり安くできます。</p>
+<p>フルーツグラノーラは500gのものが573円(2018年7月7日現在)で、1食あたり50g使うと57円。<br />
+牛乳1リットル200円とすると、1食に200ml使ったとき50円。<br />
+合わせて朝食1回あたり107円です。</p>
+<h1>昼食</h1>
+<p>私は会社勤めをしているため、昼食はあまり自由にできないことも多いです。</p>
+<p>ただ、それでも昼食を何にしようか悩んだりすることがないように、<br />
+いくつかパターンを決めています。</p>
+<ul>
+<li>誰かと一緒に外食する場合は、基本他人任せ (自分では決めない)</li>
+<li>一人で外食する場合は、一番近くて混んでないところ</li>
+<li>コンビニで済ます場合は、トルティーヤともう1つパンかおにぎり(売れ残っているもの)</li>
+</ul>
+<p>という感じです。</p>
+<p>やはり、基本的に食事に頭を使わないのがシンプルライフの肝でしょう。</p>
+<h1>夕食</h1>
+<p>2年ほど夕食のみの糖質制限をしていることもあり、コンビニでサラダと鶏肉を買っています。</p>
+<p>コンビニも売り切れていたり、古い商品が消えたりしますので、<br />
+2年間全く同じか、というとそうでもないのですが、<br />
+セブンイレブンでサラダとチキン、必要に応じて翌朝の牛乳も買う、というのが日課です。</p>
+<h1>まとめ</h1>
+<p>食事に対する思いは人それぞれですので、「毎日同じ食事なんて嫌だ」という人も多いかもしれません。</p>
+<p>しかし、世界的に見て日本ほどバラエティに富んだ食生活している国、というのは多くありません。<br />
+ほとんどの人は毎日同じような食事をしています。</p>
+<p>また、毎日同じような食事をしていますと、<br />
+用事や何かでいつもと違う食事をしたときに、特別感が増します。</p>
+<p>頭の中をシンプルな状態に保ちたい、という目的なら毎日同じ食事でもいいですよ。</p>
 ]]></content:encoded>
 			</item>
 	</channel>
