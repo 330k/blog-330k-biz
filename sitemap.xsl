@@ -125,12 +125,22 @@
 		</table>
 	</xsl:template>
 	<xsl:template name="sitemapTable">
+		<xsl:variable name="sitemapType">
+			<xsl:for-each select="/*/namespace::*">
+				<xsl:if test="name()='video'">
+					<xsl:choose>
+						<xsl:when test="name()='video'">video</xsl:when>
+					</xsl:choose>
+				</xsl:if>
+			</xsl:for-each>
+		</xsl:variable>
+
 		<table cellpadding="3">
 			<thead>
 			<tr>
 				<th width="50%">URL</th>
 								<th>Images</th>
-								<th>Priority</th>
+												<th>Priority</th>
 				<th>Change Frequency</th>
 				<th>Last Change</th>
 			</tr>
@@ -150,22 +160,11 @@
 						<a href="{$itemURL}">
 							<xsl:value-of select="sitemap:loc"/>
 						</a>
-						<xsl:for-each select="video:video">
-							<xsl:variable name="thumbURL">
-								<xsl:value-of select="video:thumbnail_loc"/>
-							</xsl:variable>
-							<xsl:variable name="playURL">
-								<xsl:value-of select="video:player_loc"/>
-							</xsl:variable>
-							<xsl:if test="$thumbURL != ''">
-								<a href="{$playURL}"><img src="{$thumbURL}" style="max-width:60px;float:right;"/></a>
-							</xsl:if>
-						</xsl:for-each>
 					</td>
 										<td>
 					<xsl:value-of select="count(image:image)"/>
 					</td>
-										<td>
+															<td>
 						<xsl:if test="string(number(sitemap:priority))!='NaN'">
 							<xsl:value-of select="concat(sitemap:priority*100,'%')"/>
 						</xsl:if>

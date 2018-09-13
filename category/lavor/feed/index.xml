@@ -12,12 +12,48 @@
 	<atom:link href="https://330k.biz/category/lavor/feed/" rel="self" type="application/rss+xml" />
 	<link>https://330k.biz/</link>
 	<description>製造業から金融業に社内SEとして転職。独身。シンプルライフでお金を貯め、アーリーリタイアして隠居を目指します。</description>
-	<lastBuildDate>Sun, 09 Sep 2018 14:53:50 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 13 Sep 2018 12:52:29 +0000</lastBuildDate>
 	<language>ja</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.8</generator>
 	<item>
+		<title>Facebookのページ統合に手間取り中・・・</title>
+		<link>https://330k.biz/2018/09/13/facebook%e3%81%ae%e3%83%9a%e3%83%bc%e3%82%b8%e7%b5%b1%e5%90%88%e3%81%ab%e6%89%8b%e9%96%93%e5%8f%96%e3%82%8a%e4%b8%ad%e3%83%bb%e3%83%bb%e3%83%bb/</link>
+		<pubDate>Thu, 13 Sep 2018 12:52:29 +0000</pubDate>
+		<dc:creator><![CDATA[330k]]></dc:creator>
+				<category><![CDATA[経営]]></category>
+
+		<guid isPermaLink="false">https://330k.biz/?p=329</guid>
+		<description><![CDATA[いくつか乱立してしまっていたFacebookページを統一しよう、とい&#46;&#46;&#46;]]></description>
+				<content:encoded><![CDATA[<p>いくつか乱立してしまっていたFacebookページを統一しよう、ということになり、<br />
+私が担当することになったのですが・・・非常に手間取っています。</p>
+<p>まず、現状を把握してみると・・・</p>
+<ul>
+<li>社長が個人的に会社ページを作っているが、IDを取得できておらず、ここ数年放置されている。<br />
+このページのいいね！数は30弱。</li>
+<li>他に会社ドメインと同じIDを取ったページがあり、そのいいね！数も30弱。</li>
+<li>他にも日本語名と英語名の会社で別々のページができている。</li>
+</ul>
+<p>という状況です。</p>
+<p>どのページも、いいね！数が少なく、PV数も2週間で1PVあるかどうか、という程度でしたので、<br />
+IDを取ったページ以外は削除しようとしたのですが、<br />
+社長が自分が作ったページを削除することに抵抗を示しました。</p>
+<p>そこで、IDを取ったページに統合しようとしたのですが、これがまた面倒でした。</p>
+<ol>
+<li>社長が作ったページに、自分を管理人に加えるよう要請<br />
+→　社長は自分で手を動かさないので、結局3ヶ月待ち。</li>
+<li>管理人になったら、統合するページの名前を似通ったものに変更<br />
+→　新しく管理人になったら、ページの名称変更ができるようになるまで1週間待ち。</li>
+<li>ページの統合を申請<br />
+→　統合されるページの名称変更からさらに1週間待て、とFacebookに言われる。　←　今ここ</li>
+</ol>
+<p>Facebook様の気分次第ではページの統合自体ができない可能性があるのが怖いところ。</p>
+<p>思い入れがあるのは分かりますが、ページを削除するほうが良いと思いますが・・・。</p>
+<p>社長には、経営者としてキズが小さいうちに撤退する判断ができてほしいですね。</p>
+]]></content:encoded>
+			</item>
+		<item>
 		<title>労働者が無理に経営者と同じ考えを持つ必要はありません。</title>
 		<link>https://330k.biz/2018/09/09/%e5%8a%b4%e5%83%8d%e8%80%85%e3%81%8c%e7%84%a1%e7%90%86%e3%81%ab%e7%b5%8c%e5%96%b6%e8%80%85%e3%81%a8%e5%90%8c%e3%81%98%e8%80%83%e3%81%88%e3%82%92%e6%8c%81%e3%81%a4%e5%bf%85%e8%a6%81%e3%81%af%e3%81%82/</link>
 		<pubDate>Sun, 09 Sep 2018 14:53:50 +0000</pubDate>
@@ -419,40 +455,6 @@
 <p>経営というのは、限りある資本を使っていかに効率よく生産するか、を考えることです。<br />
 <strong>従業員の労働時間が無限にあると考えている時点で経営者失格</strong>です。</p>
 <p>経営者が経営者としての判断をしていないことが日本企業の生産性が悪い一因なのでしょう。</p>
-]]></content:encoded>
-			</item>
-		<item>
-		<title>SNSとそれまでのメディアの違い</title>
-		<link>https://330k.biz/2018/06/02/sns%e3%81%a8%e3%81%9d%e3%82%8c%e3%81%be%e3%81%a7%e3%81%ae%e3%83%a1%e3%83%87%e3%82%a3%e3%82%a2%e3%81%ae%e9%81%95%e3%81%84%e3%82%92%e5%88%86%e3%81%8b%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%e3%81%ae/</link>
-		<pubDate>Fri, 01 Jun 2018 15:06:23 +0000</pubDate>
-		<dc:creator><![CDATA[330k]]></dc:creator>
-				<category><![CDATA[経営]]></category>
-
-		<guid isPermaLink="false">https://330k.biz/?p=42</guid>
-		<description><![CDATA[偉い人から「これからの時代はSNSだ。まずはFacebookのページ&#46;&#46;&#46;]]></description>
-				<content:encoded><![CDATA[<p>偉い人から「これからの時代はSNSだ。まずはFacebookのページを作っていいねを集めろ！」と言われて困っています。</p>
-<ul>
-<li>何かアピールしたい事柄があってSNSを活用しろ、というのではなく<br />
-Facebookを使うという手段が目的化</li>
-<li>なぜTwitterやInstagramではなくFacebookか、という論点がない</li>
-<li>しかも現在、FacebookはCA事件で絶賛炎上中というタイミング</li>
-<li>B to B企業では一般大衆に向けた投稿のネタがない</li>
-</ul>
-<p>といった点にもセンスのなさを感じているのですが、<br />
-<strong>何よりSNSとそれまでのメディアの違いを分かっているでしょうか？</strong></p>
-<p><span id="more-42"></span></p>
-<p>SNSが登場するまで社会を構成している個人と企業は、<br />
-あまりコミュニケーションが取れませんでした。</p>
-<p>基本的には企業から消費者への一方通行で、<br />
-消費者から企業、特に企業の社長や担当者といった個人と個人は連絡がつかなかったのです。</p>
-<p>そこに登場したSNSというのは、消費者としての個人と、企業に務める個人をつなぐことができるものです。</p>
-<p><strong>それまで人間味がなかった企業に務める個人の人間味を知ることができるようになりました。</strong></p>
-<p>この点がそれまでとのメディアの最大の違いです。</p>
-<p>実際、SNSをうまく活用している企業では、<br />
-社長本人や、広報担当者の人格、人となりをうまくアピールできています(真面目なところやちょっとふざけたところを両面みせる)。</p>
-<p>ちなみに、炎上リスクについても伝えてみましたが、</p>
-<p><strong>「何か合ったら責任はすべて俺が取る」</strong></p>
-<p>と、上司に言われても信用できない言葉ランキング上位の言葉を言われました。</p>
 ]]></content:encoded>
 			</item>
 	</channel>
